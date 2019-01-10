@@ -1,0 +1,31 @@
+<h3 style="text-align:center">Customers logs</h3>           
+<div id="logContent" *ngIf="forecasts">
+                    <div class="tblHeader">
+                        <div class="tblCell col1">#</div>
+                        <div class="tblCell col2">First Name</div>
+                        <div class="tblCell col3">Last Name</div>
+                    </div>
+                    <div *ngFor="let m of forecasts" class="tblRow">
+                        <div class="logMain" (click)="openLog(m)">
+                            <div class="tblCell col1">{{m.dateFormatted}}</div>
+                            <div class="tblCell col2">{{m.temperatureC}}</div>
+                            <div class="tblCell col3">{{m.temperatureF}}</div>
+                        </div>
+                        <div *ngIf="m.show" class="logDetails" >
+                            <div style="height:300px;">
+                                <h3 style="text-align:center">Stack Trace</h3>
+                                <div style="color:red">
+                                    ConsoleApplication1.MyCustomException: some message .... ---> System.Exception: Oh noes!
+                                    at ConsoleApplication1.SomeObject.OtherMethod() in C:\ConsoleApplication1\SomeObject.cs:line 24
+                                    at ConsoleApplication1.SomeObject..ctor() in C:\ConsoleApplication1\SomeObject.cs:line 14
+                                    --- End of inner exception stack trace ---
+                                    at ConsoleApplication1.SomeObject..ctor() in C:\ConsoleApplication1\SomeObject.cs:line 18
+                                    at ConsoleApplication1.Program.DoSomething() in C:\ConsoleApplication1\Program.cs:line 23
+                                    at ConsoleApplication1.Program.Main(String[] args) in C:\ConsoleApplication1\Program.cs:line 13
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+

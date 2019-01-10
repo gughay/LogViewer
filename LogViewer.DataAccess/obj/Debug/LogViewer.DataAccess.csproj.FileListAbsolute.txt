@@ -1,0 +1,1060 @@
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\netstandard.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.AppContext.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Collections.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.ComponentModel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Console.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Data.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Globalization.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IO.Compression.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IO.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IO.Pipes.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Linq.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.Http.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.Ping.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.Requests.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.Security.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.Sockets.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.ObjectModel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Reflection.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Resources.Reader.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Resources.Writer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Security.Claims.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Security.Principal.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Security.SecureString.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Text.Encoding.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Threading.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Threading.Thread.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Threading.Timer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.ValueTuple.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Xml.XPath.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Remotion.Linq.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Remotion.Linq.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.dll.config
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Chat.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.DeleteTeamProject.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Discussion.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Git.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.TestIntegration.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.SharePointReporting.Integration.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestImpact.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Web.Http.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build.Common.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Chat.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.DeleteTeamProject.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Diff.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Discussion.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Git.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.Common.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.TestIntegration.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.SharePointReporting.Integration.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestImpact.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Web.Http.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csprojResolveAssemblyReference.cache
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.dll.config
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\netstandard.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.AppContext.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Collections.Concurrent.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Collections.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Collections.NonGeneric.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Collections.Specialized.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.ComponentModel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.ComponentModel.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Console.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Data.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Diagnostics.Contracts.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Diagnostics.Debug.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Diagnostics.Process.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Diagnostics.Tools.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Diagnostics.Tracing.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Drawing.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Dynamic.Runtime.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Globalization.Calendars.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Globalization.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Globalization.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IO.Compression.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IO.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IO.FileSystem.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IO.IsolatedStorage.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IO.Pipes.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Linq.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Linq.Expressions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Linq.Parallel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Linq.Queryable.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.Http.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.NameResolution.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.NetworkInformation.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.Ping.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.Requests.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.Security.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.Sockets.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.WebSockets.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.WebSockets.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.ObjectModel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Reflection.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Reflection.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Reflection.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Resources.Reader.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Resources.ResourceManager.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Resources.Writer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.Handles.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.InteropServices.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.Numerics.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Security.Claims.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Security.Principal.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Security.SecureString.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Text.Encoding.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Text.RegularExpressions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Threading.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Threading.Overlapped.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Threading.Tasks.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Threading.Thread.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Threading.ThreadPool.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Threading.Timer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.ValueTuple.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Xml.ReaderWriter.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Xml.XDocument.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Xml.XmlDocument.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Xml.XmlSerializer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Xml.XPath.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.ServiceBus.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Chat.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.DeleteTeamProject.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Discussion.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Git.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.TestIntegration.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.SharePointReporting.Integration.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestImpact.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Newtonsoft.Json.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Remotion.Linq.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.ComponentModel.Annotations.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Data.SqlClient.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Web.Http.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.ServiceBus.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build.Common.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Chat.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Common.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.DeleteTeamProject.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Diff.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Discussion.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Git.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.Common.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.TestIntegration.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.SharePointReporting.Integration.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestImpact.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Newtonsoft.Json.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\Remotion.Linq.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Threading.Tasks.Dataflow.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\System.Web.Http.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csproj.CoreCompileInputs.cache
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csprojResolveAssemblyReference.cache

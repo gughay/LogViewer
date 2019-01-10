@@ -1,0 +1,144 @@
+ h2 {
+    background-color: yellow;
+    text-align: center;
+}
+
+#logContent {
+    /*background-color:red;*/
+    height: 600px !important;
+    overflow-y: visible;
+    height: 90%;
+    overflow-y: scroll;
+    /*border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-width: 1px;
+    border-color: #585555;
+    border-style: solid;*/
+    background-color: #2a3f54;
+    overflow:auto;
+}
+
+ .col1 {
+    width: 10%
+}
+
+.col2 {
+    width: 20%
+}
+
+.col3 {
+    width: 40%
+}
+
+.col4 {
+    width: 50%
+}
+
+.col5 {
+    width: 60%
+}
+
+.col6 {
+    width: 70%
+}
+
+.col7 {
+    width: 80%
+}
+
+.col8 {
+    width: 90%
+}
+
+.col9 {
+    width: 100%
+}
+
+.col10 {
+    width: 30%
+}
+
+
+.tblHeader {
+    background-color: #2a3f54;
+    border-bottom-width: 1px;
+    border-bottom-color: #585555;
+    border-bottom-style: solid;
+    padding-left: 3px;
+    height: 30px;
+}
+
+.tblRow {
+    cursor: pointer;
+    background-color: #2a3f54;
+    border-bottom-width: 0.5px;
+    border-bottom-color: #585555;
+    border-bottom-style: solid;
+    padding-left: 3px;
+}
+
+.tblCell {
+    display: inline-block;
+    color: white;
+}
+
+/*.tblRow:nth-child(odd) {
+        background-color: rgba(0,0,0,.87);
+    }
+
+    .tblRow:nth-child(even) {
+        background-color: #232323;
+    }*/
+
+.logMain:hover {
+    background-color: #233446;
+    color: black;
+}
+
+.logDetails {
+    background-color: #233446;
+    color: aquamarine;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    overflow:auto;
+}
+
+.logMain {
+    color: aquamarine;
+    height: 30px;
+}
+
+ .logNavBar {
+    height: 50px;
+    background-color: #222;
+    border-radius: 4px 4px 0 0;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-width: 1px;
+    border-color: #585555;
+    border-style: solid;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: white;
+    -webkit-border-radius: 10px;
+    border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 0px;
+    background: #2a3f54;
+}
+
+
+

@@ -1,0 +1,31 @@
+<div id="myModal" class="customerModal" *ngIf="show==true">
+    <!-- Modal content -->
+    <div class="customModalHeader">
+        Share log with coworkers
+        <span class="customeModalClose"><i class="fa fa-times" aria-hidden="true"></i></span>
+    </div>
+    <div class="customerModalContent">
+        <!--<span class="close">&times;</span>
+        <p>Some text in the Modal..</p>-->
+        <div class="input-group" style="margin-bottom:1px">
+            <span class="input-group-addon" id="btnGroupAddon"><i class="fa fa-envelope" aria-hidden="true"></i></span>
+            <input type="text" class="form-control" placeholder="Email" aria-describedby="btnGroupAddon">
+        </div>
+        <div class="form-group">
+            <textarea class="form-control" rows="6" id="comment" placeholder="Subject"></textarea>
+        </div>
+    </div>
+    <div class="customModalFooter">
+        <div class="btn-group">
+            <button type="button" class="btn btn-primary" (click)="shareLog()" style="background-color:#2a3f54">
+                <!--<i class="fa fa-share" aria-hidden="true"></i>--> Save
+            </button>
+            <button type="button" class="btn btn-default" (click)="shareLog()">
+                <!--<i class="fa fa-share" aria-hidden="true"></i>--> Cansel
+            </button>
+        </div>
+    </div>
+</div>
+
+
+

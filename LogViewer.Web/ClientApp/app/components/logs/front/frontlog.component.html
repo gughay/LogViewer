@@ -1,0 +1,67 @@
+<h3 style="text-align:center">Front logs</h3>
+<div class="container" style="height:650px;overflow:auto">
+    <div style="height:600px;overflow:auto">
+        <table class="table  table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Message</th>
+                    <th>Inner Exception</th>
+                    <th>Stack Trace</th>
+                    <th style="max-width:15px"></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let log of logs">
+                    <td>{{log.logId}}</td>
+                    <td>{{log.message}}</td>
+                    <td>{{log.stacktrace}}</td>
+                    <td> {{log.innerException}}</td>
+                    <td style="width:15px">
+                        <div  class="btn-group">
+                            <button type="button" class="btn btn-default" (click)="shareLog()" data-placement="bottom" data-toggle="tooltip" data-original-title="Share">
+                                <i class="fa fa-share" aria-hidden="true"></i> Share
+                            </button>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <!--<email [logId]="100" [show]="showEmailForm"></email>-->
+    <toaster-container ></toaster-container>
+
+    <div id="myModal" class="customerModal" *ngIf="showEmailForm">
+        <!-- Modal content -->
+        <div class="customModalHeader">
+            Share log with coworkers
+            <span class="customeModalClose" (click)="closeEmailForm()"><i class="fa fa-times" aria-hidden="true"></i></span>
+        </div>
+        <div class="customerModalContent">
+            <!--<span class="close">&times;</span>
+            <p>Some text in the Modal..</p>-->
+            <div class="input-group" style="margin-bottom:1px">
+                <span class="input-group-addon" id="btnGroupAddon"><i class="fa fa-envelope" aria-hidden="true"></i></span>
+                <input [(ngModel)]="email"  type="text" class="form-control" placeholder="Email" aria-describedby="btnGroupAddon">
+            </div>
+            <div class="form-group">
+                <textarea [(ngModel)]="emailSubject" class="form-control" rows="6" id="comment" placeholder="Subject"></textarea>
+            </div>
+        </div>
+        <div class="customModalFooter">
+            <div class="btn-group">
+                <button type="button" class="btn btn-primary" (click)="sendEmail()"  style="background-color:#2a3f54">
+                    <!--<i class="fa fa-share" aria-hidden="true"></i>--> Save
+                </button>
+                <button type="button" class="btn btn-default" (click)="popToast()">
+                    <!--<i class="fa fa-share" aria-hidden="true"></i>--> Cansel
+                </button>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+

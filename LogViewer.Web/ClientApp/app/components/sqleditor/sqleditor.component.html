@@ -1,0 +1,58 @@
+<div class="col-md-6 ">
+        <div class="x_panel" style="height:700px">
+            <div class="x_title">
+                <div class="btn-group">
+                    <button style="color:#568856" type="button" class="btn btn-default" (click)="executeQuery()" data-placement="bottom" data-toggle="tooltip"  data-original-title="Execute query">
+                    <span class="glyphicon glyphicon-play-circle" style="color:#82a782"> 
+                        </span>Execute
+                    </button>
+                    <button style="color:#b56780" type="button" class="btn btn-default" (click)="cleanEditor()" data-placement="bottom" data-toggle="tooltip"  data-original-title="Clean editor">
+                       <i class="fa fa-trash-o" aria-hidden="true" style="margin-left:1px"></i>Clean
+                    </button>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+            <codemirror [(ngModel)]="content" [config]="config" (blur)="setSelected(instance,$event)"></codemirror>
+                <div style="height:100px; background-color:aliceblue">
+
+                    
+                </div>
+                
+           </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="x_panel" style="height:700px;overflow-y:auto">
+            <div class="x_title">
+                <h2 style="text-align:center">Query results </h2>
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                <div *ngFor="let t of sqlResult; let i = index" style="max-height:200px;overflow:auto;margin:15px;">
+                    <table class='queryResultTbl'>
+                        <thead>
+                            <tr>
+                                <th *ngFor="let c of t.columns">{{c}}</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let r of t.rows;let j = index" >
+                                <td *ngFor="let c of r; let k = index"> <textarea class="initTextArea" id="textArea_{{i}}_{{j}}_{{k}}"  (blur)="textAreaBlur($event)" readonly> {{c}}  </textarea>   </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<style>
+    .map-container-inner {
+        width: 800px;
+        height: 800px;
+    }
+</style>
+

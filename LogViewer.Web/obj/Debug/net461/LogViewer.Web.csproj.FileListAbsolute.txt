@@ -1,0 +1,1132 @@
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.Web.exe.config
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.Web.deps.json
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.Web.exe
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.Web.pdb
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\Microsoft.AspNetCore.Mvc.Razor.ViewCompilation-x86.exe
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\netfx.force.conflicts.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\netstandard.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.AppContext.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Collections.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Collections.Specialized.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.ComponentModel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Console.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Data.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Globalization.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.IO.Compression.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.IO.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.IO.FileSystem.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.IO.Pipes.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Linq.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Linq.Expressions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Linq.Parallel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Linq.Queryable.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Net.Http.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Net.NameResolution.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Net.Ping.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Net.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Net.Requests.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Net.Security.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Net.Sockets.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Net.WebSockets.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.ObjectModel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Reflection.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Resources.Reader.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Resources.Writer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Handles.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Security.Claims.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Security.Principal.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Security.SecureString.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Text.Encoding.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Threading.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Threading.Tasks.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Threading.Thread.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Threading.Timer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.ValueTuple.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Xml.XDocument.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Xml.XPath.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\libuv.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Esent.Interop.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Identity.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Sockets.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Sockets.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Sockets.Common.Http.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Sockets.Http.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Options.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Win32.Registry.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\MsgPack.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\NuGet.Frameworks.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Remotion.Linq.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Binary.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Buffers.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Buffers.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Collections.Immutable.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.ComponentModel.Annotations.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Composition.AttributedModel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Composition.Convention.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Composition.Hosting.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Composition.Runtime.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Composition.TypedParts.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Data.SqlClient.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Interactive.Async.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Memory.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Reflection.Metadata.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Security.AccessControl.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Security.Principal.Windows.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Text.Encodings.Web.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Threading.Tasks.Channels.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\netstandard.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.AppContext.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Collections.Concurrent.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Collections.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Collections.NonGeneric.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Collections.Specialized.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.ComponentModel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.ComponentModel.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Console.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Data.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Diagnostics.Contracts.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Diagnostics.Debug.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Diagnostics.Process.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Diagnostics.Tools.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Diagnostics.Tracing.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Drawing.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Dynamic.Runtime.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Globalization.Calendars.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Globalization.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Globalization.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IO.Compression.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IO.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IO.FileSystem.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IO.IsolatedStorage.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IO.Pipes.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Linq.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Linq.Expressions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Linq.Parallel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Linq.Queryable.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.Http.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.NameResolution.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.NetworkInformation.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.Ping.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.Requests.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.Security.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.Sockets.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.WebSockets.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.WebSockets.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.ObjectModel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Reflection.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Reflection.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Reflection.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Resources.Reader.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Resources.ResourceManager.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Resources.Writer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.Handles.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.InteropServices.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.Numerics.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Security.Claims.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Security.Principal.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Security.SecureString.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Text.Encoding.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Text.RegularExpressions.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Threading.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Threading.Overlapped.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Threading.Tasks.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Threading.Thread.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Threading.ThreadPool.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Threading.Timer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.ValueTuple.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Xml.ReaderWriter.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Xml.XDocument.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Xml.XmlDocument.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Xml.XmlSerializer.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Xml.XPath.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.BusinessLogic.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.BusinessLogic.pdb
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.Common.pdb
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\obj\Debug\net461\LogViewer.Web.csprojResolveAssemblyReference.cache
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\obj\Debug\net461\LogViewer.Web.csproj.LogViewer.Web.exe.config
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\obj\Debug\net461\LogViewer.Web.csproj.CoreCompileInputs.cache
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\obj\Debug\net461\UserSecretsAssemblyInfo.cs
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\obj\Debug\net461\LogViewer.Web.AssemblyInfoInputs.cache
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\obj\Debug\net461\LogViewer.Web.AssemblyInfo.cs
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\obj\Debug\net461\LogViewer.Web.exe
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\obj\Debug\net461\LogViewer.Web.pdb
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.Client.Interactive.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Diff.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.Http.Formatting.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.ServiceBus.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.BusinessLogic.dll.config
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\LogViewer.DataAccess.dll.config
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Common.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Core.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.Client.Interactive.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Work.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Diff.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Common.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Common.Integration.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.Net.Http.Formatting.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.ServiceBus.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.WebApi.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Common.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Proxy.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.xml
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\Gug\Desktop\LV\LVMigration\LogViewer.Web\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.Web.exe.config
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.Web.deps.json
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.Web.exe
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.Web.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\Microsoft.AspNetCore.Mvc.Razor.ViewCompilation-x86.exe
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\netfx.force.conflicts.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\netstandard.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.AppContext.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Collections.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Collections.Specialized.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.ComponentModel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Console.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Data.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Globalization.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.IO.Compression.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.IO.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.IO.FileSystem.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.IO.Pipes.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Linq.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Linq.Expressions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Linq.Parallel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Linq.Queryable.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Net.Http.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Net.NameResolution.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Net.Ping.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Net.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Net.Requests.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Net.Security.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Net.Sockets.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Net.WebSockets.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.ObjectModel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Reflection.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Resources.Reader.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Resources.Writer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Handles.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Security.Claims.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Security.Principal.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Security.SecureString.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Text.Encoding.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Threading.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Threading.Tasks.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Threading.Thread.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Threading.Timer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.ValueTuple.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Xml.XDocument.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Xml.XPath.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\libuv.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Esent.Interop.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authentication.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Identity.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.NodeServices.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.SignalR.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.SignalR.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.SignalR.Core.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Sockets.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Sockets.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Sockets.Common.Http.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.Sockets.Http.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.SpaServices.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.WebSockets.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Identity.Core.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Identity.Stores.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Options.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\dotnet-aspnet-codegenerator-design.exe
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Win32.Registry.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\MsgPack.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Newtonsoft.Json.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\NuGet.Frameworks.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Remotion.Linq.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Binary.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Buffers.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Buffers.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Collections.Immutable.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.ComponentModel.Annotations.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Composition.AttributedModel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Composition.Convention.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Composition.Hosting.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Composition.Runtime.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Composition.TypedParts.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Data.SqlClient.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Interactive.Async.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Memory.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Numerics.Vectors.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Reflection.Metadata.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Security.AccessControl.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Security.Principal.Windows.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Text.Encodings.Web.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Threading.Tasks.Channels.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\netstandard.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.AppContext.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Collections.Concurrent.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Collections.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Collections.NonGeneric.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Collections.Specialized.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.ComponentModel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.ComponentModel.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Console.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Data.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Diagnostics.Contracts.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Diagnostics.Debug.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Diagnostics.Process.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Diagnostics.Tools.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Diagnostics.Tracing.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Drawing.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Dynamic.Runtime.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Globalization.Calendars.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Globalization.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Globalization.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IO.Compression.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IO.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IO.FileSystem.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IO.IsolatedStorage.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IO.Pipes.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Linq.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Linq.Expressions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Linq.Parallel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Linq.Queryable.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.Http.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.NameResolution.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.NetworkInformation.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.Ping.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.Requests.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.Security.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.Sockets.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.WebSockets.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.WebSockets.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.ObjectModel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Reflection.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Reflection.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Reflection.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Resources.Reader.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Resources.ResourceManager.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Resources.Writer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.Handles.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.InteropServices.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.Numerics.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Security.Claims.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Security.Principal.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Security.SecureString.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Text.Encoding.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Text.RegularExpressions.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Threading.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Threading.Overlapped.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Threading.Tasks.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Threading.Thread.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Threading.ThreadPool.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Threading.Timer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.ValueTuple.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Xml.ReaderWriter.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Xml.XDocument.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Xml.XmlDocument.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Xml.XmlSerializer.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Xml.XPath.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.BusinessLogic.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.DataAccess.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Core.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.Client.Interactive.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Work.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Diff.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.Http.Formatting.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IdentityModel.Tokens.Jwt.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.ServiceBus.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.BusinessLogic.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.BusinessLogic.dll.config
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.Common.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.DataAccess.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\LogViewer.DataAccess.dll.config
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Common.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Core.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.Common.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.VisualStudio.Services.Client.Interactive.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Work.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.Diff.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Common.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.VersionControl.Common.Integration.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.Net.Http.Formatting.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IdentityModel.Tokens.Jwt.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\System.IdentityModel.Tokens.Jwt.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.ServiceBus.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.WebApi.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Common.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Proxy.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\cs\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\de\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\es\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\fr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\it\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ja\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ko\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pl\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\ru\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\tr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461\LogViewer.Web.csprojResolveAssemblyReference.cache
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461\LogViewer.Web.csproj.LogViewer.Web.exe.config
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461\LogViewer.Web.csproj.CoreCompileInputs.cache
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461\UserSecretsAssemblyInfo.cs
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461\LogViewer.Web.AssemblyInfoInputs.cache
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461\LogViewer.Web.AssemblyInfo.cs
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461\LogViewer.Web.exe
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461\LogViewer.Web.pdb
