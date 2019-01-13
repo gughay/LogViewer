@@ -53,9 +53,7 @@ import { YaCoreModule } from 'angular2-yandex-maps';
             { path: 'aparikTexumLogs', component: AparikTexumLogComponent },
             { path: 'orders', component: OrderComponent },
             { path: 'sqleditor', component: SqlEditorComponent },
-            { path: 'frontlogdetails', component: FrontLogDetailsComponent},
-            //{ path: '**', redirectTo: 'home' }
-            { path: '**', redirectTo: 'sqleditor' }
+            { path: 'frontlogdetails/:id', component: FrontLogDetailsComponent },            //{ path: '**', redirectTo: 'home' }
         ])
     ]
 })

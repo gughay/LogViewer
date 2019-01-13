@@ -1130,3 +1130,6 @@ G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461
 G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461\LogViewer.Web.AssemblyInfo.cs
 G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461\LogViewer.Web.exe
 G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\obj\Debug\net461\LogViewer.Web.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\AutoMapper.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\AutoMapper.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.Web\bin\Debug\net461\AutoMapper.xml

@@ -498,3 +498,8 @@ G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.BusinessLogic\obj\De
 G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.BusinessLogic\obj\Debug\LogViewer.BusinessLogic.csproj.CoreCompileInputs.cache
 G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.BusinessLogic\obj\Debug\LogViewer.BusinessLogic.dll
 G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.BusinessLogic\obj\Debug\LogViewer.BusinessLogic.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.BusinessLogic\bin\Debug\AutoMapper.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.BusinessLogic\bin\Debug\System.ValueTuple.dll
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.BusinessLogic\bin\Debug\AutoMapper.pdb
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.BusinessLogic\bin\Debug\AutoMapper.xml
+G:\Gurgen\New folder (2)\Angular5ExampleMigration\LogViewer.BusinessLogic\bin\Debug\System.ValueTuple.xml

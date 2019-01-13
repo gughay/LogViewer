@@ -2,10 +2,10 @@
 using Microsoft.EntityFrameworkCore;
 namespace LogViewer.DataAccess.EntityFramework.DBContexts
 {
-   public  class LogDBContext : DbContext
+   public  class OrderDBContext : DbContext
     {
-        public DbSet<Log> Logs { get; set; }
-        public LogDBContext()
+        public DbSet<Order> Orders { get; set; }
+        public OrderDBContext()
         {
             Database.EnsureCreated();
         }

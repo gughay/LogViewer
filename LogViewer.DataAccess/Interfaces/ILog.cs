@@ -9,6 +9,6 @@ namespace LogViewer.DataAccess.Interfaces
 {
     public interface ILog
     {
-        IEnumerable<Log> GetAll();
+        List<Log> GetAll();
     }
 }

@@ -8,8 +8,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using LogViewer.Web.Data;
-using LogViewer.Web.Models;
 using Microsoft.AspNetCore.SpaServices.Webpack;
 using LogViewer.Web.Hubs;
 using LogViewer.BusinessLogic.Interfaces;
@@ -29,14 +27,8 @@ namespace Logviewer.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-
-            services.AddIdentity<ApplicationUser, IdentityRole>()
-                .AddEntityFrameworkStores<ApplicationDbContext>()
-                .AddDefaultTokenProviders();
             services.AddSignalR();
-            // Add application services.
+            // Application services.
             services.AddMvc();
             services.AddTransient<ITfsApi, TfsApiService>();
             services.AddTransient<IOrder, OrderService>();

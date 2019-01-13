@@ -25,11 +25,13 @@ export class FrontLogComponent implements OnInit {
         this.baseUrl = baseUrl;
         this.http = http;
         this.toasterService = toasterService;
+
+
     }
 
     ngOnInit(): void {
-
-        this.http.get(this.baseUrl + 'api/Log/Getlogs').subscribe(result => {
+        this.http.get(this.baseUrl + 'Log/GetAll').subscribe(result => {
+            console.log(this.baseUrl)
             this.logs = result.json() as Log[];
             console.log(this.logs)
         }, error => console.error(error));
@@ -45,7 +47,8 @@ export class FrontLogComponent implements OnInit {
             .then(() => console.log('Connected'));
     }
 
- openLog(m) {
+
+    openLog(m) {
         m.show = !m.show;
         this.previousLog = this.currentLog;
         this.currentLog = m;
@@ -54,9 +57,9 @@ export class FrontLogComponent implements OnInit {
         }
     }
 
- openLogDetails() {
-     this.router.navigateByUrl('/frontlogdetails');
- }
+    openLogDetails(logId) {
+        this.router.navigate(['/frontlogdetails', logId]);
+    }
 
  shareLog() {
      this.showEmailForm = true;
@@ -91,12 +94,16 @@ export class FrontLogComponent implements OnInit {
  }
 
 }
-
 interface Log {
-    logId: number;
+    id: number;
+    createdOn: any;
+    logger: string;
+    logLevel: string;
+    exceptionType: string;
     message: string;
     stackTrace: string;
-    innerException: string;
+    clientIp: string;
+    userName: string;
 }
 
 

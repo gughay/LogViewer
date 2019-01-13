@@ -10,8 +10,6 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using LogViewer.Web.Models;
-using LogViewer.Web.Models.ManageViewModels;
 using LogViewer.Web.Services;
 using LogViewer.BusinessLogic.Interfaces;
 

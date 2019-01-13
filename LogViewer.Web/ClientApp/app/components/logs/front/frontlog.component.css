@@ -1,4 +1,4 @@
- h2 {
+h2 {
     /*background-color: yellow;*/
     text-align: center;
 }
@@ -12,10 +12,10 @@
     border-color: #585555;
     border-style: solid;*/
     background-color: #2a3f54;
-    overflow:auto;
+    overflow: auto;
 }
 
- .col1 {
+.col1 {
     width: 10%
 }
 
@@ -100,7 +100,7 @@
     margin-right: 20px;
     margin-bottom: 10px;
     border-radius: 3px;
-    overflow:auto;
+    overflow: auto;
 }
 
 .logMain {
@@ -108,7 +108,7 @@
     height: 30px;
 }
 
- .logNavBar {
+.logNavBar {
     height: 50px;
     background-color: #222;
     border-radius: 4px 4px 0 0;
@@ -120,7 +120,7 @@
     border-style: solid;
 }
 
-/*::-webkit-scrollbar {
+::-webkit-scrollbar {
     width: 5px;
 }
 
@@ -134,8 +134,8 @@
     -webkit-border-radius: 10px;
     border-radius: 0px;
     background: #1c695a;
-}*/
+}
 
-
-
-
+:host > > > h3 {
+    color: green;
+}

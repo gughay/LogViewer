@@ -27,26 +27,37 @@ p {
 }
 
 #navBar {
-    width: 49%;
-    height: 600px;
+    /*display:inline-block;
+    margin:10px;
+    width:40%;
+    padding: 5px;
+    background: #fff;
+    height:600px;*/
+    width: 39%;
+    height: 700px;
     background: #fff;
     float: left;
     padding: 10px;
-    margin-left:10px;
+    margin-left: 10px;
 }
+
 #fileDetails {
-    width: 49%;
-    height: 600px;
+    width: 59%;
+    height: 700px;
     background: #fff;
     float: right;
-    padding:10px;
-    margin-left:10px;
-    overflow:auto;
+    padding: 10px;
+    margin-left: 10px;
+    overflow: auto;
 }
+
 section {
     display: none;
     padding: 20px 0 0;
     border-top: 1px solid #ddd;
+    height: 600px;
+    overflow: auto;
+    padding: 10px;
 }
 
 input {
@@ -103,6 +114,13 @@ input:checked + label {
 #tab4:checked ~ #content4 {
     display: block;
 }
+
+.CodeMirror {
+    /* Set height, width, borders, and global font properties here */
+    font-family: monospace !important;
+    height: 500px !important;
+}
+
 
 @media screen and (max-width: 650px) {
     label {

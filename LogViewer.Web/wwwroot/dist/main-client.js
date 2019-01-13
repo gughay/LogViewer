@@ -59,7 +59,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "a0bbc7e9940f7214ee4e"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "22fd8379fa20be0cf3d2"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
@@ -816,7 +816,7 @@ function toComment(sourceMap) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_Observable__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_Observable__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_ya_maps_loader__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_ya_maps_loader__ = __webpack_require__(21);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__utils_browser_globals__ = __webpack_require__(8);
 
 
@@ -986,9 +986,9 @@ var BodyOutputType;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_Observable__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_Observable__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_share__ = __webpack_require__(90);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_share__ = __webpack_require__(89);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_share___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_share__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Subject__ = __webpack_require__(116);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Subject__ = __webpack_require__(115);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Subject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_Subject__);
 
 
@@ -10794,20 +10794,26 @@ module.exports = (__webpack_require__(1))(60);
 
 /***/ }),
 /* 13 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = (__webpack_require__(1))(64);
+
+/***/ }),
+/* 14 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__src_toast_component__ = __webpack_require__(14);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__src_toast_component__ = __webpack_require__(15);
 /* unused harmony reexport ToastComponent */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__src_toaster_container_component__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__src_toaster_container_component__ = __webpack_require__(17);
 /* unused harmony reexport ToasterContainerComponent */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__src_toaster_service__ = __webpack_require__(7);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_2__src_toaster_service__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__src_toaster_config__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__src_toaster_config__ = __webpack_require__(16);
 /* unused harmony reexport ToasterConfig */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__src_bodyOutputType__ = __webpack_require__(6);
 /* unused harmony reexport BodyOutputType */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__src_toaster_module__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__src_toaster_module__ = __webpack_require__(32);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_5__src_toaster_module__["a"]; });
 
 
@@ -10818,7 +10824,7 @@ module.exports = (__webpack_require__(1))(60);
 //# sourceMappingURL=angular2-toaster.js.map
 
 /***/ }),
-/* 14 */
+/* 15 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -10880,7 +10886,7 @@ ToastComponent.propDecorators = {
 //# sourceMappingURL=toast.component.js.map
 
 /***/ }),
-/* 15 */
+/* 16 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -10927,14 +10933,14 @@ var ToasterConfig = (function () {
 //# sourceMappingURL=toaster-config.js.map
 
 /***/ }),
-/* 16 */
+/* 17 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ToasterContainerComponent; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_animations__ = __webpack_require__(12);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__toaster_config__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__toaster_config__ = __webpack_require__(16);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__toaster_service__ = __webpack_require__(7);
 
 
@@ -11202,7 +11208,7 @@ ToasterContainerComponent.propDecorators = {
 //# sourceMappingURL=toaster-container.component.js.map
 
 /***/ }),
-/* 17 */
+/* 18 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11247,7 +11253,7 @@ var ClasterManager = /** @class */ (function () {
 //# sourceMappingURL=claster-manager.js.map
 
 /***/ }),
-/* 18 */
+/* 19 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11316,7 +11322,7 @@ var MarkerManager = /** @class */ (function () {
 //# sourceMappingURL=marker-manager.js.map
 
 /***/ }),
-/* 19 */
+/* 20 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11364,7 +11370,7 @@ var ObjectManagerManager = /** @class */ (function () {
 //# sourceMappingURL=objectManager-manager.js.map
 
 /***/ }),
-/* 20 */
+/* 21 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11408,14 +11414,12 @@ var YaMapsAPILoader = /** @class */ (function () {
 //# sourceMappingURL=ya-maps-loader.js.map
 
 /***/ }),
-/* 21 */
+/* 22 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppComponent; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__aspnet_signalr_client__ = __webpack_require__(27);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__aspnet_signalr_client___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__aspnet_signalr_client__);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -11423,23 +11427,22 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 
-
 var AppComponent = (function () {
     function AppComponent() {
     }
     AppComponent.prototype.ngOnInit = function () {
-        var connection = new __WEBPACK_IMPORTED_MODULE_1__aspnet_signalr_client__["HubConnection"]('/message');
-        connection.on('send', function (data) {
-            console.log(data);
-        });
-        connection.start()
-            .then(function () { return console.log('Connected'); });
+        //let connection = new HubConnection('/message');
+        //connection.on('send', data => {
+        //    console.log(data);
+        //});
+        //connection.start()
+        //    .then(() => console.log('Connected'));
     };
     AppComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
             selector: 'app',
-            template: __webpack_require__(70),
-            styles: [__webpack_require__(99)]
+            template: __webpack_require__(69),
+            styles: [__webpack_require__(98)]
         })
     ], AppComponent);
     return AppComponent;
@@ -11448,7 +11451,7 @@ var AppComponent = (function () {
 
 
 /***/ }),
-/* 22 */
+/* 23 */
 /***/ (function(module, exports) {
 
 var ENTITIES = [['Aacute', [193]], ['aacute', [225]], ['Abreve', [258]], ['abreve', [259]], ['ac', [8766]], ['acd', [8767]], ['acE', [8766, 819]], ['Acirc', [194]], ['acirc', [226]], ['acute', [180]], ['Acy', [1040]], ['acy', [1072]], ['AElig', [198]], ['aelig', [230]], ['af', [8289]], ['Afr', [120068]], ['afr', [120094]], ['Agrave', [192]], ['agrave', [224]], ['alefsym', [8501]], ['aleph', [8501]], ['Alpha', [913]], ['alpha', [945]], ['Amacr', [256]], ['amacr', [257]], ['amalg', [10815]], ['amp', [38]], ['AMP', [38]], ['andand', [10837]], ['And', [10835]], ['and', [8743]], ['andd', [10844]], ['andslope', [10840]], ['andv', [10842]], ['ang', [8736]], ['ange', [10660]], ['angle', [8736]], ['angmsdaa', [10664]], ['angmsdab', [10665]], ['angmsdac', [10666]], ['angmsdad', [10667]], ['angmsdae', [10668]], ['angmsdaf', [10669]], ['angmsdag', [10670]], ['angmsdah', [10671]], ['angmsd', [8737]], ['angrt', [8735]], ['angrtvb', [8894]], ['angrtvbd', [10653]], ['angsph', [8738]], ['angst', [197]], ['angzarr', [9084]], ['Aogon', [260]], ['aogon', [261]], ['Aopf', [120120]], ['aopf', [120146]], ['apacir', [10863]], ['ap', [8776]], ['apE', [10864]], ['ape', [8778]], ['apid', [8779]], ['apos', [39]], ['ApplyFunction', [8289]], ['approx', [8776]], ['approxeq', [8778]], ['Aring', [197]], ['aring', [229]], ['Ascr', [119964]], ['ascr', [119990]], ['Assign', [8788]], ['ast', [42]], ['asymp', [8776]], ['asympeq', [8781]], ['Atilde', [195]], ['atilde', [227]], ['Auml', [196]], ['auml', [228]], ['awconint', [8755]], ['awint', [10769]], ['backcong', [8780]], ['backepsilon', [1014]], ['backprime', [8245]], ['backsim', [8765]], ['backsimeq', [8909]], ['Backslash', [8726]], ['Barv', [10983]], ['barvee', [8893]], ['barwed', [8965]], ['Barwed', [8966]], ['barwedge', [8965]], ['bbrk', [9141]], ['bbrktbrk', [9142]], ['bcong', [8780]], ['Bcy', [1041]], ['bcy', [1073]], ['bdquo', [8222]], ['becaus', [8757]], ['because', [8757]], ['Because', [8757]], ['bemptyv', [10672]], ['bepsi', [1014]], ['bernou', [8492]], ['Bernoullis', [8492]], ['Beta', [914]], ['beta', [946]], ['beth', [8502]], ['between', [8812]], ['Bfr', [120069]], ['bfr', [120095]], ['bigcap', [8898]], ['bigcirc', [9711]], ['bigcup', [8899]], ['bigodot', [10752]], ['bigoplus', [10753]], ['bigotimes', [10754]], ['bigsqcup', [10758]], ['bigstar', [9733]], ['bigtriangledown', [9661]], ['bigtriangleup', [9651]], ['biguplus', [10756]], ['bigvee', [8897]], ['bigwedge', [8896]], ['bkarow', [10509]], ['blacklozenge', [10731]], ['blacksquare', [9642]], ['blacktriangle', [9652]], ['blacktriangledown', [9662]], ['blacktriangleleft', [9666]], ['blacktriangleright', [9656]], ['blank', [9251]], ['blk12', [9618]], ['blk14', [9617]], ['blk34', [9619]], ['block', [9608]], ['bne', [61, 8421]], ['bnequiv', [8801, 8421]], ['bNot', [10989]], ['bnot', [8976]], ['Bopf', [120121]], ['bopf', [120147]], ['bot', [8869]], ['bottom', [8869]], ['bowtie', [8904]], ['boxbox', [10697]], ['boxdl', [9488]], ['boxdL', [9557]], ['boxDl', [9558]], ['boxDL', [9559]], ['boxdr', [9484]], ['boxdR', [9554]], ['boxDr', [9555]], ['boxDR', [9556]], ['boxh', [9472]], ['boxH', [9552]], ['boxhd', [9516]], ['boxHd', [9572]], ['boxhD', [9573]], ['boxHD', [9574]], ['boxhu', [9524]], ['boxHu', [9575]], ['boxhU', [9576]], ['boxHU', [9577]], ['boxminus', [8863]], ['boxplus', [8862]], ['boxtimes', [8864]], ['boxul', [9496]], ['boxuL', [9563]], ['boxUl', [9564]], ['boxUL', [9565]], ['boxur', [9492]], ['boxuR', [9560]], ['boxUr', [9561]], ['boxUR', [9562]], ['boxv', [9474]], ['boxV', [9553]], ['boxvh', [9532]], ['boxvH', [9578]], ['boxVh', [9579]], ['boxVH', [9580]], ['boxvl', [9508]], ['boxvL', [9569]], ['boxVl', [9570]], ['boxVL', [9571]], ['boxvr', [9500]], ['boxvR', [9566]], ['boxVr', [9567]], ['boxVR', [9568]], ['bprime', [8245]], ['breve', [728]], ['Breve', [728]], ['brvbar', [166]], ['bscr', [119991]], ['Bscr', [8492]], ['bsemi', [8271]], ['bsim', [8765]], ['bsime', [8909]], ['bsolb', [10693]], ['bsol', [92]], ['bsolhsub', [10184]], ['bull', [8226]], ['bullet', [8226]], ['bump', [8782]], ['bumpE', [10926]], ['bumpe', [8783]], ['Bumpeq', [8782]], ['bumpeq', [8783]], ['Cacute', [262]], ['cacute', [263]], ['capand', [10820]], ['capbrcup', [10825]], ['capcap', [10827]], ['cap', [8745]], ['Cap', [8914]], ['capcup', [10823]], ['capdot', [10816]], ['CapitalDifferentialD', [8517]], ['caps', [8745, 65024]], ['caret', [8257]], ['caron', [711]], ['Cayleys', [8493]], ['ccaps', [10829]], ['Ccaron', [268]], ['ccaron', [269]], ['Ccedil', [199]], ['ccedil', [231]], ['Ccirc', [264]], ['ccirc', [265]], ['Cconint', [8752]], ['ccups', [10828]], ['ccupssm', [10832]], ['Cdot', [266]], ['cdot', [267]], ['cedil', [184]], ['Cedilla', [184]], ['cemptyv', [10674]], ['cent', [162]], ['centerdot', [183]], ['CenterDot', [183]], ['cfr', [120096]], ['Cfr', [8493]], ['CHcy', [1063]], ['chcy', [1095]], ['check', [10003]], ['checkmark', [10003]], ['Chi', [935]], ['chi', [967]], ['circ', [710]], ['circeq', [8791]], ['circlearrowleft', [8634]], ['circlearrowright', [8635]], ['circledast', [8859]], ['circledcirc', [8858]], ['circleddash', [8861]], ['CircleDot', [8857]], ['circledR', [174]], ['circledS', [9416]], ['CircleMinus', [8854]], ['CirclePlus', [8853]], ['CircleTimes', [8855]], ['cir', [9675]], ['cirE', [10691]], ['cire', [8791]], ['cirfnint', [10768]], ['cirmid', [10991]], ['cirscir', [10690]], ['ClockwiseContourIntegral', [8754]], ['clubs', [9827]], ['clubsuit', [9827]], ['colon', [58]], ['Colon', [8759]], ['Colone', [10868]], ['colone', [8788]], ['coloneq', [8788]], ['comma', [44]], ['commat', [64]], ['comp', [8705]], ['compfn', [8728]], ['complement', [8705]], ['complexes', [8450]], ['cong', [8773]], ['congdot', [10861]], ['Congruent', [8801]], ['conint', [8750]], ['Conint', [8751]], ['ContourIntegral', [8750]], ['copf', [120148]], ['Copf', [8450]], ['coprod', [8720]], ['Coproduct', [8720]], ['copy', [169]], ['COPY', [169]], ['copysr', [8471]], ['CounterClockwiseContourIntegral', [8755]], ['crarr', [8629]], ['cross', [10007]], ['Cross', [10799]], ['Cscr', [119966]], ['cscr', [119992]], ['csub', [10959]], ['csube', [10961]], ['csup', [10960]], ['csupe', [10962]], ['ctdot', [8943]], ['cudarrl', [10552]], ['cudarrr', [10549]], ['cuepr', [8926]], ['cuesc', [8927]], ['cularr', [8630]], ['cularrp', [10557]], ['cupbrcap', [10824]], ['cupcap', [10822]], ['CupCap', [8781]], ['cup', [8746]], ['Cup', [8915]], ['cupcup', [10826]], ['cupdot', [8845]], ['cupor', [10821]], ['cups', [8746, 65024]], ['curarr', [8631]], ['curarrm', [10556]], ['curlyeqprec', [8926]], ['curlyeqsucc', [8927]], ['curlyvee', [8910]], ['curlywedge', [8911]], ['curren', [164]], ['curvearrowleft', [8630]], ['curvearrowright', [8631]], ['cuvee', [8910]], ['cuwed', [8911]], ['cwconint', [8754]], ['cwint', [8753]], ['cylcty', [9005]], ['dagger', [8224]], ['Dagger', [8225]], ['daleth', [8504]], ['darr', [8595]], ['Darr', [8609]], ['dArr', [8659]], ['dash', [8208]], ['Dashv', [10980]], ['dashv', [8867]], ['dbkarow', [10511]], ['dblac', [733]], ['Dcaron', [270]], ['dcaron', [271]], ['Dcy', [1044]], ['dcy', [1076]], ['ddagger', [8225]], ['ddarr', [8650]], ['DD', [8517]], ['dd', [8518]], ['DDotrahd', [10513]], ['ddotseq', [10871]], ['deg', [176]], ['Del', [8711]], ['Delta', [916]], ['delta', [948]], ['demptyv', [10673]], ['dfisht', [10623]], ['Dfr', [120071]], ['dfr', [120097]], ['dHar', [10597]], ['dharl', [8643]], ['dharr', [8642]], ['DiacriticalAcute', [180]], ['DiacriticalDot', [729]], ['DiacriticalDoubleAcute', [733]], ['DiacriticalGrave', [96]], ['DiacriticalTilde', [732]], ['diam', [8900]], ['diamond', [8900]], ['Diamond', [8900]], ['diamondsuit', [9830]], ['diams', [9830]], ['die', [168]], ['DifferentialD', [8518]], ['digamma', [989]], ['disin', [8946]], ['div', [247]], ['divide', [247]], ['divideontimes', [8903]], ['divonx', [8903]], ['DJcy', [1026]], ['djcy', [1106]], ['dlcorn', [8990]], ['dlcrop', [8973]], ['dollar', [36]], ['Dopf', [120123]], ['dopf', [120149]], ['Dot', [168]], ['dot', [729]], ['DotDot', [8412]], ['doteq', [8784]], ['doteqdot', [8785]], ['DotEqual', [8784]], ['dotminus', [8760]], ['dotplus', [8724]], ['dotsquare', [8865]], ['doublebarwedge', [8966]], ['DoubleContourIntegral', [8751]], ['DoubleDot', [168]], ['DoubleDownArrow', [8659]], ['DoubleLeftArrow', [8656]], ['DoubleLeftRightArrow', [8660]], ['DoubleLeftTee', [10980]], ['DoubleLongLeftArrow', [10232]], ['DoubleLongLeftRightArrow', [10234]], ['DoubleLongRightArrow', [10233]], ['DoubleRightArrow', [8658]], ['DoubleRightTee', [8872]], ['DoubleUpArrow', [8657]], ['DoubleUpDownArrow', [8661]], ['DoubleVerticalBar', [8741]], ['DownArrowBar', [10515]], ['downarrow', [8595]], ['DownArrow', [8595]], ['Downarrow', [8659]], ['DownArrowUpArrow', [8693]], ['DownBreve', [785]], ['downdownarrows', [8650]], ['downharpoonleft', [8643]], ['downharpoonright', [8642]], ['DownLeftRightVector', [10576]], ['DownLeftTeeVector', [10590]], ['DownLeftVectorBar', [10582]], ['DownLeftVector', [8637]], ['DownRightTeeVector', [10591]], ['DownRightVectorBar', [10583]], ['DownRightVector', [8641]], ['DownTeeArrow', [8615]], ['DownTee', [8868]], ['drbkarow', [10512]], ['drcorn', [8991]], ['drcrop', [8972]], ['Dscr', [119967]], ['dscr', [119993]], ['DScy', [1029]], ['dscy', [1109]], ['dsol', [10742]], ['Dstrok', [272]], ['dstrok', [273]], ['dtdot', [8945]], ['dtri', [9663]], ['dtrif', [9662]], ['duarr', [8693]], ['duhar', [10607]], ['dwangle', [10662]], ['DZcy', [1039]], ['dzcy', [1119]], ['dzigrarr', [10239]], ['Eacute', [201]], ['eacute', [233]], ['easter', [10862]], ['Ecaron', [282]], ['ecaron', [283]], ['Ecirc', [202]], ['ecirc', [234]], ['ecir', [8790]], ['ecolon', [8789]], ['Ecy', [1069]], ['ecy', [1101]], ['eDDot', [10871]], ['Edot', [278]], ['edot', [279]], ['eDot', [8785]], ['ee', [8519]], ['efDot', [8786]], ['Efr', [120072]], ['efr', [120098]], ['eg', [10906]], ['Egrave', [200]], ['egrave', [232]], ['egs', [10902]], ['egsdot', [10904]], ['el', [10905]], ['Element', [8712]], ['elinters', [9191]], ['ell', [8467]], ['els', [10901]], ['elsdot', [10903]], ['Emacr', [274]], ['emacr', [275]], ['empty', [8709]], ['emptyset', [8709]], ['EmptySmallSquare', [9723]], ['emptyv', [8709]], ['EmptyVerySmallSquare', [9643]], ['emsp13', [8196]], ['emsp14', [8197]], ['emsp', [8195]], ['ENG', [330]], ['eng', [331]], ['ensp', [8194]], ['Eogon', [280]], ['eogon', [281]], ['Eopf', [120124]], ['eopf', [120150]], ['epar', [8917]], ['eparsl', [10723]], ['eplus', [10865]], ['epsi', [949]], ['Epsilon', [917]], ['epsilon', [949]], ['epsiv', [1013]], ['eqcirc', [8790]], ['eqcolon', [8789]], ['eqsim', [8770]], ['eqslantgtr', [10902]], ['eqslantless', [10901]], ['Equal', [10869]], ['equals', [61]], ['EqualTilde', [8770]], ['equest', [8799]], ['Equilibrium', [8652]], ['equiv', [8801]], ['equivDD', [10872]], ['eqvparsl', [10725]], ['erarr', [10609]], ['erDot', [8787]], ['escr', [8495]], ['Escr', [8496]], ['esdot', [8784]], ['Esim', [10867]], ['esim', [8770]], ['Eta', [919]], ['eta', [951]], ['ETH', [208]], ['eth', [240]], ['Euml', [203]], ['euml', [235]], ['euro', [8364]], ['excl', [33]], ['exist', [8707]], ['Exists', [8707]], ['expectation', [8496]], ['exponentiale', [8519]], ['ExponentialE', [8519]], ['fallingdotseq', [8786]], ['Fcy', [1060]], ['fcy', [1092]], ['female', [9792]], ['ffilig', [64259]], ['fflig', [64256]], ['ffllig', [64260]], ['Ffr', [120073]], ['ffr', [120099]], ['filig', [64257]], ['FilledSmallSquare', [9724]], ['FilledVerySmallSquare', [9642]], ['fjlig', [102, 106]], ['flat', [9837]], ['fllig', [64258]], ['fltns', [9649]], ['fnof', [402]], ['Fopf', [120125]], ['fopf', [120151]], ['forall', [8704]], ['ForAll', [8704]], ['fork', [8916]], ['forkv', [10969]], ['Fouriertrf', [8497]], ['fpartint', [10765]], ['frac12', [189]], ['frac13', [8531]], ['frac14', [188]], ['frac15', [8533]], ['frac16', [8537]], ['frac18', [8539]], ['frac23', [8532]], ['frac25', [8534]], ['frac34', [190]], ['frac35', [8535]], ['frac38', [8540]], ['frac45', [8536]], ['frac56', [8538]], ['frac58', [8541]], ['frac78', [8542]], ['frasl', [8260]], ['frown', [8994]], ['fscr', [119995]], ['Fscr', [8497]], ['gacute', [501]], ['Gamma', [915]], ['gamma', [947]], ['Gammad', [988]], ['gammad', [989]], ['gap', [10886]], ['Gbreve', [286]], ['gbreve', [287]], ['Gcedil', [290]], ['Gcirc', [284]], ['gcirc', [285]], ['Gcy', [1043]], ['gcy', [1075]], ['Gdot', [288]], ['gdot', [289]], ['ge', [8805]], ['gE', [8807]], ['gEl', [10892]], ['gel', [8923]], ['geq', [8805]], ['geqq', [8807]], ['geqslant', [10878]], ['gescc', [10921]], ['ges', [10878]], ['gesdot', [10880]], ['gesdoto', [10882]], ['gesdotol', [10884]], ['gesl', [8923, 65024]], ['gesles', [10900]], ['Gfr', [120074]], ['gfr', [120100]], ['gg', [8811]], ['Gg', [8921]], ['ggg', [8921]], ['gimel', [8503]], ['GJcy', [1027]], ['gjcy', [1107]], ['gla', [10917]], ['gl', [8823]], ['glE', [10898]], ['glj', [10916]], ['gnap', [10890]], ['gnapprox', [10890]], ['gne', [10888]], ['gnE', [8809]], ['gneq', [10888]], ['gneqq', [8809]], ['gnsim', [8935]], ['Gopf', [120126]], ['gopf', [120152]], ['grave', [96]], ['GreaterEqual', [8805]], ['GreaterEqualLess', [8923]], ['GreaterFullEqual', [8807]], ['GreaterGreater', [10914]], ['GreaterLess', [8823]], ['GreaterSlantEqual', [10878]], ['GreaterTilde', [8819]], ['Gscr', [119970]], ['gscr', [8458]], ['gsim', [8819]], ['gsime', [10894]], ['gsiml', [10896]], ['gtcc', [10919]], ['gtcir', [10874]], ['gt', [62]], ['GT', [62]], ['Gt', [8811]], ['gtdot', [8919]], ['gtlPar', [10645]], ['gtquest', [10876]], ['gtrapprox', [10886]], ['gtrarr', [10616]], ['gtrdot', [8919]], ['gtreqless', [8923]], ['gtreqqless', [10892]], ['gtrless', [8823]], ['gtrsim', [8819]], ['gvertneqq', [8809, 65024]], ['gvnE', [8809, 65024]], ['Hacek', [711]], ['hairsp', [8202]], ['half', [189]], ['hamilt', [8459]], ['HARDcy', [1066]], ['hardcy', [1098]], ['harrcir', [10568]], ['harr', [8596]], ['hArr', [8660]], ['harrw', [8621]], ['Hat', [94]], ['hbar', [8463]], ['Hcirc', [292]], ['hcirc', [293]], ['hearts', [9829]], ['heartsuit', [9829]], ['hellip', [8230]], ['hercon', [8889]], ['hfr', [120101]], ['Hfr', [8460]], ['HilbertSpace', [8459]], ['hksearow', [10533]], ['hkswarow', [10534]], ['hoarr', [8703]], ['homtht', [8763]], ['hookleftarrow', [8617]], ['hookrightarrow', [8618]], ['hopf', [120153]], ['Hopf', [8461]], ['horbar', [8213]], ['HorizontalLine', [9472]], ['hscr', [119997]], ['Hscr', [8459]], ['hslash', [8463]], ['Hstrok', [294]], ['hstrok', [295]], ['HumpDownHump', [8782]], ['HumpEqual', [8783]], ['hybull', [8259]], ['hyphen', [8208]], ['Iacute', [205]], ['iacute', [237]], ['ic', [8291]], ['Icirc', [206]], ['icirc', [238]], ['Icy', [1048]], ['icy', [1080]], ['Idot', [304]], ['IEcy', [1045]], ['iecy', [1077]], ['iexcl', [161]], ['iff', [8660]], ['ifr', [120102]], ['Ifr', [8465]], ['Igrave', [204]], ['igrave', [236]], ['ii', [8520]], ['iiiint', [10764]], ['iiint', [8749]], ['iinfin', [10716]], ['iiota', [8489]], ['IJlig', [306]], ['ijlig', [307]], ['Imacr', [298]], ['imacr', [299]], ['image', [8465]], ['ImaginaryI', [8520]], ['imagline', [8464]], ['imagpart', [8465]], ['imath', [305]], ['Im', [8465]], ['imof', [8887]], ['imped', [437]], ['Implies', [8658]], ['incare', [8453]], ['in', [8712]], ['infin', [8734]], ['infintie', [10717]], ['inodot', [305]], ['intcal', [8890]], ['int', [8747]], ['Int', [8748]], ['integers', [8484]], ['Integral', [8747]], ['intercal', [8890]], ['Intersection', [8898]], ['intlarhk', [10775]], ['intprod', [10812]], ['InvisibleComma', [8291]], ['InvisibleTimes', [8290]], ['IOcy', [1025]], ['iocy', [1105]], ['Iogon', [302]], ['iogon', [303]], ['Iopf', [120128]], ['iopf', [120154]], ['Iota', [921]], ['iota', [953]], ['iprod', [10812]], ['iquest', [191]], ['iscr', [119998]], ['Iscr', [8464]], ['isin', [8712]], ['isindot', [8949]], ['isinE', [8953]], ['isins', [8948]], ['isinsv', [8947]], ['isinv', [8712]], ['it', [8290]], ['Itilde', [296]], ['itilde', [297]], ['Iukcy', [1030]], ['iukcy', [1110]], ['Iuml', [207]], ['iuml', [239]], ['Jcirc', [308]], ['jcirc', [309]], ['Jcy', [1049]], ['jcy', [1081]], ['Jfr', [120077]], ['jfr', [120103]], ['jmath', [567]], ['Jopf', [120129]], ['jopf', [120155]], ['Jscr', [119973]], ['jscr', [119999]], ['Jsercy', [1032]], ['jsercy', [1112]], ['Jukcy', [1028]], ['jukcy', [1108]], ['Kappa', [922]], ['kappa', [954]], ['kappav', [1008]], ['Kcedil', [310]], ['kcedil', [311]], ['Kcy', [1050]], ['kcy', [1082]], ['Kfr', [120078]], ['kfr', [120104]], ['kgreen', [312]], ['KHcy', [1061]], ['khcy', [1093]], ['KJcy', [1036]], ['kjcy', [1116]], ['Kopf', [120130]], ['kopf', [120156]], ['Kscr', [119974]], ['kscr', [120000]], ['lAarr', [8666]], ['Lacute', [313]], ['lacute', [314]], ['laemptyv', [10676]], ['lagran', [8466]], ['Lambda', [923]], ['lambda', [955]], ['lang', [10216]], ['Lang', [10218]], ['langd', [10641]], ['langle', [10216]], ['lap', [10885]], ['Laplacetrf', [8466]], ['laquo', [171]], ['larrb', [8676]], ['larrbfs', [10527]], ['larr', [8592]], ['Larr', [8606]], ['lArr', [8656]], ['larrfs', [10525]], ['larrhk', [8617]], ['larrlp', [8619]], ['larrpl', [10553]], ['larrsim', [10611]], ['larrtl', [8610]], ['latail', [10521]], ['lAtail', [10523]], ['lat', [10923]], ['late', [10925]], ['lates', [10925, 65024]], ['lbarr', [10508]], ['lBarr', [10510]], ['lbbrk', [10098]], ['lbrace', [123]], ['lbrack', [91]], ['lbrke', [10635]], ['lbrksld', [10639]], ['lbrkslu', [10637]], ['Lcaron', [317]], ['lcaron', [318]], ['Lcedil', [315]], ['lcedil', [316]], ['lceil', [8968]], ['lcub', [123]], ['Lcy', [1051]], ['lcy', [1083]], ['ldca', [10550]], ['ldquo', [8220]], ['ldquor', [8222]], ['ldrdhar', [10599]], ['ldrushar', [10571]], ['ldsh', [8626]], ['le', [8804]], ['lE', [8806]], ['LeftAngleBracket', [10216]], ['LeftArrowBar', [8676]], ['leftarrow', [8592]], ['LeftArrow', [8592]], ['Leftarrow', [8656]], ['LeftArrowRightArrow', [8646]], ['leftarrowtail', [8610]], ['LeftCeiling', [8968]], ['LeftDoubleBracket', [10214]], ['LeftDownTeeVector', [10593]], ['LeftDownVectorBar', [10585]], ['LeftDownVector', [8643]], ['LeftFloor', [8970]], ['leftharpoondown', [8637]], ['leftharpoonup', [8636]], ['leftleftarrows', [8647]], ['leftrightarrow', [8596]], ['LeftRightArrow', [8596]], ['Leftrightarrow', [8660]], ['leftrightarrows', [8646]], ['leftrightharpoons', [8651]], ['leftrightsquigarrow', [8621]], ['LeftRightVector', [10574]], ['LeftTeeArrow', [8612]], ['LeftTee', [8867]], ['LeftTeeVector', [10586]], ['leftthreetimes', [8907]], ['LeftTriangleBar', [10703]], ['LeftTriangle', [8882]], ['LeftTriangleEqual', [8884]], ['LeftUpDownVector', [10577]], ['LeftUpTeeVector', [10592]], ['LeftUpVectorBar', [10584]], ['LeftUpVector', [8639]], ['LeftVectorBar', [10578]], ['LeftVector', [8636]], ['lEg', [10891]], ['leg', [8922]], ['leq', [8804]], ['leqq', [8806]], ['leqslant', [10877]], ['lescc', [10920]], ['les', [10877]], ['lesdot', [10879]], ['lesdoto', [10881]], ['lesdotor', [10883]], ['lesg', [8922, 65024]], ['lesges', [10899]], ['lessapprox', [10885]], ['lessdot', [8918]], ['lesseqgtr', [8922]], ['lesseqqgtr', [10891]], ['LessEqualGreater', [8922]], ['LessFullEqual', [8806]], ['LessGreater', [8822]], ['lessgtr', [8822]], ['LessLess', [10913]], ['lesssim', [8818]], ['LessSlantEqual', [10877]], ['LessTilde', [8818]], ['lfisht', [10620]], ['lfloor', [8970]], ['Lfr', [120079]], ['lfr', [120105]], ['lg', [8822]], ['lgE', [10897]], ['lHar', [10594]], ['lhard', [8637]], ['lharu', [8636]], ['lharul', [10602]], ['lhblk', [9604]], ['LJcy', [1033]], ['ljcy', [1113]], ['llarr', [8647]], ['ll', [8810]], ['Ll', [8920]], ['llcorner', [8990]], ['Lleftarrow', [8666]], ['llhard', [10603]], ['lltri', [9722]], ['Lmidot', [319]], ['lmidot', [320]], ['lmoustache', [9136]], ['lmoust', [9136]], ['lnap', [10889]], ['lnapprox', [10889]], ['lne', [10887]], ['lnE', [8808]], ['lneq', [10887]], ['lneqq', [8808]], ['lnsim', [8934]], ['loang', [10220]], ['loarr', [8701]], ['lobrk', [10214]], ['longleftarrow', [10229]], ['LongLeftArrow', [10229]], ['Longleftarrow', [10232]], ['longleftrightarrow', [10231]], ['LongLeftRightArrow', [10231]], ['Longleftrightarrow', [10234]], ['longmapsto', [10236]], ['longrightarrow', [10230]], ['LongRightArrow', [10230]], ['Longrightarrow', [10233]], ['looparrowleft', [8619]], ['looparrowright', [8620]], ['lopar', [10629]], ['Lopf', [120131]], ['lopf', [120157]], ['loplus', [10797]], ['lotimes', [10804]], ['lowast', [8727]], ['lowbar', [95]], ['LowerLeftArrow', [8601]], ['LowerRightArrow', [8600]], ['loz', [9674]], ['lozenge', [9674]], ['lozf', [10731]], ['lpar', [40]], ['lparlt', [10643]], ['lrarr', [8646]], ['lrcorner', [8991]], ['lrhar', [8651]], ['lrhard', [10605]], ['lrm', [8206]], ['lrtri', [8895]], ['lsaquo', [8249]], ['lscr', [120001]], ['Lscr', [8466]], ['lsh', [8624]], ['Lsh', [8624]], ['lsim', [8818]], ['lsime', [10893]], ['lsimg', [10895]], ['lsqb', [91]], ['lsquo', [8216]], ['lsquor', [8218]], ['Lstrok', [321]], ['lstrok', [322]], ['ltcc', [10918]], ['ltcir', [10873]], ['lt', [60]], ['LT', [60]], ['Lt', [8810]], ['ltdot', [8918]], ['lthree', [8907]], ['ltimes', [8905]], ['ltlarr', [10614]], ['ltquest', [10875]], ['ltri', [9667]], ['ltrie', [8884]], ['ltrif', [9666]], ['ltrPar', [10646]], ['lurdshar', [10570]], ['luruhar', [10598]], ['lvertneqq', [8808, 65024]], ['lvnE', [8808, 65024]], ['macr', [175]], ['male', [9794]], ['malt', [10016]], ['maltese', [10016]], ['Map', [10501]], ['map', [8614]], ['mapsto', [8614]], ['mapstodown', [8615]], ['mapstoleft', [8612]], ['mapstoup', [8613]], ['marker', [9646]], ['mcomma', [10793]], ['Mcy', [1052]], ['mcy', [1084]], ['mdash', [8212]], ['mDDot', [8762]], ['measuredangle', [8737]], ['MediumSpace', [8287]], ['Mellintrf', [8499]], ['Mfr', [120080]], ['mfr', [120106]], ['mho', [8487]], ['micro', [181]], ['midast', [42]], ['midcir', [10992]], ['mid', [8739]], ['middot', [183]], ['minusb', [8863]], ['minus', [8722]], ['minusd', [8760]], ['minusdu', [10794]], ['MinusPlus', [8723]], ['mlcp', [10971]], ['mldr', [8230]], ['mnplus', [8723]], ['models', [8871]], ['Mopf', [120132]], ['mopf', [120158]], ['mp', [8723]], ['mscr', [120002]], ['Mscr', [8499]], ['mstpos', [8766]], ['Mu', [924]], ['mu', [956]], ['multimap', [8888]], ['mumap', [8888]], ['nabla', [8711]], ['Nacute', [323]], ['nacute', [324]], ['nang', [8736, 8402]], ['nap', [8777]], ['napE', [10864, 824]], ['napid', [8779, 824]], ['napos', [329]], ['napprox', [8777]], ['natural', [9838]], ['naturals', [8469]], ['natur', [9838]], ['nbsp', [160]], ['nbump', [8782, 824]], ['nbumpe', [8783, 824]], ['ncap', [10819]], ['Ncaron', [327]], ['ncaron', [328]], ['Ncedil', [325]], ['ncedil', [326]], ['ncong', [8775]], ['ncongdot', [10861, 824]], ['ncup', [10818]], ['Ncy', [1053]], ['ncy', [1085]], ['ndash', [8211]], ['nearhk', [10532]], ['nearr', [8599]], ['neArr', [8663]], ['nearrow', [8599]], ['ne', [8800]], ['nedot', [8784, 824]], ['NegativeMediumSpace', [8203]], ['NegativeThickSpace', [8203]], ['NegativeThinSpace', [8203]], ['NegativeVeryThinSpace', [8203]], ['nequiv', [8802]], ['nesear', [10536]], ['nesim', [8770, 824]], ['NestedGreaterGreater', [8811]], ['NestedLessLess', [8810]], ['nexist', [8708]], ['nexists', [8708]], ['Nfr', [120081]], ['nfr', [120107]], ['ngE', [8807, 824]], ['nge', [8817]], ['ngeq', [8817]], ['ngeqq', [8807, 824]], ['ngeqslant', [10878, 824]], ['nges', [10878, 824]], ['nGg', [8921, 824]], ['ngsim', [8821]], ['nGt', [8811, 8402]], ['ngt', [8815]], ['ngtr', [8815]], ['nGtv', [8811, 824]], ['nharr', [8622]], ['nhArr', [8654]], ['nhpar', [10994]], ['ni', [8715]], ['nis', [8956]], ['nisd', [8954]], ['niv', [8715]], ['NJcy', [1034]], ['njcy', [1114]], ['nlarr', [8602]], ['nlArr', [8653]], ['nldr', [8229]], ['nlE', [8806, 824]], ['nle', [8816]], ['nleftarrow', [8602]], ['nLeftarrow', [8653]], ['nleftrightarrow', [8622]], ['nLeftrightarrow', [8654]], ['nleq', [8816]], ['nleqq', [8806, 824]], ['nleqslant', [10877, 824]], ['nles', [10877, 824]], ['nless', [8814]], ['nLl', [8920, 824]], ['nlsim', [8820]], ['nLt', [8810, 8402]], ['nlt', [8814]], ['nltri', [8938]], ['nltrie', [8940]], ['nLtv', [8810, 824]], ['nmid', [8740]], ['NoBreak', [8288]], ['NonBreakingSpace', [160]], ['nopf', [120159]], ['Nopf', [8469]], ['Not', [10988]], ['not', [172]], ['NotCongruent', [8802]], ['NotCupCap', [8813]], ['NotDoubleVerticalBar', [8742]], ['NotElement', [8713]], ['NotEqual', [8800]], ['NotEqualTilde', [8770, 824]], ['NotExists', [8708]], ['NotGreater', [8815]], ['NotGreaterEqual', [8817]], ['NotGreaterFullEqual', [8807, 824]], ['NotGreaterGreater', [8811, 824]], ['NotGreaterLess', [8825]], ['NotGreaterSlantEqual', [10878, 824]], ['NotGreaterTilde', [8821]], ['NotHumpDownHump', [8782, 824]], ['NotHumpEqual', [8783, 824]], ['notin', [8713]], ['notindot', [8949, 824]], ['notinE', [8953, 824]], ['notinva', [8713]], ['notinvb', [8951]], ['notinvc', [8950]], ['NotLeftTriangleBar', [10703, 824]], ['NotLeftTriangle', [8938]], ['NotLeftTriangleEqual', [8940]], ['NotLess', [8814]], ['NotLessEqual', [8816]], ['NotLessGreater', [8824]], ['NotLessLess', [8810, 824]], ['NotLessSlantEqual', [10877, 824]], ['NotLessTilde', [8820]], ['NotNestedGreaterGreater', [10914, 824]], ['NotNestedLessLess', [10913, 824]], ['notni', [8716]], ['notniva', [8716]], ['notnivb', [8958]], ['notnivc', [8957]], ['NotPrecedes', [8832]], ['NotPrecedesEqual', [10927, 824]], ['NotPrecedesSlantEqual', [8928]], ['NotReverseElement', [8716]], ['NotRightTriangleBar', [10704, 824]], ['NotRightTriangle', [8939]], ['NotRightTriangleEqual', [8941]], ['NotSquareSubset', [8847, 824]], ['NotSquareSubsetEqual', [8930]], ['NotSquareSuperset', [8848, 824]], ['NotSquareSupersetEqual', [8931]], ['NotSubset', [8834, 8402]], ['NotSubsetEqual', [8840]], ['NotSucceeds', [8833]], ['NotSucceedsEqual', [10928, 824]], ['NotSucceedsSlantEqual', [8929]], ['NotSucceedsTilde', [8831, 824]], ['NotSuperset', [8835, 8402]], ['NotSupersetEqual', [8841]], ['NotTilde', [8769]], ['NotTildeEqual', [8772]], ['NotTildeFullEqual', [8775]], ['NotTildeTilde', [8777]], ['NotVerticalBar', [8740]], ['nparallel', [8742]], ['npar', [8742]], ['nparsl', [11005, 8421]], ['npart', [8706, 824]], ['npolint', [10772]], ['npr', [8832]], ['nprcue', [8928]], ['nprec', [8832]], ['npreceq', [10927, 824]], ['npre', [10927, 824]], ['nrarrc', [10547, 824]], ['nrarr', [8603]], ['nrArr', [8655]], ['nrarrw', [8605, 824]], ['nrightarrow', [8603]], ['nRightarrow', [8655]], ['nrtri', [8939]], ['nrtrie', [8941]], ['nsc', [8833]], ['nsccue', [8929]], ['nsce', [10928, 824]], ['Nscr', [119977]], ['nscr', [120003]], ['nshortmid', [8740]], ['nshortparallel', [8742]], ['nsim', [8769]], ['nsime', [8772]], ['nsimeq', [8772]], ['nsmid', [8740]], ['nspar', [8742]], ['nsqsube', [8930]], ['nsqsupe', [8931]], ['nsub', [8836]], ['nsubE', [10949, 824]], ['nsube', [8840]], ['nsubset', [8834, 8402]], ['nsubseteq', [8840]], ['nsubseteqq', [10949, 824]], ['nsucc', [8833]], ['nsucceq', [10928, 824]], ['nsup', [8837]], ['nsupE', [10950, 824]], ['nsupe', [8841]], ['nsupset', [8835, 8402]], ['nsupseteq', [8841]], ['nsupseteqq', [10950, 824]], ['ntgl', [8825]], ['Ntilde', [209]], ['ntilde', [241]], ['ntlg', [8824]], ['ntriangleleft', [8938]], ['ntrianglelefteq', [8940]], ['ntriangleright', [8939]], ['ntrianglerighteq', [8941]], ['Nu', [925]], ['nu', [957]], ['num', [35]], ['numero', [8470]], ['numsp', [8199]], ['nvap', [8781, 8402]], ['nvdash', [8876]], ['nvDash', [8877]], ['nVdash', [8878]], ['nVDash', [8879]], ['nvge', [8805, 8402]], ['nvgt', [62, 8402]], ['nvHarr', [10500]], ['nvinfin', [10718]], ['nvlArr', [10498]], ['nvle', [8804, 8402]], ['nvlt', [60, 8402]], ['nvltrie', [8884, 8402]], ['nvrArr', [10499]], ['nvrtrie', [8885, 8402]], ['nvsim', [8764, 8402]], ['nwarhk', [10531]], ['nwarr', [8598]], ['nwArr', [8662]], ['nwarrow', [8598]], ['nwnear', [10535]], ['Oacute', [211]], ['oacute', [243]], ['oast', [8859]], ['Ocirc', [212]], ['ocirc', [244]], ['ocir', [8858]], ['Ocy', [1054]], ['ocy', [1086]], ['odash', [8861]], ['Odblac', [336]], ['odblac', [337]], ['odiv', [10808]], ['odot', [8857]], ['odsold', [10684]], ['OElig', [338]], ['oelig', [339]], ['ofcir', [10687]], ['Ofr', [120082]], ['ofr', [120108]], ['ogon', [731]], ['Ograve', [210]], ['ograve', [242]], ['ogt', [10689]], ['ohbar', [10677]], ['ohm', [937]], ['oint', [8750]], ['olarr', [8634]], ['olcir', [10686]], ['olcross', [10683]], ['oline', [8254]], ['olt', [10688]], ['Omacr', [332]], ['omacr', [333]], ['Omega', [937]], ['omega', [969]], ['Omicron', [927]], ['omicron', [959]], ['omid', [10678]], ['ominus', [8854]], ['Oopf', [120134]], ['oopf', [120160]], ['opar', [10679]], ['OpenCurlyDoubleQuote', [8220]], ['OpenCurlyQuote', [8216]], ['operp', [10681]], ['oplus', [8853]], ['orarr', [8635]], ['Or', [10836]], ['or', [8744]], ['ord', [10845]], ['order', [8500]], ['orderof', [8500]], ['ordf', [170]], ['ordm', [186]], ['origof', [8886]], ['oror', [10838]], ['orslope', [10839]], ['orv', [10843]], ['oS', [9416]], ['Oscr', [119978]], ['oscr', [8500]], ['Oslash', [216]], ['oslash', [248]], ['osol', [8856]], ['Otilde', [213]], ['otilde', [245]], ['otimesas', [10806]], ['Otimes', [10807]], ['otimes', [8855]], ['Ouml', [214]], ['ouml', [246]], ['ovbar', [9021]], ['OverBar', [8254]], ['OverBrace', [9182]], ['OverBracket', [9140]], ['OverParenthesis', [9180]], ['para', [182]], ['parallel', [8741]], ['par', [8741]], ['parsim', [10995]], ['parsl', [11005]], ['part', [8706]], ['PartialD', [8706]], ['Pcy', [1055]], ['pcy', [1087]], ['percnt', [37]], ['period', [46]], ['permil', [8240]], ['perp', [8869]], ['pertenk', [8241]], ['Pfr', [120083]], ['pfr', [120109]], ['Phi', [934]], ['phi', [966]], ['phiv', [981]], ['phmmat', [8499]], ['phone', [9742]], ['Pi', [928]], ['pi', [960]], ['pitchfork', [8916]], ['piv', [982]], ['planck', [8463]], ['planckh', [8462]], ['plankv', [8463]], ['plusacir', [10787]], ['plusb', [8862]], ['pluscir', [10786]], ['plus', [43]], ['plusdo', [8724]], ['plusdu', [10789]], ['pluse', [10866]], ['PlusMinus', [177]], ['plusmn', [177]], ['plussim', [10790]], ['plustwo', [10791]], ['pm', [177]], ['Poincareplane', [8460]], ['pointint', [10773]], ['popf', [120161]], ['Popf', [8473]], ['pound', [163]], ['prap', [10935]], ['Pr', [10939]], ['pr', [8826]], ['prcue', [8828]], ['precapprox', [10935]], ['prec', [8826]], ['preccurlyeq', [8828]], ['Precedes', [8826]], ['PrecedesEqual', [10927]], ['PrecedesSlantEqual', [8828]], ['PrecedesTilde', [8830]], ['preceq', [10927]], ['precnapprox', [10937]], ['precneqq', [10933]], ['precnsim', [8936]], ['pre', [10927]], ['prE', [10931]], ['precsim', [8830]], ['prime', [8242]], ['Prime', [8243]], ['primes', [8473]], ['prnap', [10937]], ['prnE', [10933]], ['prnsim', [8936]], ['prod', [8719]], ['Product', [8719]], ['profalar', [9006]], ['profline', [8978]], ['profsurf', [8979]], ['prop', [8733]], ['Proportional', [8733]], ['Proportion', [8759]], ['propto', [8733]], ['prsim', [8830]], ['prurel', [8880]], ['Pscr', [119979]], ['pscr', [120005]], ['Psi', [936]], ['psi', [968]], ['puncsp', [8200]], ['Qfr', [120084]], ['qfr', [120110]], ['qint', [10764]], ['qopf', [120162]], ['Qopf', [8474]], ['qprime', [8279]], ['Qscr', [119980]], ['qscr', [120006]], ['quaternions', [8461]], ['quatint', [10774]], ['quest', [63]], ['questeq', [8799]], ['quot', [34]], ['QUOT', [34]], ['rAarr', [8667]], ['race', [8765, 817]], ['Racute', [340]], ['racute', [341]], ['radic', [8730]], ['raemptyv', [10675]], ['rang', [10217]], ['Rang', [10219]], ['rangd', [10642]], ['range', [10661]], ['rangle', [10217]], ['raquo', [187]], ['rarrap', [10613]], ['rarrb', [8677]], ['rarrbfs', [10528]], ['rarrc', [10547]], ['rarr', [8594]], ['Rarr', [8608]], ['rArr', [8658]], ['rarrfs', [10526]], ['rarrhk', [8618]], ['rarrlp', [8620]], ['rarrpl', [10565]], ['rarrsim', [10612]], ['Rarrtl', [10518]], ['rarrtl', [8611]], ['rarrw', [8605]], ['ratail', [10522]], ['rAtail', [10524]], ['ratio', [8758]], ['rationals', [8474]], ['rbarr', [10509]], ['rBarr', [10511]], ['RBarr', [10512]], ['rbbrk', [10099]], ['rbrace', [125]], ['rbrack', [93]], ['rbrke', [10636]], ['rbrksld', [10638]], ['rbrkslu', [10640]], ['Rcaron', [344]], ['rcaron', [345]], ['Rcedil', [342]], ['rcedil', [343]], ['rceil', [8969]], ['rcub', [125]], ['Rcy', [1056]], ['rcy', [1088]], ['rdca', [10551]], ['rdldhar', [10601]], ['rdquo', [8221]], ['rdquor', [8221]], ['CloseCurlyDoubleQuote', [8221]], ['rdsh', [8627]], ['real', [8476]], ['realine', [8475]], ['realpart', [8476]], ['reals', [8477]], ['Re', [8476]], ['rect', [9645]], ['reg', [174]], ['REG', [174]], ['ReverseElement', [8715]], ['ReverseEquilibrium', [8651]], ['ReverseUpEquilibrium', [10607]], ['rfisht', [10621]], ['rfloor', [8971]], ['rfr', [120111]], ['Rfr', [8476]], ['rHar', [10596]], ['rhard', [8641]], ['rharu', [8640]], ['rharul', [10604]], ['Rho', [929]], ['rho', [961]], ['rhov', [1009]], ['RightAngleBracket', [10217]], ['RightArrowBar', [8677]], ['rightarrow', [8594]], ['RightArrow', [8594]], ['Rightarrow', [8658]], ['RightArrowLeftArrow', [8644]], ['rightarrowtail', [8611]], ['RightCeiling', [8969]], ['RightDoubleBracket', [10215]], ['RightDownTeeVector', [10589]], ['RightDownVectorBar', [10581]], ['RightDownVector', [8642]], ['RightFloor', [8971]], ['rightharpoondown', [8641]], ['rightharpoonup', [8640]], ['rightleftarrows', [8644]], ['rightleftharpoons', [8652]], ['rightrightarrows', [8649]], ['rightsquigarrow', [8605]], ['RightTeeArrow', [8614]], ['RightTee', [8866]], ['RightTeeVector', [10587]], ['rightthreetimes', [8908]], ['RightTriangleBar', [10704]], ['RightTriangle', [8883]], ['RightTriangleEqual', [8885]], ['RightUpDownVector', [10575]], ['RightUpTeeVector', [10588]], ['RightUpVectorBar', [10580]], ['RightUpVector', [8638]], ['RightVectorBar', [10579]], ['RightVector', [8640]], ['ring', [730]], ['risingdotseq', [8787]], ['rlarr', [8644]], ['rlhar', [8652]], ['rlm', [8207]], ['rmoustache', [9137]], ['rmoust', [9137]], ['rnmid', [10990]], ['roang', [10221]], ['roarr', [8702]], ['robrk', [10215]], ['ropar', [10630]], ['ropf', [120163]], ['Ropf', [8477]], ['roplus', [10798]], ['rotimes', [10805]], ['RoundImplies', [10608]], ['rpar', [41]], ['rpargt', [10644]], ['rppolint', [10770]], ['rrarr', [8649]], ['Rrightarrow', [8667]], ['rsaquo', [8250]], ['rscr', [120007]], ['Rscr', [8475]], ['rsh', [8625]], ['Rsh', [8625]], ['rsqb', [93]], ['rsquo', [8217]], ['rsquor', [8217]], ['CloseCurlyQuote', [8217]], ['rthree', [8908]], ['rtimes', [8906]], ['rtri', [9657]], ['rtrie', [8885]], ['rtrif', [9656]], ['rtriltri', [10702]], ['RuleDelayed', [10740]], ['ruluhar', [10600]], ['rx', [8478]], ['Sacute', [346]], ['sacute', [347]], ['sbquo', [8218]], ['scap', [10936]], ['Scaron', [352]], ['scaron', [353]], ['Sc', [10940]], ['sc', [8827]], ['sccue', [8829]], ['sce', [10928]], ['scE', [10932]], ['Scedil', [350]], ['scedil', [351]], ['Scirc', [348]], ['scirc', [349]], ['scnap', [10938]], ['scnE', [10934]], ['scnsim', [8937]], ['scpolint', [10771]], ['scsim', [8831]], ['Scy', [1057]], ['scy', [1089]], ['sdotb', [8865]], ['sdot', [8901]], ['sdote', [10854]], ['searhk', [10533]], ['searr', [8600]], ['seArr', [8664]], ['searrow', [8600]], ['sect', [167]], ['semi', [59]], ['seswar', [10537]], ['setminus', [8726]], ['setmn', [8726]], ['sext', [10038]], ['Sfr', [120086]], ['sfr', [120112]], ['sfrown', [8994]], ['sharp', [9839]], ['SHCHcy', [1065]], ['shchcy', [1097]], ['SHcy', [1064]], ['shcy', [1096]], ['ShortDownArrow', [8595]], ['ShortLeftArrow', [8592]], ['shortmid', [8739]], ['shortparallel', [8741]], ['ShortRightArrow', [8594]], ['ShortUpArrow', [8593]], ['shy', [173]], ['Sigma', [931]], ['sigma', [963]], ['sigmaf', [962]], ['sigmav', [962]], ['sim', [8764]], ['simdot', [10858]], ['sime', [8771]], ['simeq', [8771]], ['simg', [10910]], ['simgE', [10912]], ['siml', [10909]], ['simlE', [10911]], ['simne', [8774]], ['simplus', [10788]], ['simrarr', [10610]], ['slarr', [8592]], ['SmallCircle', [8728]], ['smallsetminus', [8726]], ['smashp', [10803]], ['smeparsl', [10724]], ['smid', [8739]], ['smile', [8995]], ['smt', [10922]], ['smte', [10924]], ['smtes', [10924, 65024]], ['SOFTcy', [1068]], ['softcy', [1100]], ['solbar', [9023]], ['solb', [10692]], ['sol', [47]], ['Sopf', [120138]], ['sopf', [120164]], ['spades', [9824]], ['spadesuit', [9824]], ['spar', [8741]], ['sqcap', [8851]], ['sqcaps', [8851, 65024]], ['sqcup', [8852]], ['sqcups', [8852, 65024]], ['Sqrt', [8730]], ['sqsub', [8847]], ['sqsube', [8849]], ['sqsubset', [8847]], ['sqsubseteq', [8849]], ['sqsup', [8848]], ['sqsupe', [8850]], ['sqsupset', [8848]], ['sqsupseteq', [8850]], ['square', [9633]], ['Square', [9633]], ['SquareIntersection', [8851]], ['SquareSubset', [8847]], ['SquareSubsetEqual', [8849]], ['SquareSuperset', [8848]], ['SquareSupersetEqual', [8850]], ['SquareUnion', [8852]], ['squarf', [9642]], ['squ', [9633]], ['squf', [9642]], ['srarr', [8594]], ['Sscr', [119982]], ['sscr', [120008]], ['ssetmn', [8726]], ['ssmile', [8995]], ['sstarf', [8902]], ['Star', [8902]], ['star', [9734]], ['starf', [9733]], ['straightepsilon', [1013]], ['straightphi', [981]], ['strns', [175]], ['sub', [8834]], ['Sub', [8912]], ['subdot', [10941]], ['subE', [10949]], ['sube', [8838]], ['subedot', [10947]], ['submult', [10945]], ['subnE', [10955]], ['subne', [8842]], ['subplus', [10943]], ['subrarr', [10617]], ['subset', [8834]], ['Subset', [8912]], ['subseteq', [8838]], ['subseteqq', [10949]], ['SubsetEqual', [8838]], ['subsetneq', [8842]], ['subsetneqq', [10955]], ['subsim', [10951]], ['subsub', [10965]], ['subsup', [10963]], ['succapprox', [10936]], ['succ', [8827]], ['succcurlyeq', [8829]], ['Succeeds', [8827]], ['SucceedsEqual', [10928]], ['SucceedsSlantEqual', [8829]], ['SucceedsTilde', [8831]], ['succeq', [10928]], ['succnapprox', [10938]], ['succneqq', [10934]], ['succnsim', [8937]], ['succsim', [8831]], ['SuchThat', [8715]], ['sum', [8721]], ['Sum', [8721]], ['sung', [9834]], ['sup1', [185]], ['sup2', [178]], ['sup3', [179]], ['sup', [8835]], ['Sup', [8913]], ['supdot', [10942]], ['supdsub', [10968]], ['supE', [10950]], ['supe', [8839]], ['supedot', [10948]], ['Superset', [8835]], ['SupersetEqual', [8839]], ['suphsol', [10185]], ['suphsub', [10967]], ['suplarr', [10619]], ['supmult', [10946]], ['supnE', [10956]], ['supne', [8843]], ['supplus', [10944]], ['supset', [8835]], ['Supset', [8913]], ['supseteq', [8839]], ['supseteqq', [10950]], ['supsetneq', [8843]], ['supsetneqq', [10956]], ['supsim', [10952]], ['supsub', [10964]], ['supsup', [10966]], ['swarhk', [10534]], ['swarr', [8601]], ['swArr', [8665]], ['swarrow', [8601]], ['swnwar', [10538]], ['szlig', [223]], ['Tab', [9]], ['target', [8982]], ['Tau', [932]], ['tau', [964]], ['tbrk', [9140]], ['Tcaron', [356]], ['tcaron', [357]], ['Tcedil', [354]], ['tcedil', [355]], ['Tcy', [1058]], ['tcy', [1090]], ['tdot', [8411]], ['telrec', [8981]], ['Tfr', [120087]], ['tfr', [120113]], ['there4', [8756]], ['therefore', [8756]], ['Therefore', [8756]], ['Theta', [920]], ['theta', [952]], ['thetasym', [977]], ['thetav', [977]], ['thickapprox', [8776]], ['thicksim', [8764]], ['ThickSpace', [8287, 8202]], ['ThinSpace', [8201]], ['thinsp', [8201]], ['thkap', [8776]], ['thksim', [8764]], ['THORN', [222]], ['thorn', [254]], ['tilde', [732]], ['Tilde', [8764]], ['TildeEqual', [8771]], ['TildeFullEqual', [8773]], ['TildeTilde', [8776]], ['timesbar', [10801]], ['timesb', [8864]], ['times', [215]], ['timesd', [10800]], ['tint', [8749]], ['toea', [10536]], ['topbot', [9014]], ['topcir', [10993]], ['top', [8868]], ['Topf', [120139]], ['topf', [120165]], ['topfork', [10970]], ['tosa', [10537]], ['tprime', [8244]], ['trade', [8482]], ['TRADE', [8482]], ['triangle', [9653]], ['triangledown', [9663]], ['triangleleft', [9667]], ['trianglelefteq', [8884]], ['triangleq', [8796]], ['triangleright', [9657]], ['trianglerighteq', [8885]], ['tridot', [9708]], ['trie', [8796]], ['triminus', [10810]], ['TripleDot', [8411]], ['triplus', [10809]], ['trisb', [10701]], ['tritime', [10811]], ['trpezium', [9186]], ['Tscr', [119983]], ['tscr', [120009]], ['TScy', [1062]], ['tscy', [1094]], ['TSHcy', [1035]], ['tshcy', [1115]], ['Tstrok', [358]], ['tstrok', [359]], ['twixt', [8812]], ['twoheadleftarrow', [8606]], ['twoheadrightarrow', [8608]], ['Uacute', [218]], ['uacute', [250]], ['uarr', [8593]], ['Uarr', [8607]], ['uArr', [8657]], ['Uarrocir', [10569]], ['Ubrcy', [1038]], ['ubrcy', [1118]], ['Ubreve', [364]], ['ubreve', [365]], ['Ucirc', [219]], ['ucirc', [251]], ['Ucy', [1059]], ['ucy', [1091]], ['udarr', [8645]], ['Udblac', [368]], ['udblac', [369]], ['udhar', [10606]], ['ufisht', [10622]], ['Ufr', [120088]], ['ufr', [120114]], ['Ugrave', [217]], ['ugrave', [249]], ['uHar', [10595]], ['uharl', [8639]], ['uharr', [8638]], ['uhblk', [9600]], ['ulcorn', [8988]], ['ulcorner', [8988]], ['ulcrop', [8975]], ['ultri', [9720]], ['Umacr', [362]], ['umacr', [363]], ['uml', [168]], ['UnderBar', [95]], ['UnderBrace', [9183]], ['UnderBracket', [9141]], ['UnderParenthesis', [9181]], ['Union', [8899]], ['UnionPlus', [8846]], ['Uogon', [370]], ['uogon', [371]], ['Uopf', [120140]], ['uopf', [120166]], ['UpArrowBar', [10514]], ['uparrow', [8593]], ['UpArrow', [8593]], ['Uparrow', [8657]], ['UpArrowDownArrow', [8645]], ['updownarrow', [8597]], ['UpDownArrow', [8597]], ['Updownarrow', [8661]], ['UpEquilibrium', [10606]], ['upharpoonleft', [8639]], ['upharpoonright', [8638]], ['uplus', [8846]], ['UpperLeftArrow', [8598]], ['UpperRightArrow', [8599]], ['upsi', [965]], ['Upsi', [978]], ['upsih', [978]], ['Upsilon', [933]], ['upsilon', [965]], ['UpTeeArrow', [8613]], ['UpTee', [8869]], ['upuparrows', [8648]], ['urcorn', [8989]], ['urcorner', [8989]], ['urcrop', [8974]], ['Uring', [366]], ['uring', [367]], ['urtri', [9721]], ['Uscr', [119984]], ['uscr', [120010]], ['utdot', [8944]], ['Utilde', [360]], ['utilde', [361]], ['utri', [9653]], ['utrif', [9652]], ['uuarr', [8648]], ['Uuml', [220]], ['uuml', [252]], ['uwangle', [10663]], ['vangrt', [10652]], ['varepsilon', [1013]], ['varkappa', [1008]], ['varnothing', [8709]], ['varphi', [981]], ['varpi', [982]], ['varpropto', [8733]], ['varr', [8597]], ['vArr', [8661]], ['varrho', [1009]], ['varsigma', [962]], ['varsubsetneq', [8842, 65024]], ['varsubsetneqq', [10955, 65024]], ['varsupsetneq', [8843, 65024]], ['varsupsetneqq', [10956, 65024]], ['vartheta', [977]], ['vartriangleleft', [8882]], ['vartriangleright', [8883]], ['vBar', [10984]], ['Vbar', [10987]], ['vBarv', [10985]], ['Vcy', [1042]], ['vcy', [1074]], ['vdash', [8866]], ['vDash', [8872]], ['Vdash', [8873]], ['VDash', [8875]], ['Vdashl', [10982]], ['veebar', [8891]], ['vee', [8744]], ['Vee', [8897]], ['veeeq', [8794]], ['vellip', [8942]], ['verbar', [124]], ['Verbar', [8214]], ['vert', [124]], ['Vert', [8214]], ['VerticalBar', [8739]], ['VerticalLine', [124]], ['VerticalSeparator', [10072]], ['VerticalTilde', [8768]], ['VeryThinSpace', [8202]], ['Vfr', [120089]], ['vfr', [120115]], ['vltri', [8882]], ['vnsub', [8834, 8402]], ['vnsup', [8835, 8402]], ['Vopf', [120141]], ['vopf', [120167]], ['vprop', [8733]], ['vrtri', [8883]], ['Vscr', [119985]], ['vscr', [120011]], ['vsubnE', [10955, 65024]], ['vsubne', [8842, 65024]], ['vsupnE', [10956, 65024]], ['vsupne', [8843, 65024]], ['Vvdash', [8874]], ['vzigzag', [10650]], ['Wcirc', [372]], ['wcirc', [373]], ['wedbar', [10847]], ['wedge', [8743]], ['Wedge', [8896]], ['wedgeq', [8793]], ['weierp', [8472]], ['Wfr', [120090]], ['wfr', [120116]], ['Wopf', [120142]], ['wopf', [120168]], ['wp', [8472]], ['wr', [8768]], ['wreath', [8768]], ['Wscr', [119986]], ['wscr', [120012]], ['xcap', [8898]], ['xcirc', [9711]], ['xcup', [8899]], ['xdtri', [9661]], ['Xfr', [120091]], ['xfr', [120117]], ['xharr', [10231]], ['xhArr', [10234]], ['Xi', [926]], ['xi', [958]], ['xlarr', [10229]], ['xlArr', [10232]], ['xmap', [10236]], ['xnis', [8955]], ['xodot', [10752]], ['Xopf', [120143]], ['xopf', [120169]], ['xoplus', [10753]], ['xotime', [10754]], ['xrarr', [10230]], ['xrArr', [10233]], ['Xscr', [119987]], ['xscr', [120013]], ['xsqcup', [10758]], ['xuplus', [10756]], ['xutri', [9651]], ['xvee', [8897]], ['xwedge', [8896]], ['Yacute', [221]], ['yacute', [253]], ['YAcy', [1071]], ['yacy', [1103]], ['Ycirc', [374]], ['ycirc', [375]], ['Ycy', [1067]], ['ycy', [1099]], ['yen', [165]], ['Yfr', [120092]], ['yfr', [120118]], ['YIcy', [1031]], ['yicy', [1111]], ['Yopf', [120144]], ['yopf', [120170]], ['Yscr', [119988]], ['yscr', [120014]], ['YUcy', [1070]], ['yucy', [1102]], ['yuml', [255]], ['Yuml', [376]], ['Zacute', [377]], ['zacute', [378]], ['Zcaron', [381]], ['zcaron', [382]], ['Zcy', [1047]], ['zcy', [1079]], ['Zdot', [379]], ['zdot', [380]], ['zeetrf', [8488]], ['ZeroWidthSpace', [8203]], ['Zeta', [918]], ['zeta', [950]], ['zfr', [120119]], ['Zfr', [8488]], ['ZHcy', [1046]], ['zhcy', [1078]], ['zigrarr', [8669]], ['zopf', [120171]], ['Zopf', [8484]], ['Zscr', [119989]], ['zscr', [120015]], ['zwj', [8205]], ['zwnj', [8204]]];
@@ -11644,48 +11647,36 @@ module.exports = Html5Entities;
 
 
 /***/ }),
-/* 23 */
+/* 24 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(20);
 
 /***/ }),
-/* 24 */
+/* 25 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(4);
 
 /***/ }),
-/* 25 */
+/* 26 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(61);
 
 /***/ }),
-/* 26 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = (__webpack_require__(1))(64);
-
-/***/ }),
 /* 27 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = (__webpack_require__(1))(65);
-
-/***/ }),
-/* 28 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_reflect_metadata__ = __webpack_require__(83);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_reflect_metadata__ = __webpack_require__(82);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_reflect_metadata___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_reflect_metadata__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_zone_js__ = __webpack_require__(124);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_zone_js___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_zone_js__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_platform_browser_dynamic__ = __webpack_require__(122);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__app_app_module_browser__ = __webpack_require__(43);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_platform_browser_dynamic__ = __webpack_require__(121);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__app_app_module_browser__ = __webpack_require__(42);
 
 
 
@@ -11711,7 +11702,7 @@ var modulePromise = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__angular_p
 
 
 /***/ }),
-/* 29 */
+/* 28 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(__resourceQuery, module) {/*eslint-env browser*/
@@ -11727,7 +11718,7 @@ var options = {
   name: ''
 };
 if (true) {
-  var querystring = __webpack_require__(82);
+  var querystring = __webpack_require__(81);
   var overrides = querystring.parse(__resourceQuery.slice(1));
   if (overrides.path) options.path = overrides.path;
   if (overrides.timeout) options.timeout = overrides.timeout;
@@ -11847,11 +11838,11 @@ if (typeof window !== 'undefined') {
 }
 
 function createReporter() {
-  var strip = __webpack_require__(98);
+  var strip = __webpack_require__(97);
 
   var overlay;
   if (typeof document !== 'undefined' && options.overlay) {
-    overlay = __webpack_require__(109);
+    overlay = __webpack_require__(108);
   }
 
   var styles = {
@@ -11904,7 +11895,7 @@ function createReporter() {
   };
 }
 
-var processUpdate = __webpack_require__(110);
+var processUpdate = __webpack_require__(109);
 
 var customHandler;
 var subscribeAllHandler;
@@ -11969,16 +11960,16 @@ if (module) {
   };
 }
 
-/* WEBPACK VAR INJECTION */}.call(exports, "?path=__webpack_hmr&dynamicPublicPath=true", __webpack_require__(111)(module)))
+/* WEBPACK VAR INJECTION */}.call(exports, "?path=__webpack_hmr&dynamicPublicPath=true", __webpack_require__(110)(module)))
 
 /***/ }),
-/* 30 */
+/* 29 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(68);
 
 /***/ }),
-/* 31 */
+/* 30 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11992,7 +11983,7 @@ module.exports = (__webpack_require__(1))(68);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return WebAnimationsDriver; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return supportsWebAnimations; });
 /* unused harmony export ɵWebAnimationsPlayer */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(24);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(25);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_animations__ = __webpack_require__(12);
 
 /**
@@ -16936,7 +16927,7 @@ function supportsWebAnimations() {
 
 
 /***/ }),
-/* 32 */
+/* 31 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -16953,11 +16944,11 @@ function supportsWebAnimations() {
 /* unused harmony export ɵd */
 /* unused harmony export ɵe */
 /* unused harmony export ɵc */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(24);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_tslib__ = __webpack_require__(25);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_platform_browser__ = __webpack_require__(10);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_animations__ = __webpack_require__(12);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_animations_browser__ = __webpack_require__(31);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_animations_browser__ = __webpack_require__(30);
 
 /**
  * @license Angular v4.2.5
@@ -17671,15 +17662,15 @@ NoopAnimationsModule.ctorParameters = function () { return []; };
 
 
 /***/ }),
-/* 33 */
+/* 32 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ToasterModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(11);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__toast_component__ = __webpack_require__(14);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__toaster_container_component__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__toast_component__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__toaster_container_component__ = __webpack_require__(17);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__toaster_service__ = __webpack_require__(7);
 
 
@@ -17711,7 +17702,7 @@ ToasterModule.ctorParameters = function () { return []; };
 //# sourceMappingURL=toaster.module.js.map
 
 /***/ }),
-/* 34 */
+/* 33 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -17720,10 +17711,10 @@ function __export(m) {
     for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
 }
 
-__export(__webpack_require__(35));
+__export(__webpack_require__(34));
 
 /***/ }),
-/* 35 */
+/* 34 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -17732,13 +17723,13 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "YaCoreModule", function() { return YaCoreModule; });
 /* harmony export (immutable) */ __webpack_exports__["YaCoreModuleForRoot"] = YaCoreModuleForRoot;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__directives_ymap__ = __webpack_require__(39);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__directives_marker__ = __webpack_require__(37);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_claster__ = __webpack_require__(36);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_objectManager__ = __webpack_require__(38);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__services_ya_maps_loader__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__directives_ymap__ = __webpack_require__(38);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__directives_marker__ = __webpack_require__(36);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_claster__ = __webpack_require__(35);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_objectManager__ = __webpack_require__(37);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__services_ya_maps_loader__ = __webpack_require__(21);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__utils_browser_globals__ = __webpack_require__(8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__ya_maps_types__ = __webpack_require__(40);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__ya_maps_types__ = __webpack_require__(39);
 /* harmony namespace reexport (by provided) */ __webpack_require__.d(__webpack_exports__, "yandex", function() { return __WEBPACK_IMPORTED_MODULE_7__ya_maps_types__["a"]; });
 
 
@@ -17793,14 +17784,14 @@ function YaCoreModuleForRoot() {
 //# sourceMappingURL=core.module.js.map
 
 /***/ }),
-/* 36 */
+/* 35 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return YaClaster; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ya_maps_api_wrapper__ = __webpack_require__(4);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_managers_claster_manager__ = __webpack_require__(17);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_managers_claster_manager__ = __webpack_require__(18);
 // tslint:disable-next-line:max-line-length
 
 
@@ -17843,14 +17834,14 @@ var YaClaster = /** @class */ (function () {
 //# sourceMappingURL=claster.js.map
 
 /***/ }),
-/* 37 */
+/* 36 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return YaMarker; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ya_maps_api_wrapper__ = __webpack_require__(4);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_managers_marker_manager__ = __webpack_require__(18);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_managers_marker_manager__ = __webpack_require__(19);
 // tslint:disable-next-line:max-line-length
 
 
@@ -17940,14 +17931,14 @@ var YaMarker = /** @class */ (function () {
 //# sourceMappingURL=marker.js.map
 
 /***/ }),
-/* 38 */
+/* 37 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return YaObjectManager; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ya_maps_api_wrapper__ = __webpack_require__(4);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_managers_objectManager_manager__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_managers_objectManager_manager__ = __webpack_require__(20);
 
 
 
@@ -18005,16 +17996,16 @@ var YaObjectManager = /** @class */ (function () {
 //# sourceMappingURL=objectManager.js.map
 
 /***/ }),
-/* 39 */
+/* 38 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return YaMap; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ya_maps_api_wrapper__ = __webpack_require__(4);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_managers_marker_manager__ = __webpack_require__(18);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__services_managers_claster_manager__ = __webpack_require__(17);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__services_managers_objectManager_manager__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_managers_marker_manager__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__services_managers_claster_manager__ = __webpack_require__(18);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__services_managers_objectManager_manager__ = __webpack_require__(20);
 // tslint:disable-next-line:max-line-length
 
 
@@ -18137,7 +18128,7 @@ var YaMap = /** @class */ (function () {
 //# sourceMappingURL=ymap.js.map
 
 /***/ }),
-/* 40 */
+/* 39 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18146,7 +18137,7 @@ var yandex;
 //# sourceMappingURL=ya-maps-types.js.map
 
 /***/ }),
-/* 41 */
+/* 40 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -18329,7 +18320,7 @@ ansiHTML.reset()
 
 
 /***/ }),
-/* 42 */
+/* 41 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -18340,7 +18331,7 @@ module.exports = function () {
 
 
 /***/ }),
-/* 43 */
+/* 42 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18348,8 +18339,8 @@ module.exports = function () {
 /* unused harmony export getBaseUrl */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_platform_browser__ = __webpack_require__(10);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__app_module_shared__ = __webpack_require__(44);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_app_app_component__ = __webpack_require__(21);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__app_module_shared__ = __webpack_require__(43);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_app_app_component__ = __webpack_require__(22);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -18384,30 +18375,30 @@ function getBaseUrl() {
 
 
 /***/ }),
-/* 44 */
+/* 43 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModuleShared; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(11);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_forms__ = __webpack_require__(25);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_forms__ = __webpack_require__(26);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_http__ = __webpack_require__(5);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_router__ = __webpack_require__(26);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_ngx_infinite_scroll__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_codemirror_codemirror_module__ = __webpack_require__(46);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_angular2_toaster__ = __webpack_require__(13);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_email_email_component__ = __webpack_require__(47);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_app_app_component__ = __webpack_require__(21);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_home_home_component__ = __webpack_require__(48);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_logs_front_frontlog_component__ = __webpack_require__(51);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__components_logs_apariktexum_apariktexum_component__ = __webpack_require__(49);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__components_logs_customers_customers_component__ = __webpack_require__(50);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__components_order_order_component__ = __webpack_require__(53);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__components_sqleditor_sqleditor_component__ = __webpack_require__(54);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__components_logs_front_frontlogdetails_frontlogdetails_component__ = __webpack_require__(52);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__angular_platform_browser_animations__ = __webpack_require__(32);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18_angular2_yandex_maps__ = __webpack_require__(34);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_router__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_ngx_infinite_scroll__ = __webpack_require__(78);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_codemirror_codemirror_module__ = __webpack_require__(45);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_angular2_toaster__ = __webpack_require__(14);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_email_email_component__ = __webpack_require__(46);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_app_app_component__ = __webpack_require__(22);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_home_home_component__ = __webpack_require__(47);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_logs_front_frontlog_component__ = __webpack_require__(50);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__components_logs_apariktexum_apariktexum_component__ = __webpack_require__(48);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__components_logs_customers_customers_component__ = __webpack_require__(49);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__components_order_order_component__ = __webpack_require__(52);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__components_sqleditor_sqleditor_component__ = __webpack_require__(53);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__components_logs_front_frontlogdetails_frontlogdetails_component__ = __webpack_require__(51);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__angular_platform_browser_animations__ = __webpack_require__(31);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18_angular2_yandex_maps__ = __webpack_require__(33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_18_angular2_yandex_maps___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_18_angular2_yandex_maps__);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -18469,9 +18460,7 @@ var AppModuleShared = (function () {
                     { path: 'aparikTexumLogs', component: __WEBPACK_IMPORTED_MODULE_12__components_logs_apariktexum_apariktexum_component__["a" /* AparikTexumLogComponent */] },
                     { path: 'orders', component: __WEBPACK_IMPORTED_MODULE_14__components_order_order_component__["a" /* OrderComponent */] },
                     { path: 'sqleditor', component: __WEBPACK_IMPORTED_MODULE_15__components_sqleditor_sqleditor_component__["a" /* SqlEditorComponent */] },
-                    { path: 'frontlogdetails', component: __WEBPACK_IMPORTED_MODULE_16__components_logs_front_frontlogdetails_frontlogdetails_component__["a" /* FrontLogDetailsComponent */] },
-                    //{ path: '**', redirectTo: 'home' }
-                    { path: '**', redirectTo: 'sqleditor' }
+                    { path: 'frontlogdetails/:id', component: __WEBPACK_IMPORTED_MODULE_16__components_logs_front_frontlogdetails_frontlogdetails_component__["a" /* FrontLogDetailsComponent */] },
                 ])
             ]
         })
@@ -18482,13 +18471,13 @@ var AppModuleShared = (function () {
 
 
 /***/ }),
-/* 45 */
+/* 44 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CodemirrorComponent; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(25);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(26);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_codemirror__ = __webpack_require__(9);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_codemirror___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_codemirror__);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -18623,7 +18612,7 @@ var CodemirrorComponent = (function () {
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
             selector: 'codemirror',
             encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["ViewEncapsulation"].None,
-            styles: [__webpack_require__(100)],
+            styles: [__webpack_require__(99)],
             providers: [
                 {
                     provide: __WEBPACK_IMPORTED_MODULE_1__angular_forms__["NG_VALUE_ACCESSOR"],
@@ -18642,14 +18631,14 @@ var CodemirrorComponent = (function () {
 
 
 /***/ }),
-/* 46 */
+/* 45 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CodemirrorModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(11);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__codemirror_component__ = __webpack_require__(45);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__codemirror_component__ = __webpack_require__(44);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -18684,7 +18673,7 @@ var CodemirrorModule = (function () {
 
 
 /***/ }),
-/* 47 */
+/* 46 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18707,8 +18696,8 @@ var EmailComponent = (function () {
     EmailComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
             selector: 'email',
-            template: __webpack_require__(71),
-            styles: [__webpack_require__(101)],
+            template: __webpack_require__(70),
+            styles: [__webpack_require__(100)],
             inputs: ["logId", "show"]
         })
     ], EmailComponent);
@@ -18718,7 +18707,7 @@ var EmailComponent = (function () {
 
 
 /***/ }),
-/* 48 */
+/* 47 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18737,7 +18726,7 @@ var HomeComponent = (function () {
     HomeComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
             selector: 'home',
-            template: __webpack_require__(72)
+            template: __webpack_require__(71)
         })
     ], HomeComponent);
     return HomeComponent;
@@ -18746,7 +18735,7 @@ var HomeComponent = (function () {
 
 
 /***/ }),
-/* 49 */
+/* 48 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18786,8 +18775,8 @@ var AparikTexumLogComponent = (function () {
     };
     AparikTexumLogComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            template: __webpack_require__(73),
-            styles: [__webpack_require__(102)]
+            template: __webpack_require__(72),
+            styles: [__webpack_require__(101)]
         }),
         __param(1, __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Inject"])('BASE_URL')),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_http__["Http"], String])
@@ -18798,7 +18787,7 @@ var AparikTexumLogComponent = (function () {
 
 
 /***/ }),
-/* 50 */
+/* 49 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18838,8 +18827,8 @@ var CustomersLogComponent = (function () {
     };
     CustomersLogComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            template: __webpack_require__(74),
-            styles: [__webpack_require__(103)]
+            template: __webpack_require__(73),
+            styles: [__webpack_require__(102)]
         }),
         __param(1, __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Inject"])('BASE_URL')),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_http__["Http"], String])
@@ -18850,16 +18839,16 @@ var CustomersLogComponent = (function () {
 
 
 /***/ }),
-/* 51 */
+/* 50 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FrontLogComponent; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(5);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_router__ = __webpack_require__(26);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_angular2_toaster__ = __webpack_require__(13);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__aspnet_signalr_client__ = __webpack_require__(27);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_router__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_angular2_toaster__ = __webpack_require__(14);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__aspnet_signalr_client__ = __webpack_require__(122);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__aspnet_signalr_client___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__aspnet_signalr_client__);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -18888,7 +18877,8 @@ var FrontLogComponent = (function () {
     }
     FrontLogComponent.prototype.ngOnInit = function () {
         var _this = this;
-        this.http.get(this.baseUrl + 'api/Log/Getlogs').subscribe(function (result) {
+        this.http.get(this.baseUrl + 'Log/GetAll').subscribe(function (result) {
+            console.log(_this.baseUrl);
             _this.logs = result.json();
             console.log(_this.logs);
         }, function (error) { return console.error(error); });
@@ -18908,8 +18898,8 @@ var FrontLogComponent = (function () {
             this.previousLog.show = false;
         }
     };
-    FrontLogComponent.prototype.openLogDetails = function () {
-        this.router.navigateByUrl('/frontlogdetails');
+    FrontLogComponent.prototype.openLogDetails = function (logId) {
+        this.router.navigate(['/frontlogdetails', logId]);
     };
     FrontLogComponent.prototype.shareLog = function () {
         this.showEmailForm = true;
@@ -18940,8 +18930,8 @@ var FrontLogComponent = (function () {
     };
     FrontLogComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            template: __webpack_require__(75),
-            styles: [__webpack_require__(105), __webpack_require__(104)]
+            template: __webpack_require__(74),
+            styles: [__webpack_require__(104), __webpack_require__(103)]
         }),
         __param(1, __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Inject"])('BASE_URL')),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_http__["Http"], String, __WEBPACK_IMPORTED_MODULE_2__angular_router__["Router"], __WEBPACK_IMPORTED_MODULE_3_angular2_toaster__["b" /* ToasterService */]])
@@ -18952,15 +18942,16 @@ var FrontLogComponent = (function () {
 
 
 /***/ }),
-/* 52 */
+/* 51 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FrontLogDetailsComponent; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(5);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_codemirror_mode_xml_xml__ = __webpack_require__(56);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_codemirror_mode_xml_xml___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_codemirror_mode_xml_xml__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(13);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_http__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_codemirror_mode_clike_clike__ = __webpack_require__(54);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_codemirror_mode_clike_clike___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_codemirror_mode_clike_clike__);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -18976,20 +18967,71 @@ var __param = (this && this.__param) || function (paramIndex, decorator) {
 
 
 
+
 var FrontLogDetailsComponent = (function () {
-    function FrontLogDetailsComponent(http, baseUrl) {
-        this.config = { lineNumbers: true, mode: 'xml' };
-        this.content = 'SELECT * FROM ';
+    function FrontLogDetailsComponent(http, baseUrl, router, activatedRoute) {
+        this.http = http;
+        this.baseUrl = baseUrl;
+        this.router = router;
+        this.activatedRoute = activatedRoute;
     }
     FrontLogDetailsComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        console.log("log details");
+        this.config = { lineNumbers: true, mode: 'text/x-csharp', matchBrackets: true, };
+        this.content = '';
+        this.sub = this.activatedRoute.params.subscribe(function (params) {
+            _this.id = +params['id'];
+            _this.getLog(_this.id);
+        });
+    };
+    FrontLogDetailsComponent.prototype.ngOnDestroy = function () {
+        this.sub.unsubscribe();
+    };
+    FrontLogDetailsComponent.prototype.getLog = function (id) {
+        var _this = this;
+        this.http.get(this.baseUrl + 'Log/Get/' + this.id).subscribe(function (result) {
+            _this.log = result.json();
+            _this.setStackTraceHtml();
+        }, function (error) { return console.error(error); });
+    };
+    FrontLogDetailsComponent.prototype.setStackTraceHtml = function () {
+        var logLines = this.log.stackTrace.split('\r\n');
+        var tt = Array();
+        var stackTraceHtml = '';
+        this.log.stakTraceFull = [];
+        for (var i = 0; i < logLines.length; i++) {
+            if (logLines[i].includes(' in ')) {
+                tt = logLines[i].split(' in ');
+                var ttt = Array();
+                ttt.push(tt[0]);
+                ttt.push(tt[1]);
+                this.log.stakTraceFull.push({ "lines": ttt });
+            }
+            else {
+                var ttt = Array();
+                ttt.push(logLines[i]);
+                this.log.stakTraceFull.push({ "lines": ttt });
+            }
+        }
+        //this.log.stackTrace = stackTraceHtml;
+    };
+    FrontLogDetailsComponent.prototype.getFileContentFromTfs = function (path) {
+        var _this = this;
+        var index = path.indexOf(":line");
+        path = path.slice(0, index - path.length);
+        this.http.get(this.baseUrl + 'Log/GetFileContentFromFileSystem' + '?path=' + path).subscribe(function (result) {
+            _this.content = result.json().content;
+            console.log(_this.content);
+        }, function (error) { return console.error(error); });
     };
     FrontLogDetailsComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            template: __webpack_require__(76),
-            styles: [__webpack_require__(106)]
+            template: __webpack_require__(75),
+            styles: [__webpack_require__(105)]
         }),
         __param(1, __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Inject"])('BASE_URL')),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_http__["Http"], String])
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__angular_http__["Http"], String, __WEBPACK_IMPORTED_MODULE_1__angular_router__["Router"], __WEBPACK_IMPORTED_MODULE_1__angular_router__["ActivatedRoute"]])
     ], FrontLogDetailsComponent);
     return FrontLogDetailsComponent;
 }());
@@ -18997,7 +19039,7 @@ var FrontLogDetailsComponent = (function () {
 
 
 /***/ }),
-/* 53 */
+/* 52 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19027,8 +19069,8 @@ var OrderComponent = (function () {
     };
     OrderComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            template: __webpack_require__(77),
-            styles: [__webpack_require__(107)]
+            template: __webpack_require__(76),
+            styles: [__webpack_require__(106)]
         }),
         __param(1, __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Inject"])('BASE_URL')),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_http__["Http"], String])
@@ -19039,7 +19081,7 @@ var OrderComponent = (function () {
 
 
 /***/ }),
-/* 54 */
+/* 53 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19100,8 +19142,8 @@ var SqlEditorComponent = (function () {
     };
     SqlEditorComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            template: __webpack_require__(78),
-            styles: [__webpack_require__(108)]
+            template: __webpack_require__(77),
+            styles: [__webpack_require__(107)]
         }),
         __param(1, __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Inject"])('BASE_URL')),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_http__["Http"], String])
@@ -19109,6 +19151,802 @@ var SqlEditorComponent = (function () {
     return SqlEditorComponent;
 }());
 
+
+
+/***/ }),
+/* 54 */
+/***/ (function(module, exports, __webpack_require__) {
+
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (true) // CommonJS
+    mod(__webpack_require__(9));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+function Context(indented, column, type, info, align, prev) {
+  this.indented = indented;
+  this.column = column;
+  this.type = type;
+  this.info = info;
+  this.align = align;
+  this.prev = prev;
+}
+function pushContext(state, col, type, info) {
+  var indent = state.indented;
+  if (state.context && state.context.type == "statement" && type != "statement")
+    indent = state.context.indented;
+  return state.context = new Context(indent, col, type, info, null, state.context);
+}
+function popContext(state) {
+  var t = state.context.type;
+  if (t == ")" || t == "]" || t == "}")
+    state.indented = state.context.indented;
+  return state.context = state.context.prev;
+}
+
+function typeBefore(stream, state, pos) {
+  if (state.prevToken == "variable" || state.prevToken == "type") return true;
+  if (/\S(?:[^- ]>|[*\]])\s*$|\*$/.test(stream.string.slice(0, pos))) return true;
+  if (state.typeAtEndOfLine && stream.column() == stream.indentation()) return true;
+}
+
+function isTopScope(context) {
+  for (;;) {
+    if (!context || context.type == "top") return true;
+    if (context.type == "}" && context.prev.info != "namespace") return false;
+    context = context.prev;
+  }
+}
+
+CodeMirror.defineMode("clike", function(config, parserConfig) {
+  var indentUnit = config.indentUnit,
+      statementIndentUnit = parserConfig.statementIndentUnit || indentUnit,
+      dontAlignCalls = parserConfig.dontAlignCalls,
+      keywords = parserConfig.keywords || {},
+      types = parserConfig.types || {},
+      builtin = parserConfig.builtin || {},
+      blockKeywords = parserConfig.blockKeywords || {},
+      defKeywords = parserConfig.defKeywords || {},
+      atoms = parserConfig.atoms || {},
+      hooks = parserConfig.hooks || {},
+      multiLineStrings = parserConfig.multiLineStrings,
+      indentStatements = parserConfig.indentStatements !== false,
+      indentSwitch = parserConfig.indentSwitch !== false,
+      namespaceSeparator = parserConfig.namespaceSeparator,
+      isPunctuationChar = parserConfig.isPunctuationChar || /[\[\]{}\(\),;\:\.]/,
+      numberStart = parserConfig.numberStart || /[\d\.]/,
+      number = parserConfig.number || /^(?:0x[a-f\d]+|0b[01]+|(?:\d+\.?\d*|\.\d+)(?:e[-+]?\d+)?)(u|ll?|l|f)?/i,
+      isOperatorChar = parserConfig.isOperatorChar || /[+\-*&%=<>!?|\/]/,
+      isIdentifierChar = parserConfig.isIdentifierChar || /[\w\$_\xa1-\uffff]/;
+
+  var curPunc, isDefKeyword;
+
+  function tokenBase(stream, state) {
+    var ch = stream.next();
+    if (hooks[ch]) {
+      var result = hooks[ch](stream, state);
+      if (result !== false) return result;
+    }
+    if (ch == '"' || ch == "'") {
+      state.tokenize = tokenString(ch);
+      return state.tokenize(stream, state);
+    }
+    if (isPunctuationChar.test(ch)) {
+      curPunc = ch;
+      return null;
+    }
+    if (numberStart.test(ch)) {
+      stream.backUp(1)
+      if (stream.match(number)) return "number"
+      stream.next()
+    }
+    if (ch == "/") {
+      if (stream.eat("*")) {
+        state.tokenize = tokenComment;
+        return tokenComment(stream, state);
+      }
+      if (stream.eat("/")) {
+        stream.skipToEnd();
+        return "comment";
+      }
+    }
+    if (isOperatorChar.test(ch)) {
+      while (!stream.match(/^\/[\/*]/, false) && stream.eat(isOperatorChar)) {}
+      return "operator";
+    }
+    stream.eatWhile(isIdentifierChar);
+    if (namespaceSeparator) while (stream.match(namespaceSeparator))
+      stream.eatWhile(isIdentifierChar);
+
+    var cur = stream.current();
+    if (contains(keywords, cur)) {
+      if (contains(blockKeywords, cur)) curPunc = "newstatement";
+      if (contains(defKeywords, cur)) isDefKeyword = true;
+      return "keyword";
+    }
+    if (contains(types, cur)) return "type";
+    if (contains(builtin, cur)) {
+      if (contains(blockKeywords, cur)) curPunc = "newstatement";
+      return "builtin";
+    }
+    if (contains(atoms, cur)) return "atom";
+    return "variable";
+  }
+
+  function tokenString(quote) {
+    return function(stream, state) {
+      var escaped = false, next, end = false;
+      while ((next = stream.next()) != null) {
+        if (next == quote && !escaped) {end = true; break;}
+        escaped = !escaped && next == "\\";
+      }
+      if (end || !(escaped || multiLineStrings))
+        state.tokenize = null;
+      return "string";
+    };
+  }
+
+  function tokenComment(stream, state) {
+    var maybeEnd = false, ch;
+    while (ch = stream.next()) {
+      if (ch == "/" && maybeEnd) {
+        state.tokenize = null;
+        break;
+      }
+      maybeEnd = (ch == "*");
+    }
+    return "comment";
+  }
+
+  function maybeEOL(stream, state) {
+    if (parserConfig.typeFirstDefinitions && stream.eol() && isTopScope(state.context))
+      state.typeAtEndOfLine = typeBefore(stream, state, stream.pos)
+  }
+
+  // Interface
+
+  return {
+    startState: function(basecolumn) {
+      return {
+        tokenize: null,
+        context: new Context((basecolumn || 0) - indentUnit, 0, "top", null, false),
+        indented: 0,
+        startOfLine: true,
+        prevToken: null
+      };
+    },
+
+    token: function(stream, state) {
+      var ctx = state.context;
+      if (stream.sol()) {
+        if (ctx.align == null) ctx.align = false;
+        state.indented = stream.indentation();
+        state.startOfLine = true;
+      }
+      if (stream.eatSpace()) { maybeEOL(stream, state); return null; }
+      curPunc = isDefKeyword = null;
+      var style = (state.tokenize || tokenBase)(stream, state);
+      if (style == "comment" || style == "meta") return style;
+      if (ctx.align == null) ctx.align = true;
+
+      if (curPunc == ";" || curPunc == ":" || (curPunc == "," && stream.match(/^\s*(?:\/\/.*)?$/, false)))
+        while (state.context.type == "statement") popContext(state);
+      else if (curPunc == "{") pushContext(state, stream.column(), "}");
+      else if (curPunc == "[") pushContext(state, stream.column(), "]");
+      else if (curPunc == "(") pushContext(state, stream.column(), ")");
+      else if (curPunc == "}") {
+        while (ctx.type == "statement") ctx = popContext(state);
+        if (ctx.type == "}") ctx = popContext(state);
+        while (ctx.type == "statement") ctx = popContext(state);
+      }
+      else if (curPunc == ctx.type) popContext(state);
+      else if (indentStatements &&
+               (((ctx.type == "}" || ctx.type == "top") && curPunc != ";") ||
+                (ctx.type == "statement" && curPunc == "newstatement"))) {
+        pushContext(state, stream.column(), "statement", stream.current());
+      }
+
+      if (style == "variable" &&
+          ((state.prevToken == "def" ||
+            (parserConfig.typeFirstDefinitions && typeBefore(stream, state, stream.start) &&
+             isTopScope(state.context) && stream.match(/^\s*\(/, false)))))
+        style = "def";
+
+      if (hooks.token) {
+        var result = hooks.token(stream, state, style);
+        if (result !== undefined) style = result;
+      }
+
+      if (style == "def" && parserConfig.styleDefs === false) style = "variable";
+
+      state.startOfLine = false;
+      state.prevToken = isDefKeyword ? "def" : style || curPunc;
+      maybeEOL(stream, state);
+      return style;
+    },
+
+    indent: function(state, textAfter) {
+      if (state.tokenize != tokenBase && state.tokenize != null || state.typeAtEndOfLine) return CodeMirror.Pass;
+      var ctx = state.context, firstChar = textAfter && textAfter.charAt(0);
+      if (ctx.type == "statement" && firstChar == "}") ctx = ctx.prev;
+      if (parserConfig.dontIndentStatements)
+        while (ctx.type == "statement" && parserConfig.dontIndentStatements.test(ctx.info))
+          ctx = ctx.prev
+      if (hooks.indent) {
+        var hook = hooks.indent(state, ctx, textAfter);
+        if (typeof hook == "number") return hook
+      }
+      var closing = firstChar == ctx.type;
+      var switchBlock = ctx.prev && ctx.prev.info == "switch";
+      if (parserConfig.allmanIndentation && /[{(]/.test(firstChar)) {
+        while (ctx.type != "top" && ctx.type != "}") ctx = ctx.prev
+        return ctx.indented
+      }
+      if (ctx.type == "statement")
+        return ctx.indented + (firstChar == "{" ? 0 : statementIndentUnit);
+      if (ctx.align && (!dontAlignCalls || ctx.type != ")"))
+        return ctx.column + (closing ? 0 : 1);
+      if (ctx.type == ")" && !closing)
+        return ctx.indented + statementIndentUnit;
+
+      return ctx.indented + (closing ? 0 : indentUnit) +
+        (!closing && switchBlock && !/^(?:case|default)\b/.test(textAfter) ? indentUnit : 0);
+    },
+
+    electricInput: indentSwitch ? /^\s*(?:case .*?:|default:|\{\}?|\})$/ : /^\s*[{}]$/,
+    blockCommentStart: "/*",
+    blockCommentEnd: "*/",
+    blockCommentContinue: " * ",
+    lineComment: "//",
+    fold: "brace"
+  };
+});
+
+  function words(str) {
+    var obj = {}, words = str.split(" ");
+    for (var i = 0; i < words.length; ++i) obj[words[i]] = true;
+    return obj;
+  }
+  function contains(words, word) {
+    if (typeof words === "function") {
+      return words(word);
+    } else {
+      return words.propertyIsEnumerable(word);
+    }
+  }
+  var cKeywords = "auto if break case register continue return default do sizeof " +
+    "static else struct switch extern typedef union for goto while enum const volatile";
+  var cTypes = "int long char short double float unsigned signed void size_t ptrdiff_t";
+
+  function cppHook(stream, state) {
+    if (!state.startOfLine) return false
+    for (var ch, next = null; ch = stream.peek();) {
+      if (ch == "\\" && stream.match(/^.$/)) {
+        next = cppHook
+        break
+      } else if (ch == "/" && stream.match(/^\/[\/\*]/, false)) {
+        break
+      }
+      stream.next()
+    }
+    state.tokenize = next
+    return "meta"
+  }
+
+  function pointerHook(_stream, state) {
+    if (state.prevToken == "type") return "type";
+    return false;
+  }
+
+  function cpp14Literal(stream) {
+    stream.eatWhile(/[\w\.']/);
+    return "number";
+  }
+
+  function cpp11StringHook(stream, state) {
+    stream.backUp(1);
+    // Raw strings.
+    if (stream.match(/(R|u8R|uR|UR|LR)/)) {
+      var match = stream.match(/"([^\s\\()]{0,16})\(/);
+      if (!match) {
+        return false;
+      }
+      state.cpp11RawStringDelim = match[1];
+      state.tokenize = tokenRawString;
+      return tokenRawString(stream, state);
+    }
+    // Unicode strings/chars.
+    if (stream.match(/(u8|u|U|L)/)) {
+      if (stream.match(/["']/, /* eat */ false)) {
+        return "string";
+      }
+      return false;
+    }
+    // Ignore this hook.
+    stream.next();
+    return false;
+  }
+
+  function cppLooksLikeConstructor(word) {
+    var lastTwo = /(\w+)::~?(\w+)$/.exec(word);
+    return lastTwo && lastTwo[1] == lastTwo[2];
+  }
+
+  // C#-style strings where "" escapes a quote.
+  function tokenAtString(stream, state) {
+    var next;
+    while ((next = stream.next()) != null) {
+      if (next == '"' && !stream.eat('"')) {
+        state.tokenize = null;
+        break;
+      }
+    }
+    return "string";
+  }
+
+  // C++11 raw string literal is <prefix>"<delim>( anything )<delim>", where
+  // <delim> can be a string up to 16 characters long.
+  function tokenRawString(stream, state) {
+    // Escape characters that have special regex meanings.
+    var delim = state.cpp11RawStringDelim.replace(/[^\w\s]/g, '\\$&');
+    var match = stream.match(new RegExp(".*?\\)" + delim + '"'));
+    if (match)
+      state.tokenize = null;
+    else
+      stream.skipToEnd();
+    return "string";
+  }
+
+  function def(mimes, mode) {
+    if (typeof mimes == "string") mimes = [mimes];
+    var words = [];
+    function add(obj) {
+      if (obj) for (var prop in obj) if (obj.hasOwnProperty(prop))
+        words.push(prop);
+    }
+    add(mode.keywords);
+    add(mode.types);
+    add(mode.builtin);
+    add(mode.atoms);
+    if (words.length) {
+      mode.helperType = mimes[0];
+      CodeMirror.registerHelper("hintWords", mimes[0], words);
+    }
+
+    for (var i = 0; i < mimes.length; ++i)
+      CodeMirror.defineMIME(mimes[i], mode);
+  }
+
+  def(["text/x-csrc", "text/x-c", "text/x-chdr"], {
+    name: "clike",
+    keywords: words(cKeywords),
+    types: words(cTypes + " bool _Complex _Bool float_t double_t intptr_t intmax_t " +
+                 "int8_t int16_t int32_t int64_t uintptr_t uintmax_t uint8_t uint16_t " +
+                 "uint32_t uint64_t"),
+    blockKeywords: words("case do else for if switch while struct"),
+    defKeywords: words("struct"),
+    typeFirstDefinitions: true,
+    atoms: words("null true false"),
+    hooks: {"#": cppHook, "*": pointerHook},
+    modeProps: {fold: ["brace", "include"]}
+  });
+
+  def(["text/x-c++src", "text/x-c++hdr"], {
+    name: "clike",
+    keywords: words(cKeywords + " asm dynamic_cast namespace reinterpret_cast try explicit new " +
+                    "static_cast typeid catch operator template typename class friend private " +
+                    "this using const_cast inline public throw virtual delete mutable protected " +
+                    "alignas alignof constexpr decltype nullptr noexcept thread_local final " +
+                    "static_assert override"),
+    types: words(cTypes + " bool wchar_t"),
+    blockKeywords: words("catch class do else finally for if struct switch try while"),
+    defKeywords: words("class namespace struct enum union"),
+    typeFirstDefinitions: true,
+    atoms: words("true false null"),
+    dontIndentStatements: /^template$/,
+    isIdentifierChar: /[\w\$_~\xa1-\uffff]/,
+    hooks: {
+      "#": cppHook,
+      "*": pointerHook,
+      "u": cpp11StringHook,
+      "U": cpp11StringHook,
+      "L": cpp11StringHook,
+      "R": cpp11StringHook,
+      "0": cpp14Literal,
+      "1": cpp14Literal,
+      "2": cpp14Literal,
+      "3": cpp14Literal,
+      "4": cpp14Literal,
+      "5": cpp14Literal,
+      "6": cpp14Literal,
+      "7": cpp14Literal,
+      "8": cpp14Literal,
+      "9": cpp14Literal,
+      token: function(stream, state, style) {
+        if (style == "variable" && stream.peek() == "(" &&
+            (state.prevToken == ";" || state.prevToken == null ||
+             state.prevToken == "}") &&
+            cppLooksLikeConstructor(stream.current()))
+          return "def";
+      }
+    },
+    namespaceSeparator: "::",
+    modeProps: {fold: ["brace", "include"]}
+  });
+
+  def("text/x-java", {
+    name: "clike",
+    keywords: words("abstract assert break case catch class const continue default " +
+                    "do else enum extends final finally float for goto if implements import " +
+                    "instanceof interface native new package private protected public " +
+                    "return static strictfp super switch synchronized this throw throws transient " +
+                    "try volatile while @interface"),
+    types: words("byte short int long float double boolean char void Boolean Byte Character Double Float " +
+                 "Integer Long Number Object Short String StringBuffer StringBuilder Void"),
+    blockKeywords: words("catch class do else finally for if switch try while"),
+    defKeywords: words("class interface enum @interface"),
+    typeFirstDefinitions: true,
+    atoms: words("true false null"),
+    number: /^(?:0x[a-f\d_]+|0b[01_]+|(?:[\d_]+\.?\d*|\.\d+)(?:e[-+]?[\d_]+)?)(u|ll?|l|f)?/i,
+    hooks: {
+      "@": function(stream) {
+        // Don't match the @interface keyword.
+        if (stream.match('interface', false)) return false;
+
+        stream.eatWhile(/[\w\$_]/);
+        return "meta";
+      }
+    },
+    modeProps: {fold: ["brace", "import"]}
+  });
+
+  def("text/x-csharp", {
+    name: "clike",
+    keywords: words("abstract as async await base break case catch checked class const continue" +
+                    " default delegate do else enum event explicit extern finally fixed for" +
+                    " foreach goto if implicit in interface internal is lock namespace new" +
+                    " operator out override params private protected public readonly ref return sealed" +
+                    " sizeof stackalloc static struct switch this throw try typeof unchecked" +
+                    " unsafe using virtual void volatile while add alias ascending descending dynamic from get" +
+                    " global group into join let orderby partial remove select set value var yield"),
+    types: words("Action Boolean Byte Char DateTime DateTimeOffset Decimal Double Func" +
+                 " Guid Int16 Int32 Int64 Object SByte Single String Task TimeSpan UInt16 UInt32" +
+                 " UInt64 bool byte char decimal double short int long object"  +
+                 " sbyte float string ushort uint ulong"),
+    blockKeywords: words("catch class do else finally for foreach if struct switch try while"),
+    defKeywords: words("class interface namespace struct var"),
+    typeFirstDefinitions: true,
+    atoms: words("true false null"),
+    hooks: {
+      "@": function(stream, state) {
+        if (stream.eat('"')) {
+          state.tokenize = tokenAtString;
+          return tokenAtString(stream, state);
+        }
+        stream.eatWhile(/[\w\$_]/);
+        return "meta";
+      }
+    }
+  });
+
+  function tokenTripleString(stream, state) {
+    var escaped = false;
+    while (!stream.eol()) {
+      if (!escaped && stream.match('"""')) {
+        state.tokenize = null;
+        break;
+      }
+      escaped = stream.next() == "\\" && !escaped;
+    }
+    return "string";
+  }
+
+  def("text/x-scala", {
+    name: "clike",
+    keywords: words(
+
+      /* scala */
+      "abstract case catch class def do else extends final finally for forSome if " +
+      "implicit import lazy match new null object override package private protected return " +
+      "sealed super this throw trait try type val var while with yield _ " +
+
+      /* package scala */
+      "assert assume require print println printf readLine readBoolean readByte readShort " +
+      "readChar readInt readLong readFloat readDouble"
+    ),
+    types: words(
+      "AnyVal App Application Array BufferedIterator BigDecimal BigInt Char Console Either " +
+      "Enumeration Equiv Error Exception Fractional Function IndexedSeq Int Integral Iterable " +
+      "Iterator List Map Numeric Nil NotNull Option Ordered Ordering PartialFunction PartialOrdering " +
+      "Product Proxy Range Responder Seq Serializable Set Specializable Stream StringBuilder " +
+      "StringContext Symbol Throwable Traversable TraversableOnce Tuple Unit Vector " +
+
+      /* package java.lang */
+      "Boolean Byte Character CharSequence Class ClassLoader Cloneable Comparable " +
+      "Compiler Double Exception Float Integer Long Math Number Object Package Pair Process " +
+      "Runtime Runnable SecurityManager Short StackTraceElement StrictMath String " +
+      "StringBuffer System Thread ThreadGroup ThreadLocal Throwable Triple Void"
+    ),
+    multiLineStrings: true,
+    blockKeywords: words("catch class enum do else finally for forSome if match switch try while"),
+    defKeywords: words("class enum def object package trait type val var"),
+    atoms: words("true false null"),
+    indentStatements: false,
+    indentSwitch: false,
+    isOperatorChar: /[+\-*&%=<>!?|\/#:@]/,
+    hooks: {
+      "@": function(stream) {
+        stream.eatWhile(/[\w\$_]/);
+        return "meta";
+      },
+      '"': function(stream, state) {
+        if (!stream.match('""')) return false;
+        state.tokenize = tokenTripleString;
+        return state.tokenize(stream, state);
+      },
+      "'": function(stream) {
+        stream.eatWhile(/[\w\$_\xa1-\uffff]/);
+        return "atom";
+      },
+      "=": function(stream, state) {
+        var cx = state.context
+        if (cx.type == "}" && cx.align && stream.eat(">")) {
+          state.context = new Context(cx.indented, cx.column, cx.type, cx.info, null, cx.prev)
+          return "operator"
+        } else {
+          return false
+        }
+      }
+    },
+    modeProps: {closeBrackets: {triples: '"'}}
+  });
+
+  function tokenKotlinString(tripleString){
+    return function (stream, state) {
+      var escaped = false, next, end = false;
+      while (!stream.eol()) {
+        if (!tripleString && !escaped && stream.match('"') ) {end = true; break;}
+        if (tripleString && stream.match('"""')) {end = true; break;}
+        next = stream.next();
+        if(!escaped && next == "$" && stream.match('{'))
+          stream.skipTo("}");
+        escaped = !escaped && next == "\\" && !tripleString;
+      }
+      if (end || !tripleString)
+        state.tokenize = null;
+      return "string";
+    }
+  }
+
+  def("text/x-kotlin", {
+    name: "clike",
+    keywords: words(
+      /*keywords*/
+      "package as typealias class interface this super val " +
+      "var fun for is in This throw return " +
+      "break continue object if else while do try when !in !is as? " +
+
+      /*soft keywords*/
+      "file import where by get set abstract enum open inner override private public internal " +
+      "protected catch finally out final vararg reified dynamic companion constructor init " +
+      "sealed field property receiver param sparam lateinit data inline noinline tailrec " +
+      "external annotation crossinline const operator infix suspend"
+    ),
+    types: words(
+      /* package java.lang */
+      "Boolean Byte Character CharSequence Class ClassLoader Cloneable Comparable " +
+      "Compiler Double Exception Float Integer Long Math Number Object Package Pair Process " +
+      "Runtime Runnable SecurityManager Short StackTraceElement StrictMath String " +
+      "StringBuffer System Thread ThreadGroup ThreadLocal Throwable Triple Void"
+    ),
+    intendSwitch: false,
+    indentStatements: false,
+    multiLineStrings: true,
+    number: /^(?:0x[a-f\d_]+|0b[01_]+|(?:[\d_]+\.?\d*|\.\d+)(?:e[-+]?[\d_]+)?)(u|ll?|l|f)?/i,
+    blockKeywords: words("catch class do else finally for if where try while enum"),
+    defKeywords: words("class val var object interface fun"),
+    atoms: words("true false null this"),
+    hooks: {
+      '"': function(stream, state) {
+        state.tokenize = tokenKotlinString(stream.match('""'));
+        return state.tokenize(stream, state);
+      }
+    },
+    modeProps: {closeBrackets: {triples: '"'}}
+  });
+
+  def(["x-shader/x-vertex", "x-shader/x-fragment"], {
+    name: "clike",
+    keywords: words("sampler1D sampler2D sampler3D samplerCube " +
+                    "sampler1DShadow sampler2DShadow " +
+                    "const attribute uniform varying " +
+                    "break continue discard return " +
+                    "for while do if else struct " +
+                    "in out inout"),
+    types: words("float int bool void " +
+                 "vec2 vec3 vec4 ivec2 ivec3 ivec4 bvec2 bvec3 bvec4 " +
+                 "mat2 mat3 mat4"),
+    blockKeywords: words("for while do if else struct"),
+    builtin: words("radians degrees sin cos tan asin acos atan " +
+                    "pow exp log exp2 sqrt inversesqrt " +
+                    "abs sign floor ceil fract mod min max clamp mix step smoothstep " +
+                    "length distance dot cross normalize ftransform faceforward " +
+                    "reflect refract matrixCompMult " +
+                    "lessThan lessThanEqual greaterThan greaterThanEqual " +
+                    "equal notEqual any all not " +
+                    "texture1D texture1DProj texture1DLod texture1DProjLod " +
+                    "texture2D texture2DProj texture2DLod texture2DProjLod " +
+                    "texture3D texture3DProj texture3DLod texture3DProjLod " +
+                    "textureCube textureCubeLod " +
+                    "shadow1D shadow2D shadow1DProj shadow2DProj " +
+                    "shadow1DLod shadow2DLod shadow1DProjLod shadow2DProjLod " +
+                    "dFdx dFdy fwidth " +
+                    "noise1 noise2 noise3 noise4"),
+    atoms: words("true false " +
+                "gl_FragColor gl_SecondaryColor gl_Normal gl_Vertex " +
+                "gl_MultiTexCoord0 gl_MultiTexCoord1 gl_MultiTexCoord2 gl_MultiTexCoord3 " +
+                "gl_MultiTexCoord4 gl_MultiTexCoord5 gl_MultiTexCoord6 gl_MultiTexCoord7 " +
+                "gl_FogCoord gl_PointCoord " +
+                "gl_Position gl_PointSize gl_ClipVertex " +
+                "gl_FrontColor gl_BackColor gl_FrontSecondaryColor gl_BackSecondaryColor " +
+                "gl_TexCoord gl_FogFragCoord " +
+                "gl_FragCoord gl_FrontFacing " +
+                "gl_FragData gl_FragDepth " +
+                "gl_ModelViewMatrix gl_ProjectionMatrix gl_ModelViewProjectionMatrix " +
+                "gl_TextureMatrix gl_NormalMatrix gl_ModelViewMatrixInverse " +
+                "gl_ProjectionMatrixInverse gl_ModelViewProjectionMatrixInverse " +
+                "gl_TexureMatrixTranspose gl_ModelViewMatrixInverseTranspose " +
+                "gl_ProjectionMatrixInverseTranspose " +
+                "gl_ModelViewProjectionMatrixInverseTranspose " +
+                "gl_TextureMatrixInverseTranspose " +
+                "gl_NormalScale gl_DepthRange gl_ClipPlane " +
+                "gl_Point gl_FrontMaterial gl_BackMaterial gl_LightSource gl_LightModel " +
+                "gl_FrontLightModelProduct gl_BackLightModelProduct " +
+                "gl_TextureColor gl_EyePlaneS gl_EyePlaneT gl_EyePlaneR gl_EyePlaneQ " +
+                "gl_FogParameters " +
+                "gl_MaxLights gl_MaxClipPlanes gl_MaxTextureUnits gl_MaxTextureCoords " +
+                "gl_MaxVertexAttribs gl_MaxVertexUniformComponents gl_MaxVaryingFloats " +
+                "gl_MaxVertexTextureImageUnits gl_MaxTextureImageUnits " +
+                "gl_MaxFragmentUniformComponents gl_MaxCombineTextureImageUnits " +
+                "gl_MaxDrawBuffers"),
+    indentSwitch: false,
+    hooks: {"#": cppHook},
+    modeProps: {fold: ["brace", "include"]}
+  });
+
+  def("text/x-nesc", {
+    name: "clike",
+    keywords: words(cKeywords + "as atomic async call command component components configuration event generic " +
+                    "implementation includes interface module new norace nx_struct nx_union post provides " +
+                    "signal task uses abstract extends"),
+    types: words(cTypes),
+    blockKeywords: words("case do else for if switch while struct"),
+    atoms: words("null true false"),
+    hooks: {"#": cppHook},
+    modeProps: {fold: ["brace", "include"]}
+  });
+
+  def("text/x-objectivec", {
+    name: "clike",
+    keywords: words(cKeywords + "inline restrict _Bool _Complex _Imaginary BOOL Class bycopy byref id IMP in " +
+                    "inout nil oneway out Protocol SEL self super atomic nonatomic retain copy readwrite readonly"),
+    types: words(cTypes),
+    atoms: words("YES NO NULL NILL ON OFF true false"),
+    hooks: {
+      "@": function(stream) {
+        stream.eatWhile(/[\w\$]/);
+        return "keyword";
+      },
+      "#": cppHook,
+      indent: function(_state, ctx, textAfter) {
+        if (ctx.type == "statement" && /^@\w/.test(textAfter)) return ctx.indented
+      }
+    },
+    modeProps: {fold: "brace"}
+  });
+
+  def("text/x-squirrel", {
+    name: "clike",
+    keywords: words("base break clone continue const default delete enum extends function in class" +
+                    " foreach local resume return this throw typeof yield constructor instanceof static"),
+    types: words(cTypes),
+    blockKeywords: words("case catch class else for foreach if switch try while"),
+    defKeywords: words("function local class"),
+    typeFirstDefinitions: true,
+    atoms: words("true false null"),
+    hooks: {"#": cppHook},
+    modeProps: {fold: ["brace", "include"]}
+  });
+
+  // Ceylon Strings need to deal with interpolation
+  var stringTokenizer = null;
+  function tokenCeylonString(type) {
+    return function(stream, state) {
+      var escaped = false, next, end = false;
+      while (!stream.eol()) {
+        if (!escaped && stream.match('"') &&
+              (type == "single" || stream.match('""'))) {
+          end = true;
+          break;
+        }
+        if (!escaped && stream.match('``')) {
+          stringTokenizer = tokenCeylonString(type);
+          end = true;
+          break;
+        }
+        next = stream.next();
+        escaped = type == "single" && !escaped && next == "\\";
+      }
+      if (end)
+          state.tokenize = null;
+      return "string";
+    }
+  }
+
+  def("text/x-ceylon", {
+    name: "clike",
+    keywords: words("abstracts alias assembly assert assign break case catch class continue dynamic else" +
+                    " exists extends finally for function given if import in interface is let module new" +
+                    " nonempty object of out outer package return satisfies super switch then this throw" +
+                    " try value void while"),
+    types: function(word) {
+        // In Ceylon all identifiers that start with an uppercase are types
+        var first = word.charAt(0);
+        return (first === first.toUpperCase() && first !== first.toLowerCase());
+    },
+    blockKeywords: words("case catch class dynamic else finally for function if interface module new object switch try while"),
+    defKeywords: words("class dynamic function interface module object package value"),
+    builtin: words("abstract actual aliased annotation by default deprecated doc final formal late license" +
+                   " native optional sealed see serializable shared suppressWarnings tagged throws variable"),
+    isPunctuationChar: /[\[\]{}\(\),;\:\.`]/,
+    isOperatorChar: /[+\-*&%=<>!?|^~:\/]/,
+    numberStart: /[\d#$]/,
+    number: /^(?:#[\da-fA-F_]+|\$[01_]+|[\d_]+[kMGTPmunpf]?|[\d_]+\.[\d_]+(?:[eE][-+]?\d+|[kMGTPmunpf]|)|)/i,
+    multiLineStrings: true,
+    typeFirstDefinitions: true,
+    atoms: words("true false null larger smaller equal empty finished"),
+    indentSwitch: false,
+    styleDefs: false,
+    hooks: {
+      "@": function(stream) {
+        stream.eatWhile(/[\w\$_]/);
+        return "meta";
+      },
+      '"': function(stream, state) {
+          state.tokenize = tokenCeylonString(stream.match('""') ? "triple" : "single");
+          return state.tokenize(stream, state);
+        },
+      '`': function(stream, state) {
+          if (!stringTokenizer || !stream.match('`')) return false;
+          state.tokenize = stringTokenizer;
+          stringTokenizer = null;
+          return state.tokenize(stream, state);
+        },
+      "'": function(stream) {
+        stream.eatWhile(/[\w\$_\xa1-\uffff]/);
+        return "atom";
+      },
+      token: function(_stream, state, style) {
+          if ((style == "variable" || style == "type") &&
+              state.prevToken == ".") {
+            return "variable-2";
+          }
+        }
+    },
+    modeProps: {
+        fold: ["brace", "import"],
+        closeBrackets: {triples: '"'}
+    }
+  });
+
+});
 
 
 /***/ }),
@@ -19609,406 +20447,6 @@ CodeMirror.defineMode("sql", function(config, parserConfig) {
 /* 56 */
 /***/ (function(module, exports, __webpack_require__) {
 
-// CodeMirror, copyright (c) by Marijn Haverbeke and others
-// Distributed under an MIT license: http://codemirror.net/LICENSE
-
-(function(mod) {
-  if (true) // CommonJS
-    mod(__webpack_require__(9));
-  else if (typeof define == "function" && define.amd) // AMD
-    define(["../../lib/codemirror"], mod);
-  else // Plain browser env
-    mod(CodeMirror);
-})(function(CodeMirror) {
-"use strict";
-
-var htmlConfig = {
-  autoSelfClosers: {'area': true, 'base': true, 'br': true, 'col': true, 'command': true,
-                    'embed': true, 'frame': true, 'hr': true, 'img': true, 'input': true,
-                    'keygen': true, 'link': true, 'meta': true, 'param': true, 'source': true,
-                    'track': true, 'wbr': true, 'menuitem': true},
-  implicitlyClosed: {'dd': true, 'li': true, 'optgroup': true, 'option': true, 'p': true,
-                     'rp': true, 'rt': true, 'tbody': true, 'td': true, 'tfoot': true,
-                     'th': true, 'tr': true},
-  contextGrabbers: {
-    'dd': {'dd': true, 'dt': true},
-    'dt': {'dd': true, 'dt': true},
-    'li': {'li': true},
-    'option': {'option': true, 'optgroup': true},
-    'optgroup': {'optgroup': true},
-    'p': {'address': true, 'article': true, 'aside': true, 'blockquote': true, 'dir': true,
-          'div': true, 'dl': true, 'fieldset': true, 'footer': true, 'form': true,
-          'h1': true, 'h2': true, 'h3': true, 'h4': true, 'h5': true, 'h6': true,
-          'header': true, 'hgroup': true, 'hr': true, 'menu': true, 'nav': true, 'ol': true,
-          'p': true, 'pre': true, 'section': true, 'table': true, 'ul': true},
-    'rp': {'rp': true, 'rt': true},
-    'rt': {'rp': true, 'rt': true},
-    'tbody': {'tbody': true, 'tfoot': true},
-    'td': {'td': true, 'th': true},
-    'tfoot': {'tbody': true},
-    'th': {'td': true, 'th': true},
-    'thead': {'tbody': true, 'tfoot': true},
-    'tr': {'tr': true}
-  },
-  doNotIndent: {"pre": true},
-  allowUnquoted: true,
-  allowMissing: true,
-  caseFold: true
-}
-
-var xmlConfig = {
-  autoSelfClosers: {},
-  implicitlyClosed: {},
-  contextGrabbers: {},
-  doNotIndent: {},
-  allowUnquoted: false,
-  allowMissing: false,
-  caseFold: false
-}
-
-CodeMirror.defineMode("xml", function(editorConf, config_) {
-  var indentUnit = editorConf.indentUnit
-  var config = {}
-  var defaults = config_.htmlMode ? htmlConfig : xmlConfig
-  for (var prop in defaults) config[prop] = defaults[prop]
-  for (var prop in config_) config[prop] = config_[prop]
-
-  // Return variables for tokenizers
-  var type, setStyle;
-
-  function inText(stream, state) {
-    function chain(parser) {
-      state.tokenize = parser;
-      return parser(stream, state);
-    }
-
-    var ch = stream.next();
-    if (ch == "<") {
-      if (stream.eat("!")) {
-        if (stream.eat("[")) {
-          if (stream.match("CDATA[")) return chain(inBlock("atom", "]]>"));
-          else return null;
-        } else if (stream.match("--")) {
-          return chain(inBlock("comment", "-->"));
-        } else if (stream.match("DOCTYPE", true, true)) {
-          stream.eatWhile(/[\w\._\-]/);
-          return chain(doctype(1));
-        } else {
-          return null;
-        }
-      } else if (stream.eat("?")) {
-        stream.eatWhile(/[\w\._\-]/);
-        state.tokenize = inBlock("meta", "?>");
-        return "meta";
-      } else {
-        type = stream.eat("/") ? "closeTag" : "openTag";
-        state.tokenize = inTag;
-        return "tag bracket";
-      }
-    } else if (ch == "&") {
-      var ok;
-      if (stream.eat("#")) {
-        if (stream.eat("x")) {
-          ok = stream.eatWhile(/[a-fA-F\d]/) && stream.eat(";");
-        } else {
-          ok = stream.eatWhile(/[\d]/) && stream.eat(";");
-        }
-      } else {
-        ok = stream.eatWhile(/[\w\.\-:]/) && stream.eat(";");
-      }
-      return ok ? "atom" : "error";
-    } else {
-      stream.eatWhile(/[^&<]/);
-      return null;
-    }
-  }
-  inText.isInText = true;
-
-  function inTag(stream, state) {
-    var ch = stream.next();
-    if (ch == ">" || (ch == "/" && stream.eat(">"))) {
-      state.tokenize = inText;
-      type = ch == ">" ? "endTag" : "selfcloseTag";
-      return "tag bracket";
-    } else if (ch == "=") {
-      type = "equals";
-      return null;
-    } else if (ch == "<") {
-      state.tokenize = inText;
-      state.state = baseState;
-      state.tagName = state.tagStart = null;
-      var next = state.tokenize(stream, state);
-      return next ? next + " tag error" : "tag error";
-    } else if (/[\'\"]/.test(ch)) {
-      state.tokenize = inAttribute(ch);
-      state.stringStartCol = stream.column();
-      return state.tokenize(stream, state);
-    } else {
-      stream.match(/^[^\s\u00a0=<>\"\']*[^\s\u00a0=<>\"\'\/]/);
-      return "word";
-    }
-  }
-
-  function inAttribute(quote) {
-    var closure = function(stream, state) {
-      while (!stream.eol()) {
-        if (stream.next() == quote) {
-          state.tokenize = inTag;
-          break;
-        }
-      }
-      return "string";
-    };
-    closure.isInAttribute = true;
-    return closure;
-  }
-
-  function inBlock(style, terminator) {
-    return function(stream, state) {
-      while (!stream.eol()) {
-        if (stream.match(terminator)) {
-          state.tokenize = inText;
-          break;
-        }
-        stream.next();
-      }
-      return style;
-    };
-  }
-  function doctype(depth) {
-    return function(stream, state) {
-      var ch;
-      while ((ch = stream.next()) != null) {
-        if (ch == "<") {
-          state.tokenize = doctype(depth + 1);
-          return state.tokenize(stream, state);
-        } else if (ch == ">") {
-          if (depth == 1) {
-            state.tokenize = inText;
-            break;
-          } else {
-            state.tokenize = doctype(depth - 1);
-            return state.tokenize(stream, state);
-          }
-        }
-      }
-      return "meta";
-    };
-  }
-
-  function Context(state, tagName, startOfLine) {
-    this.prev = state.context;
-    this.tagName = tagName;
-    this.indent = state.indented;
-    this.startOfLine = startOfLine;
-    if (config.doNotIndent.hasOwnProperty(tagName) || (state.context && state.context.noIndent))
-      this.noIndent = true;
-  }
-  function popContext(state) {
-    if (state.context) state.context = state.context.prev;
-  }
-  function maybePopContext(state, nextTagName) {
-    var parentTagName;
-    while (true) {
-      if (!state.context) {
-        return;
-      }
-      parentTagName = state.context.tagName;
-      if (!config.contextGrabbers.hasOwnProperty(parentTagName) ||
-          !config.contextGrabbers[parentTagName].hasOwnProperty(nextTagName)) {
-        return;
-      }
-      popContext(state);
-    }
-  }
-
-  function baseState(type, stream, state) {
-    if (type == "openTag") {
-      state.tagStart = stream.column();
-      return tagNameState;
-    } else if (type == "closeTag") {
-      return closeTagNameState;
-    } else {
-      return baseState;
-    }
-  }
-  function tagNameState(type, stream, state) {
-    if (type == "word") {
-      state.tagName = stream.current();
-      setStyle = "tag";
-      return attrState;
-    } else {
-      setStyle = "error";
-      return tagNameState;
-    }
-  }
-  function closeTagNameState(type, stream, state) {
-    if (type == "word") {
-      var tagName = stream.current();
-      if (state.context && state.context.tagName != tagName &&
-          config.implicitlyClosed.hasOwnProperty(state.context.tagName))
-        popContext(state);
-      if ((state.context && state.context.tagName == tagName) || config.matchClosing === false) {
-        setStyle = "tag";
-        return closeState;
-      } else {
-        setStyle = "tag error";
-        return closeStateErr;
-      }
-    } else {
-      setStyle = "error";
-      return closeStateErr;
-    }
-  }
-
-  function closeState(type, _stream, state) {
-    if (type != "endTag") {
-      setStyle = "error";
-      return closeState;
-    }
-    popContext(state);
-    return baseState;
-  }
-  function closeStateErr(type, stream, state) {
-    setStyle = "error";
-    return closeState(type, stream, state);
-  }
-
-  function attrState(type, _stream, state) {
-    if (type == "word") {
-      setStyle = "attribute";
-      return attrEqState;
-    } else if (type == "endTag" || type == "selfcloseTag") {
-      var tagName = state.tagName, tagStart = state.tagStart;
-      state.tagName = state.tagStart = null;
-      if (type == "selfcloseTag" ||
-          config.autoSelfClosers.hasOwnProperty(tagName)) {
-        maybePopContext(state, tagName);
-      } else {
-        maybePopContext(state, tagName);
-        state.context = new Context(state, tagName, tagStart == state.indented);
-      }
-      return baseState;
-    }
-    setStyle = "error";
-    return attrState;
-  }
-  function attrEqState(type, stream, state) {
-    if (type == "equals") return attrValueState;
-    if (!config.allowMissing) setStyle = "error";
-    return attrState(type, stream, state);
-  }
-  function attrValueState(type, stream, state) {
-    if (type == "string") return attrContinuedState;
-    if (type == "word" && config.allowUnquoted) {setStyle = "string"; return attrState;}
-    setStyle = "error";
-    return attrState(type, stream, state);
-  }
-  function attrContinuedState(type, stream, state) {
-    if (type == "string") return attrContinuedState;
-    return attrState(type, stream, state);
-  }
-
-  return {
-    startState: function(baseIndent) {
-      var state = {tokenize: inText,
-                   state: baseState,
-                   indented: baseIndent || 0,
-                   tagName: null, tagStart: null,
-                   context: null}
-      if (baseIndent != null) state.baseIndent = baseIndent
-      return state
-    },
-
-    token: function(stream, state) {
-      if (!state.tagName && stream.sol())
-        state.indented = stream.indentation();
-
-      if (stream.eatSpace()) return null;
-      type = null;
-      var style = state.tokenize(stream, state);
-      if ((style || type) && style != "comment") {
-        setStyle = null;
-        state.state = state.state(type || style, stream, state);
-        if (setStyle)
-          style = setStyle == "error" ? style + " error" : setStyle;
-      }
-      return style;
-    },
-
-    indent: function(state, textAfter, fullLine) {
-      var context = state.context;
-      // Indent multi-line strings (e.g. css).
-      if (state.tokenize.isInAttribute) {
-        if (state.tagStart == state.indented)
-          return state.stringStartCol + 1;
-        else
-          return state.indented + indentUnit;
-      }
-      if (context && context.noIndent) return CodeMirror.Pass;
-      if (state.tokenize != inTag && state.tokenize != inText)
-        return fullLine ? fullLine.match(/^(\s*)/)[0].length : 0;
-      // Indent the starts of attribute names.
-      if (state.tagName) {
-        if (config.multilineTagIndentPastTag !== false)
-          return state.tagStart + state.tagName.length + 2;
-        else
-          return state.tagStart + indentUnit * (config.multilineTagIndentFactor || 1);
-      }
-      if (config.alignCDATA && /<!\[CDATA\[/.test(textAfter)) return 0;
-      var tagAfter = textAfter && /^<(\/)?([\w_:\.-]*)/.exec(textAfter);
-      if (tagAfter && tagAfter[1]) { // Closing tag spotted
-        while (context) {
-          if (context.tagName == tagAfter[2]) {
-            context = context.prev;
-            break;
-          } else if (config.implicitlyClosed.hasOwnProperty(context.tagName)) {
-            context = context.prev;
-          } else {
-            break;
-          }
-        }
-      } else if (tagAfter) { // Opening tag spotted
-        while (context) {
-          var grabbers = config.contextGrabbers[context.tagName];
-          if (grabbers && grabbers.hasOwnProperty(tagAfter[2]))
-            context = context.prev;
-          else
-            break;
-        }
-      }
-      while (context && context.prev && !context.startOfLine)
-        context = context.prev;
-      if (context) return context.indent + indentUnit;
-      else return state.baseIndent || 0;
-    },
-
-    electricInput: /<\/[\s\w:]+>$/,
-    blockCommentStart: "<!--",
-    blockCommentEnd: "-->",
-
-    configuration: config.htmlMode ? "html" : "xml",
-    helperType: config.htmlMode ? "html" : "xml",
-
-    skipAttribute: function(state) {
-      if (state.state == attrValueState)
-        state.state = attrState
-    }
-  };
-});
-
-CodeMirror.defineMIME("text/xml", "xml");
-CodeMirror.defineMIME("application/xml", "xml");
-if (!CodeMirror.mimeModes.hasOwnProperty("text/html"))
-  CodeMirror.defineMIME("text/html", {name: "xml", htmlMode: true});
-
-});
-
-
-/***/ }),
-/* 57 */
-/***/ (function(module, exports, __webpack_require__) {
-
 exports = module.exports = __webpack_require__(3)(undefined);
 // imports
 
@@ -20020,7 +20458,7 @@ exports.push([module.i, "@media (max-width: 767px) {\r\n    /* On small screens,
 
 
 /***/ }),
-/* 58 */
+/* 57 */
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(3)(undefined);
@@ -20034,7 +20472,7 @@ exports.push([module.i, "/* BASICS */\n\n.CodeMirror {\n  /* Set height, width, 
 
 
 /***/ }),
-/* 59 */
+/* 58 */
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(3)(undefined);
@@ -20043,6 +20481,20 @@ exports = module.exports = __webpack_require__(3)(undefined);
 
 // module
 exports.push([module.i, ".customerModal {\r\n    display: block; /* Hidden by default */\r\n    position: fixed; /* Stay in place */\r\n    z-index: 1; /* Sit on top */\r\n    width: 280px; /* Full width */\r\n    height: 260px; /* Full height */\r\n    overflow: auto; /* Enable scroll if needed */\r\n    right: 0;\r\n    bottom: 0;\r\n    margin-right: 15px;\r\n    margin-bottom: 40px;\r\n    background-color: #f0f8ff\r\n}\r\n\r\n.customerModalContent {\r\n    height: 190px;\r\n    border-style: solid;\r\n    border-width: 1.5px;\r\n    border-color: #dedede;\r\n    padding:10px;\r\n}\r\n\r\n.customeModalClose {\r\n    float: right;\r\n    cursor:pointer;\r\n}\r\n.customModalHeader {\r\n    height: 30px;\r\n    background-color: #2a3f54;\r\n    color: white;\r\n    padding: 10px;\r\n}\r\n.customModalFooter {\r\n    height: 30px;\r\n    background-color: #ededed;\r\n    padding-left:10px;\r\n}", ""]);
+
+// exports
+
+
+/***/ }),
+/* 59 */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(3)(undefined);
+// imports
+
+
+// module
+exports.push([module.i, " h2 {\r\n    background-color: yellow;\r\n    text-align: center;\r\n}\r\n\r\n#logContent {\r\n    /*background-color:red;*/\r\n    height: 600px !important;\r\n    overflow-y: visible;\r\n    height: 90%;\r\n    overflow-y: scroll;\r\n    /*border-bottom-right-radius: 4px;\r\n    border-bottom-left-radius: 4px;\r\n    border-width: 1px;\r\n    border-color: #585555;\r\n    border-style: solid;*/\r\n    background-color: #2a3f54;\r\n    overflow:auto;\r\n}\r\n\r\n .col1 {\r\n    width: 10%\r\n}\r\n\r\n.col2 {\r\n    width: 20%\r\n}\r\n\r\n.col3 {\r\n    width: 40%\r\n}\r\n\r\n.col4 {\r\n    width: 50%\r\n}\r\n\r\n.col5 {\r\n    width: 60%\r\n}\r\n\r\n.col6 {\r\n    width: 70%\r\n}\r\n\r\n.col7 {\r\n    width: 80%\r\n}\r\n\r\n.col8 {\r\n    width: 90%\r\n}\r\n\r\n.col9 {\r\n    width: 100%\r\n}\r\n\r\n.col10 {\r\n    width: 30%\r\n}\r\n\r\n\r\n.tblHeader {\r\n    background-color: #2a3f54;\r\n    border-bottom-width: 1px;\r\n    border-bottom-color: #585555;\r\n    border-bottom-style: solid;\r\n    padding-left: 3px;\r\n    height: 30px;\r\n}\r\n\r\n.tblRow {\r\n    cursor: pointer;\r\n    background-color: #2a3f54;\r\n    border-bottom-width: 0.5px;\r\n    border-bottom-color: #585555;\r\n    border-bottom-style: solid;\r\n    padding-left: 3px;\r\n}\r\n\r\n.tblCell {\r\n    display: inline-block;\r\n    color: white;\r\n}\r\n\r\n/*.tblRow:nth-child(odd) {\r\n        background-color: rgba(0,0,0,.87);\r\n    }\r\n\r\n    .tblRow:nth-child(even) {\r\n        background-color: #232323;\r\n    }*/\r\n\r\n.logMain:hover {\r\n    background-color: #233446;\r\n    color: black;\r\n}\r\n\r\n.logDetails {\r\n    background-color: #233446;\r\n    color: aquamarine;\r\n    height: 200px;\r\n    margin-left: 10px;\r\n    margin-right: 20px;\r\n    margin-bottom: 10px;\r\n    border-radius: 3px;\r\n    overflow:auto;\r\n}\r\n\r\n.logMain {\r\n    color: aquamarine;\r\n    height: 30px;\r\n}\r\n\r\n .logNavBar {\r\n    height: 50px;\r\n    background-color: #222;\r\n    border-radius: 4px 4px 0 0;\r\n    color: white;\r\n    margin-left: 20px;\r\n    margin-right: 20px;\r\n    border-width: 1px;\r\n    border-color: #585555;\r\n    border-style: solid;\r\n}\r\n\r\n/* Scrollbar Styling */\r\n::-webkit-scrollbar {\r\n    width: 5px;\r\n}\r\n\r\n::-webkit-scrollbar-track {\r\n    background-color: white;\r\n    -webkit-border-radius: 10px;\r\n    border-radius: 0px;\r\n}\r\n\r\n::-webkit-scrollbar-thumb {\r\n    -webkit-border-radius: 10px;\r\n    border-radius: 0px;\r\n    background: #2a3f54;\r\n}\r\n\r\n\r\n\r\n", ""]);
 
 // exports
 
@@ -20070,7 +20522,7 @@ exports = module.exports = __webpack_require__(3)(undefined);
 
 
 // module
-exports.push([module.i, " h2 {\r\n    background-color: yellow;\r\n    text-align: center;\r\n}\r\n\r\n#logContent {\r\n    /*background-color:red;*/\r\n    height: 600px !important;\r\n    overflow-y: visible;\r\n    height: 90%;\r\n    overflow-y: scroll;\r\n    /*border-bottom-right-radius: 4px;\r\n    border-bottom-left-radius: 4px;\r\n    border-width: 1px;\r\n    border-color: #585555;\r\n    border-style: solid;*/\r\n    background-color: #2a3f54;\r\n    overflow:auto;\r\n}\r\n\r\n .col1 {\r\n    width: 10%\r\n}\r\n\r\n.col2 {\r\n    width: 20%\r\n}\r\n\r\n.col3 {\r\n    width: 40%\r\n}\r\n\r\n.col4 {\r\n    width: 50%\r\n}\r\n\r\n.col5 {\r\n    width: 60%\r\n}\r\n\r\n.col6 {\r\n    width: 70%\r\n}\r\n\r\n.col7 {\r\n    width: 80%\r\n}\r\n\r\n.col8 {\r\n    width: 90%\r\n}\r\n\r\n.col9 {\r\n    width: 100%\r\n}\r\n\r\n.col10 {\r\n    width: 30%\r\n}\r\n\r\n\r\n.tblHeader {\r\n    background-color: #2a3f54;\r\n    border-bottom-width: 1px;\r\n    border-bottom-color: #585555;\r\n    border-bottom-style: solid;\r\n    padding-left: 3px;\r\n    height: 30px;\r\n}\r\n\r\n.tblRow {\r\n    cursor: pointer;\r\n    background-color: #2a3f54;\r\n    border-bottom-width: 0.5px;\r\n    border-bottom-color: #585555;\r\n    border-bottom-style: solid;\r\n    padding-left: 3px;\r\n}\r\n\r\n.tblCell {\r\n    display: inline-block;\r\n    color: white;\r\n}\r\n\r\n/*.tblRow:nth-child(odd) {\r\n        background-color: rgba(0,0,0,.87);\r\n    }\r\n\r\n    .tblRow:nth-child(even) {\r\n        background-color: #232323;\r\n    }*/\r\n\r\n.logMain:hover {\r\n    background-color: #233446;\r\n    color: black;\r\n}\r\n\r\n.logDetails {\r\n    background-color: #233446;\r\n    color: aquamarine;\r\n    height: 200px;\r\n    margin-left: 10px;\r\n    margin-right: 20px;\r\n    margin-bottom: 10px;\r\n    border-radius: 3px;\r\n    overflow:auto;\r\n}\r\n\r\n.logMain {\r\n    color: aquamarine;\r\n    height: 30px;\r\n}\r\n\r\n .logNavBar {\r\n    height: 50px;\r\n    background-color: #222;\r\n    border-radius: 4px 4px 0 0;\r\n    color: white;\r\n    margin-left: 20px;\r\n    margin-right: 20px;\r\n    border-width: 1px;\r\n    border-color: #585555;\r\n    border-style: solid;\r\n}\r\n\r\n/* Scrollbar Styling */\r\n::-webkit-scrollbar {\r\n    width: 5px;\r\n}\r\n\r\n::-webkit-scrollbar-track {\r\n    background-color: white;\r\n    -webkit-border-radius: 10px;\r\n    border-radius: 0px;\r\n}\r\n\r\n::-webkit-scrollbar-thumb {\r\n    -webkit-border-radius: 10px;\r\n    border-radius: 0px;\r\n    background: #2a3f54;\r\n}\r\n\r\n\r\n\r\n", ""]);
+exports.push([module.i, ".customerModal {\r\n    display: block; /* Hidden by default */\r\n    position: fixed; /* Stay in place */\r\n    z-index: 1; /* Sit on top */\r\n    width: 280px; /* Full width */\r\n    height: 260px; /* Full height */\r\n    overflow: auto; /* Enable scroll if needed */\r\n    right: 0;\r\n    bottom: 0;\r\n    margin-right: 15px;\r\n    margin-bottom: 40px;\r\n    background-color: #f0f8ff\r\n}\r\n\r\n.customerModalContent {\r\n    height: 190px;\r\n    border-style: solid;\r\n    border-width: 1.5px;\r\n    border-color: #dedede;\r\n    padding:10px;\r\n}\r\n\r\n.customeModalClose {\r\n    float: right;\r\n    cursor:pointer;\r\n}\r\n.customModalHeader {\r\n    height: 30px;\r\n    background-color: #2a3f54;\r\n    color: white;\r\n    padding: 10px;\r\n}\r\n.customModalFooter {\r\n    height: 30px;\r\n    background-color: #ededed;\r\n    padding-left:10px;\r\n}", ""]);
 
 // exports
 
@@ -20084,7 +20536,7 @@ exports = module.exports = __webpack_require__(3)(undefined);
 
 
 // module
-exports.push([module.i, ".customerModal {\r\n    display: block; /* Hidden by default */\r\n    position: fixed; /* Stay in place */\r\n    z-index: 1; /* Sit on top */\r\n    width: 280px; /* Full width */\r\n    height: 260px; /* Full height */\r\n    overflow: auto; /* Enable scroll if needed */\r\n    right: 0;\r\n    bottom: 0;\r\n    margin-right: 15px;\r\n    margin-bottom: 40px;\r\n    background-color: #f0f8ff\r\n}\r\n\r\n.customerModalContent {\r\n    height: 190px;\r\n    border-style: solid;\r\n    border-width: 1.5px;\r\n    border-color: #dedede;\r\n    padding:10px;\r\n}\r\n\r\n.customeModalClose {\r\n    float: right;\r\n    cursor:pointer;\r\n}\r\n.customModalHeader {\r\n    height: 30px;\r\n    background-color: #2a3f54;\r\n    color: white;\r\n    padding: 10px;\r\n}\r\n.customModalFooter {\r\n    height: 30px;\r\n    background-color: #ededed;\r\n    padding-left:10px;\r\n}", ""]);
+exports.push([module.i, "h2 {\n    /*background-color: yellow;*/\n    text-align: center;\n}\n\n#logContent {\n    /*background-color:red;*/\n    height: 600px !important;\n    /*border-bottom-right-radius: 4px;\n    border-bottom-left-radius: 4px;\n    border-width: 1px;\n    border-color: #585555;\n    border-style: solid;*/\n    background-color: #2a3f54;\n    overflow: auto;\n}\n\n.col1 {\n    width: 10%\n}\n\n.col2 {\n    width: 20%\n}\n\n.col3 {\n    width: 40%\n}\n\n.col4 {\n    width: 50%\n}\n\n.col5 {\n    width: 60%\n}\n\n.col6 {\n    width: 70%\n}\n\n.col7 {\n    width: 80%\n}\n\n.col8 {\n    width: 90%\n}\n\n.col9 {\n    width: 100%\n}\n\n.col10 {\n    width: 30%\n}\n\n\n.tblHeader {\n    background-color: #2a3f54;\n    border-bottom-width: 1px;\n    border-bottom-color: #585555;\n    border-bottom-style: solid;\n    padding-left: 3px;\n    height: 30px;\n}\n\n.tblRow {\n    cursor: pointer;\n    background-color: #2a3f54;\n    border-bottom-width: 0.5px;\n    border-bottom-color: #585555;\n    border-bottom-style: solid;\n    padding-left: 3px;\n}\n\n.tblCell {\n    display: inline-block;\n    color: white;\n}\n\n/*.tblRow:nth-child(odd) {\n        background-color: rgba(0,0,0,.87);\n    }\n\n    .tblRow:nth-child(even) {\n        background-color: #232323;\n    }*/\n\n.logMain:hover {\n    background-color: #233446;\n    color: black;\n}\n\n.logDetails {\n    background-color: #233446;\n    color: aquamarine;\n    height: 200px;\n    margin-left: 10px;\n    margin-right: 20px;\n    margin-bottom: 10px;\n    border-radius: 3px;\n    overflow: auto;\n}\n\n.logMain {\n    color: aquamarine;\n    height: 30px;\n}\n\n.logNavBar {\n    height: 50px;\n    background-color: #222;\n    border-radius: 4px 4px 0 0;\n    color: white;\n    margin-left: 20px;\n    margin-right: 20px;\n    border-width: 1px;\n    border-color: #585555;\n    border-style: solid;\n}\n\n::-webkit-scrollbar {\n    width: 5px;\n}\n\n::-webkit-scrollbar-track {\n    background-color: white;\n    -webkit-border-radius: 10px;\n    border-radius: 0px;\n}\n\n::-webkit-scrollbar-thumb {\n    -webkit-border-radius: 10px;\n    border-radius: 0px;\n    background: #1c695a;\n}\n\n:host > > > h3 {\n    color: green;\n}\n", ""]);
 
 // exports
 
@@ -20098,7 +20550,7 @@ exports = module.exports = __webpack_require__(3)(undefined);
 
 
 // module
-exports.push([module.i, " h2 {\r\n    /*background-color: yellow;*/\r\n    text-align: center;\r\n}\r\n\r\n#logContent {\r\n    /*background-color:red;*/\r\n    height: 600px !important;\r\n    /*border-bottom-right-radius: 4px;\r\n    border-bottom-left-radius: 4px;\r\n    border-width: 1px;\r\n    border-color: #585555;\r\n    border-style: solid;*/\r\n    background-color: #2a3f54;\r\n    overflow:auto;\r\n}\r\n\r\n .col1 {\r\n    width: 10%\r\n}\r\n\r\n.col2 {\r\n    width: 20%\r\n}\r\n\r\n.col3 {\r\n    width: 40%\r\n}\r\n\r\n.col4 {\r\n    width: 50%\r\n}\r\n\r\n.col5 {\r\n    width: 60%\r\n}\r\n\r\n.col6 {\r\n    width: 70%\r\n}\r\n\r\n.col7 {\r\n    width: 80%\r\n}\r\n\r\n.col8 {\r\n    width: 90%\r\n}\r\n\r\n.col9 {\r\n    width: 100%\r\n}\r\n\r\n.col10 {\r\n    width: 30%\r\n}\r\n\r\n\r\n.tblHeader {\r\n    background-color: #2a3f54;\r\n    border-bottom-width: 1px;\r\n    border-bottom-color: #585555;\r\n    border-bottom-style: solid;\r\n    padding-left: 3px;\r\n    height: 30px;\r\n}\r\n\r\n.tblRow {\r\n    cursor: pointer;\r\n    background-color: #2a3f54;\r\n    border-bottom-width: 0.5px;\r\n    border-bottom-color: #585555;\r\n    border-bottom-style: solid;\r\n    padding-left: 3px;\r\n}\r\n\r\n.tblCell {\r\n    display: inline-block;\r\n    color: white;\r\n}\r\n\r\n/*.tblRow:nth-child(odd) {\r\n        background-color: rgba(0,0,0,.87);\r\n    }\r\n\r\n    .tblRow:nth-child(even) {\r\n        background-color: #232323;\r\n    }*/\r\n\r\n.logMain:hover {\r\n    background-color: #233446;\r\n    color: black;\r\n}\r\n\r\n.logDetails {\r\n    background-color: #233446;\r\n    color: aquamarine;\r\n    height: 200px;\r\n    margin-left: 10px;\r\n    margin-right: 20px;\r\n    margin-bottom: 10px;\r\n    border-radius: 3px;\r\n    overflow:auto;\r\n}\r\n\r\n.logMain {\r\n    color: aquamarine;\r\n    height: 30px;\r\n}\r\n\r\n .logNavBar {\r\n    height: 50px;\r\n    background-color: #222;\r\n    border-radius: 4px 4px 0 0;\r\n    color: white;\r\n    margin-left: 20px;\r\n    margin-right: 20px;\r\n    border-width: 1px;\r\n    border-color: #585555;\r\n    border-style: solid;\r\n}\r\n\r\n/*::-webkit-scrollbar {\r\n    width: 5px;\r\n}\r\n\r\n::-webkit-scrollbar-track {\r\n    background-color: white;\r\n    -webkit-border-radius: 10px;\r\n    border-radius: 0px;\r\n}\r\n\r\n::-webkit-scrollbar-thumb {\r\n    -webkit-border-radius: 10px;\r\n    border-radius: 0px;\r\n    background: #1c695a;\r\n}*/\r\n\r\n\r\n\r\n\r\n", ""]);
+exports.push([module.i, "\n*, *:before, *:after {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n}\n\nhtml, body {\n    height: 100vh;\n}\n\nbody {\n    font: 14px/1 'Open Sans', sans-serif;\n    color: #555;\n    background: #eee;\n}\n\nh1 {\n    padding: 50px 0;\n    font-weight: 400;\n    text-align: center;\n}\n\np {\n    margin: 0 0 20px;\n    line-height: 1.5;\n}\n\n#navBar {\n    /*display:inline-block;\n    margin:10px;\n    width:40%;\n    padding: 5px;\n    background: #fff;\n    height:600px;*/\n    width: 39%;\n    height: 700px;\n    background: #fff;\n    float: left;\n    padding: 10px;\n    margin-left: 10px;\n}\n\n#fileDetails {\n    width: 59%;\n    height: 700px;\n    background: #fff;\n    float: right;\n    padding: 10px;\n    margin-left: 10px;\n    overflow: auto;\n}\n\nsection {\n    display: none;\n    padding: 20px 0 0;\n    border-top: 1px solid #ddd;\n    height: 600px;\n    overflow: auto;\n    padding: 10px;\n}\n\ninput {\n    display: none;\n}\n\nlabel {\n    display: inline-block;\n    margin: 0 0 -1px;\n    padding: 15px 25px;\n    font-weight: 600;\n    text-align: center;\n    color: #bbb;\n    border: 1px solid transparent;\n}\n\n    label:before {\n        font-family: fontawesome;\n        font-weight: normal;\n        margin-right: 10px;\n    }\n\n    label[for*='1']:before {\n        content: '\\F1CB';\n    }\n\n    label[for*='2']:before {\n        content: '\\F17D';\n    }\n\n    label[for*='3']:before {\n        content: '\\F16B';\n    }\n\n    label[for*='4']:before {\n        content: '\\F1A9';\n    }\n\n    label:hover {\n        color: #888;\n        cursor: pointer;\n    }\n\ninput:checked + label {\n    color: #555;\n    border: 1px solid #ddd;\n    border-bottom: 2px solid orange;\n    border-top: 1px solid #fff;\n}\n\n#tab1:checked ~ #content1,\n#tab2:checked ~ #content2,\n#tab3:checked ~ #content3,\n#tab4:checked ~ #content4 {\n    display: block;\n}\n\n.CodeMirror {\n    /* Set height, width, borders, and global font properties here */\n    font-family: monospace !important;\n    height: 500px !important;\n}\n\n\n@media screen and (max-width: 650px) {\n    label {\n        font-size: 0;\n    }\n\n        label:before {\n            margin: 0;\n            font-size: 18px;\n        }\n}\n\n@media screen and (max-width: 400px) {\n    label {\n        padding: 15px;\n    }\n}\n", ""]);
 
 // exports
 
@@ -20112,7 +20564,7 @@ exports = module.exports = __webpack_require__(3)(undefined);
 
 
 // module
-exports.push([module.i, "\r\n*, *:before, *:after {\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\nhtml, body {\r\n    height: 100vh;\r\n}\r\n\r\nbody {\r\n    font: 14px/1 'Open Sans', sans-serif;\r\n    color: #555;\r\n    background: #eee;\r\n}\r\n\r\nh1 {\r\n    padding: 50px 0;\r\n    font-weight: 400;\r\n    text-align: center;\r\n}\r\n\r\np {\r\n    margin: 0 0 20px;\r\n    line-height: 1.5;\r\n}\r\n\r\n#navBar {\r\n    width: 49%;\r\n    height: 600px;\r\n    background: #fff;\r\n    float: left;\r\n    padding: 10px;\r\n    margin-left:10px;\r\n}\r\n#fileDetails {\r\n    width: 49%;\r\n    height: 600px;\r\n    background: #fff;\r\n    float: right;\r\n    padding:10px;\r\n    margin-left:10px;\r\n    overflow:auto;\r\n}\r\nsection {\r\n    display: none;\r\n    padding: 20px 0 0;\r\n    border-top: 1px solid #ddd;\r\n}\r\n\r\ninput {\r\n    display: none;\r\n}\r\n\r\nlabel {\r\n    display: inline-block;\r\n    margin: 0 0 -1px;\r\n    padding: 15px 25px;\r\n    font-weight: 600;\r\n    text-align: center;\r\n    color: #bbb;\r\n    border: 1px solid transparent;\r\n}\r\n\r\n    label:before {\r\n        font-family: fontawesome;\r\n        font-weight: normal;\r\n        margin-right: 10px;\r\n    }\r\n\r\n    label[for*='1']:before {\r\n        content: '\\F1CB';\r\n    }\r\n\r\n    label[for*='2']:before {\r\n        content: '\\F17D';\r\n    }\r\n\r\n    label[for*='3']:before {\r\n        content: '\\F16B';\r\n    }\r\n\r\n    label[for*='4']:before {\r\n        content: '\\F1A9';\r\n    }\r\n\r\n    label:hover {\r\n        color: #888;\r\n        cursor: pointer;\r\n    }\r\n\r\ninput:checked + label {\r\n    color: #555;\r\n    border: 1px solid #ddd;\r\n    border-bottom: 2px solid orange;\r\n    border-top: 1px solid #fff;\r\n}\r\n\r\n#tab1:checked ~ #content1,\r\n#tab2:checked ~ #content2,\r\n#tab3:checked ~ #content3,\r\n#tab4:checked ~ #content4 {\r\n    display: block;\r\n}\r\n\r\n@media screen and (max-width: 650px) {\r\n    label {\r\n        font-size: 0;\r\n    }\r\n\r\n        label:before {\r\n            margin: 0;\r\n            font-size: 18px;\r\n        }\r\n}\r\n\r\n@media screen and (max-width: 400px) {\r\n    label {\r\n        padding: 15px;\r\n    }\r\n}\r\n", ""]);
+exports.push([module.i, "", ""]);
 
 // exports
 
@@ -20126,7 +20578,7 @@ exports = module.exports = __webpack_require__(3)(undefined);
 
 
 // module
-exports.push([module.i, "", ""]);
+exports.push([module.i, "/* Scrollbar Styling */\r\n/*::-webkit-scrollbar {\r\n    width: 5px;\r\n}\r\n\r\n::-webkit-scrollbar-track {\r\n    background-color: white;\r\n    -webkit-border-radius: 10px;\r\n    border-radius: 0px;\r\n}\r\n\r\n::-webkit-scrollbar-thumb {\r\n    -webkit-border-radius: 10px;\r\n    border-radius: 0px;\r\n    background: rgb(26, 187, 156);\r\n}*/\r\n\r\n.initTextArea {\r\n    height:30px;\r\n    width:150px;\r\n    overflow:hidden;\r\n}\r\n\r\n.queryResultTbl > thead {\r\n    background-color:aliceblue;\r\n}\r\n\r\n\r\n .map-container-inner {\r\n    width: 500px!important;\r\n    height: 500px!important;\r\n}\r\n\r\n\r\n\r\n\r\n\r\n\r\n", ""]);
 
 // exports
 
@@ -20135,30 +20587,16 @@ exports.push([module.i, "", ""]);
 /* 66 */
 /***/ (function(module, exports, __webpack_require__) {
 
-exports = module.exports = __webpack_require__(3)(undefined);
-// imports
-
-
-// module
-exports.push([module.i, "/* Scrollbar Styling */\r\n/*::-webkit-scrollbar {\r\n    width: 5px;\r\n}\r\n\r\n::-webkit-scrollbar-track {\r\n    background-color: white;\r\n    -webkit-border-radius: 10px;\r\n    border-radius: 0px;\r\n}\r\n\r\n::-webkit-scrollbar-thumb {\r\n    -webkit-border-radius: 10px;\r\n    border-radius: 0px;\r\n    background: rgb(26, 187, 156);\r\n}*/\r\n\r\n.initTextArea {\r\n    height:30px;\r\n    width:150px;\r\n    overflow:hidden;\r\n}\r\n\r\n.queryResultTbl > thead {\r\n    background-color:aliceblue;\r\n}\r\n\r\n\r\n .map-container-inner {\r\n    width: 500px!important;\r\n    height: 500px!important;\r\n}\r\n\r\n\r\n\r\n\r\n\r\n\r\n", ""]);
-
-// exports
-
-
-/***/ }),
-/* 67 */
-/***/ (function(module, exports, __webpack_require__) {
-
 module.exports = {
-  XmlEntities: __webpack_require__(69),
-  Html4Entities: __webpack_require__(68),
-  Html5Entities: __webpack_require__(22),
-  AllHtmlEntities: __webpack_require__(22)
+  XmlEntities: __webpack_require__(68),
+  Html4Entities: __webpack_require__(67),
+  Html5Entities: __webpack_require__(23),
+  AllHtmlEntities: __webpack_require__(23)
 };
 
 
 /***/ }),
-/* 68 */
+/* 67 */
 /***/ (function(module, exports) {
 
 var HTML_ALPHA = ['apos', 'nbsp', 'iexcl', 'cent', 'pound', 'curren', 'yen', 'brvbar', 'sect', 'uml', 'copy', 'ordf', 'laquo', 'not', 'shy', 'reg', 'macr', 'deg', 'plusmn', 'sup2', 'sup3', 'acute', 'micro', 'para', 'middot', 'cedil', 'sup1', 'ordm', 'raquo', 'frac14', 'frac12', 'frac34', 'iquest', 'Agrave', 'Aacute', 'Acirc', 'Atilde', 'Auml', 'Aring', 'Aelig', 'Ccedil', 'Egrave', 'Eacute', 'Ecirc', 'Euml', 'Igrave', 'Iacute', 'Icirc', 'Iuml', 'ETH', 'Ntilde', 'Ograve', 'Oacute', 'Ocirc', 'Otilde', 'Ouml', 'times', 'Oslash', 'Ugrave', 'Uacute', 'Ucirc', 'Uuml', 'Yacute', 'THORN', 'szlig', 'agrave', 'aacute', 'acirc', 'atilde', 'auml', 'aring', 'aelig', 'ccedil', 'egrave', 'eacute', 'ecirc', 'euml', 'igrave', 'iacute', 'icirc', 'iuml', 'eth', 'ntilde', 'ograve', 'oacute', 'ocirc', 'otilde', 'ouml', 'divide', 'oslash', 'ugrave', 'uacute', 'ucirc', 'uuml', 'yacute', 'thorn', 'yuml', 'quot', 'amp', 'lt', 'gt', 'OElig', 'oelig', 'Scaron', 'scaron', 'Yuml', 'circ', 'tilde', 'ensp', 'emsp', 'thinsp', 'zwnj', 'zwj', 'lrm', 'rlm', 'ndash', 'mdash', 'lsquo', 'rsquo', 'sbquo', 'ldquo', 'rdquo', 'bdquo', 'dagger', 'Dagger', 'permil', 'lsaquo', 'rsaquo', 'euro', 'fnof', 'Alpha', 'Beta', 'Gamma', 'Delta', 'Epsilon', 'Zeta', 'Eta', 'Theta', 'Iota', 'Kappa', 'Lambda', 'Mu', 'Nu', 'Xi', 'Omicron', 'Pi', 'Rho', 'Sigma', 'Tau', 'Upsilon', 'Phi', 'Chi', 'Psi', 'Omega', 'alpha', 'beta', 'gamma', 'delta', 'epsilon', 'zeta', 'eta', 'theta', 'iota', 'kappa', 'lambda', 'mu', 'nu', 'xi', 'omicron', 'pi', 'rho', 'sigmaf', 'sigma', 'tau', 'upsilon', 'phi', 'chi', 'psi', 'omega', 'thetasym', 'upsih', 'piv', 'bull', 'hellip', 'prime', 'Prime', 'oline', 'frasl', 'weierp', 'image', 'real', 'trade', 'alefsym', 'larr', 'uarr', 'rarr', 'darr', 'harr', 'crarr', 'lArr', 'uArr', 'rArr', 'dArr', 'hArr', 'forall', 'part', 'exist', 'empty', 'nabla', 'isin', 'notin', 'ni', 'prod', 'sum', 'minus', 'lowast', 'radic', 'prop', 'infin', 'ang', 'and', 'or', 'cap', 'cup', 'int', 'there4', 'sim', 'cong', 'asymp', 'ne', 'equiv', 'le', 'ge', 'sub', 'sup', 'nsub', 'sube', 'supe', 'oplus', 'otimes', 'perp', 'sdot', 'lceil', 'rceil', 'lfloor', 'rfloor', 'lang', 'rang', 'loz', 'spades', 'clubs', 'hearts', 'diams'];
@@ -20311,7 +20749,7 @@ module.exports = Html4Entities;
 
 
 /***/ }),
-/* 69 */
+/* 68 */
 /***/ (function(module, exports) {
 
 var ALPHA_INDEX = {
@@ -20472,76 +20910,76 @@ module.exports = XmlEntities;
 
 
 /***/ }),
-/* 70 */
+/* 69 */
 /***/ (function(module, exports) {
 
 module.exports = "<div class=\"col-md-3 left_col\">\r\n    <div class=\"left_col scroll-view\">\r\n        <div class=\"navbar nav_title\" style=\"border: 0;\">\r\n            <a href=\"index.html\" class=\"site_title\"><i class=\"fa fa-eye\" aria-hidden=\"true\"></i> <span>LogViewer</span></a>\r\n        </div>\r\n        <div class=\"clearfix\"></div>\r\n        <!-- menu profile quick info -->\r\n        <div class=\"profile clearfix\">\r\n            <div class=\"profile_pic\">\r\n                <img alt=\"...\" class=\"img-circle profile_img\">\r\n            </div>\r\n            <div class=\"profile_info\">\r\n                <span>Welcome,</span>\r\n                <h2>Gurgen Hayrapetyan</h2>\r\n            </div>\r\n        </div>\r\n        <!-- /menu profile quick info -->\r\n        <br />\r\n        <!-- sidebar menu -->\r\n        <div id=\"sidebar-menu\" class=\"main_menu_side hidden-print main_menu\">\r\n            <div class=\"menu_section\">\r\n                <h3>Logs</h3>\r\n                <ul class=\"nav side-menu\">\r\n                    <li>\r\n                        <a><i class=\"fa fa-home\"></i> Projects <span class=\"fa fa-chevron-down\"></span></a>\r\n                        <ul class=\"nav child_menu\">\r\n                            <li [routerLink]=\"['/frontLogs']\"><a>FronOffice</a></li>\r\n                            <li [routerLink]=\"['/aparikTexumLogs']\"><a>AparikTexum</a></li>\r\n                            <li [routerLink]=\"['/customersLogs']\"><a>Customers</a></li>\r\n                        </ul>\r\n                    </li>\r\n                </ul>\r\n            </div>\r\n            <div class=\"menu_section\">\r\n                <h3>Orders</h3>\r\n                <ul class=\"nav side-menu\">\r\n                    <li [routerLink]=\"['/orders']\"><a><i class=\"fa fa-weixin\" aria-hidden=\"true\"></i> Orders</a></li>\r\n                </ul>\r\n            </div>\r\n            <div class=\"menu_section\">\r\n                <h3>Addition Tools</h3>\r\n                <ul class=\"nav side-menu\">\r\n                    <li [routerLink]=\"['/sqleditor']\"><a><i class=\"fa fa-database\" aria-hidden=\"true\"></i> SQL Editor</a></li>\r\n                    <li><a href=\"javascript:void(0)\"><i class=\"fa fa-bar-chart\" aria-hidden=\"true\"></i> Charts</a></li>\r\n                    <li><a href=\"javascript:void(0)\"><i class=\"fa fa-weixin\" aria-hidden=\"true\"></i> Chat <span class=\"label label-success pull-right\">Coming Soon</span></a></li>\r\n                </ul>\r\n            </div>\r\n        </div>\r\n        <!-- /sidebar menu -->\r\n        <!-- /menu footer buttons -->\r\n        <div class=\"sidebar-footer hidden-small\">\r\n            <a data-toggle=\"tooltip\" data-placement=\"top\" title=\"Settings\">\r\n                <span class=\"glyphicon glyphicon-cog\" aria-hidden=\"true\"></span>\r\n            </a>\r\n            <a data-toggle=\"tooltip\" data-placement=\"top\" title=\"Logout\" href=\"/Account/Logout\">\r\n                <span class=\"glyphicon glyphicon-off\" aria-hidden=\"true\"></span>\r\n            </a>\r\n        </div>\r\n        <!-- /menu footer buttons -->\r\n    </div>\r\n</div>\r\n<!-- top navigation -->\r\n<div class=\"top_nav\">\r\n    <div class=\"nav_menu\">\r\n        <nav>\r\n            <div class=\"nav toggle\">\r\n                <a id=\"menu_toggle\"><i class=\"fa fa-bars\"></i></a>\r\n            </div>\r\n            <ul class=\"nav navbar-nav navbar-right\">\r\n                <li class=\"\">\r\n                    <a href=\"javascript:;\" class=\"user-profile dropdown-toggle\" data-toggle=\"dropdown\" aria-expanded=\"false\">\r\n                        <img alt=\"\">Gurgen Hayrapetyan\r\n                        <span class=\" fa fa-angle-down\"></span>\r\n                    </a>\r\n                    <ul class=\"dropdown-menu dropdown-usermenu pull-right\">\r\n                        <li><a href=\"javascript:;\"> Profile</a></li>\r\n                        <li>\r\n                            <a href=\"javascript:;\">\r\n                                <span class=\"badge bg-red pull-right\">50%</span>\r\n                                <span>Settings</span>\r\n                            </a>\r\n                        </li>\r\n                        <li><a href=\"javascript:;\">Help</a></li>\r\n                        <li><a href=\"/Account/Logout\"><i class=\"fa fa-sign-out pull-right\"></i> Log Out</a></li>\r\n                    </ul>\r\n                </li>\r\n                <li role=\"presentation\" class=\"dropdown\">\r\n                    <a href=\"javascript:;\" class=\"dropdown-toggle info-number\" data-toggle=\"dropdown\" aria-expanded=\"false\">\r\n                        <i class=\"fa fa-envelope-o\"></i>\r\n                        <span class=\"badge bg-green\">6</span>\r\n                    </a>\r\n                    <ul id=\"menu1\" class=\"dropdown-menu list-unstyled msg_list\" role=\"menu\">\r\n                        <li>\r\n                            <a>\r\n                                <span class=\"image\"><img alt=\"Profile Image\" /></span>\r\n                                <span>\r\n                                    <span>John Smith</span>\r\n                                    <span class=\"time\">3 mins ago</span>\r\n                                </span>\r\n                                <span class=\"message\">\r\n                                    Film festivals used to be do-or-die moments for movie makers. They were where...\r\n                                </span>\r\n                            </a>\r\n                        </li>\r\n                        <li>\r\n                            <a>\r\n                                <span class=\"image\"><img alt=\"Profile Image\" /></span>\r\n                                <span>\r\n                                    <span>Gug Hayrap</span>\r\n                                    <span class=\"time\">3 mins ago</span>\r\n                                </span>\r\n                                <span class=\"message\">\r\n                                    Film festivals used to be do-or-die moments for movie makers. They were where...\r\n                                </span>\r\n                            </a>\r\n                        </li>\r\n                        <li>\r\n                            <a>\r\n                                <span class=\"image\"><img alt=\"Profile Image\" /></span>\r\n                                <span>\r\n                                    <span>Gug Hayrap</span>\r\n                                    <span class=\"time\">3 mins ago</span>\r\n                                </span>\r\n                                <span class=\"message\">\r\n                                    Film festivals used to be do-or-die moments for movie makers. They were where...\r\n                                </span>\r\n                            </a>\r\n                        </li>\r\n                        <li>\r\n                            <a>\r\n                                <span class=\"image\"><img alt=\"Profile Image\" /></span>\r\n                                <span>\r\n                                    <span>Gug Hayrap</span>\r\n                                    <span class=\"time\">3 mins ago</span>\r\n                                </span>\r\n                                <span class=\"message\">\r\n                                    Film festivals used to be do-or-die moments for movie makers. They were where...\r\n                                </span>\r\n                            </a>\r\n                        </li>\r\n                        <li>\r\n                            <div class=\"text-center\">\r\n                                <a>\r\n                                    <strong>See All Alerts</strong>\r\n                                    <i class=\"fa fa-angle-right\"></i>\r\n                                </a>\r\n                            </div>\r\n                        </li>\r\n                    </ul>\r\n                </li>\r\n            </ul>\r\n        </nav>\r\n    </div>\r\n</div>\r\n<!-- /top navigation -->\r\n<!-- page content -->\r\n<div class=\"right_col\" role=\"main\" style=\"background-color:aliceblue\">\r\n    <router-outlet></router-outlet>\r\n</div>\r\n<!-- /page content -->\r\n";
 
 /***/ }),
-/* 71 */
+/* 70 */
 /***/ (function(module, exports) {
 
 module.exports = "<div id=\"myModal\" class=\"customerModal\" *ngIf=\"show==true\">\r\n    <!-- Modal content -->\r\n    <div class=\"customModalHeader\">\r\n        Share log with coworkers\r\n        <span class=\"customeModalClose\"><i class=\"fa fa-times\" aria-hidden=\"true\"></i></span>\r\n    </div>\r\n    <div class=\"customerModalContent\">\r\n        <!--<span class=\"close\">&times;</span>\r\n        <p>Some text in the Modal..</p>-->\r\n        <div class=\"input-group\" style=\"margin-bottom:1px\">\r\n            <span class=\"input-group-addon\" id=\"btnGroupAddon\"><i class=\"fa fa-envelope\" aria-hidden=\"true\"></i></span>\r\n            <input type=\"text\" class=\"form-control\" placeholder=\"Email\" aria-describedby=\"btnGroupAddon\">\r\n        </div>\r\n        <div class=\"form-group\">\r\n            <textarea class=\"form-control\" rows=\"6\" id=\"comment\" placeholder=\"Subject\"></textarea>\r\n        </div>\r\n    </div>\r\n    <div class=\"customModalFooter\">\r\n        <div class=\"btn-group\">\r\n            <button type=\"button\" class=\"btn btn-primary\" (click)=\"shareLog()\" style=\"background-color:#2a3f54\">\r\n                <!--<i class=\"fa fa-share\" aria-hidden=\"true\"></i>--> Save\r\n            </button>\r\n            <button type=\"button\" class=\"btn btn-default\" (click)=\"shareLog()\">\r\n                <!--<i class=\"fa fa-share\" aria-hidden=\"true\"></i>--> Cansel\r\n            </button>\r\n        </div>\r\n    </div>\r\n</div>\r\n\r\n\r\n\r\n";
 
 /***/ }),
-/* 72 */
+/* 71 */
 /***/ (function(module, exports) {
 
 module.exports = "  <!-- top tiles -->\r\n<div class=\"row tile_count\">\r\n        <h1 style=\"text-align:center\"> Welcome to LogViewer, select the project for logs...</h1>\r\n</div>\r\n";
 
 /***/ }),
-/* 73 */
+/* 72 */
 /***/ (function(module, exports) {
 
 module.exports = "<h3 style=\"text-align:center\">Aparik Texum Logs</h3>           \r\n<div id=\"logContent\" *ngIf=\"forecasts\">\r\n                    <div class=\"tblHeader\">\r\n                        <div class=\"tblCell col1\">#</div>\r\n                        <div class=\"tblCell col2\">First Name</div>\r\n                        <div class=\"tblCell col3\">Last Name</div>\r\n                    </div>\r\n                    <div *ngFor=\"let m of forecasts\" class=\"tblRow\">\r\n                        <div class=\"logMain\" (click)=\"openLog(m)\">\r\n                            <div class=\"tblCell col1\">{{m.dateFormatted}}</div>\r\n                            <div class=\"tblCell col2\">{{m.temperatureC}}</div>\r\n                            <div class=\"tblCell col3\">{{m.temperatureF}}</div>\r\n                        </div>\r\n                        <div *ngIf=\"m.show\" class=\"logDetails\" >\r\n                            <div style=\"height:300px;\">\r\n                                <h3 style=\"text-align:center\">Stack Trace</h3>\r\n                                <div style=\"color:red\">\r\n                                    ConsoleApplication1.MyCustomException: some message .... ---> System.Exception: Oh noes!\r\n                                    at ConsoleApplication1.SomeObject.OtherMethod() in C:\\ConsoleApplication1\\SomeObject.cs:line 24\r\n                                    at ConsoleApplication1.SomeObject..ctor() in C:\\ConsoleApplication1\\SomeObject.cs:line 14\r\n                                    --- End of inner exception stack trace ---\r\n                                    at ConsoleApplication1.SomeObject..ctor() in C:\\ConsoleApplication1\\SomeObject.cs:line 18\r\n                                    at ConsoleApplication1.Program.DoSomething() in C:\\ConsoleApplication1\\Program.cs:line 23\r\n                                    at ConsoleApplication1.Program.Main(String[] args) in C:\\ConsoleApplication1\\Program.cs:line 13\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n\r\n\r\n";
 
 /***/ }),
-/* 74 */
+/* 73 */
 /***/ (function(module, exports) {
 
 module.exports = "<h3 style=\"text-align:center\">Customers logs</h3>           \r\n<div id=\"logContent\" *ngIf=\"forecasts\">\r\n                    <div class=\"tblHeader\">\r\n                        <div class=\"tblCell col1\">#</div>\r\n                        <div class=\"tblCell col2\">First Name</div>\r\n                        <div class=\"tblCell col3\">Last Name</div>\r\n                    </div>\r\n                    <div *ngFor=\"let m of forecasts\" class=\"tblRow\">\r\n                        <div class=\"logMain\" (click)=\"openLog(m)\">\r\n                            <div class=\"tblCell col1\">{{m.dateFormatted}}</div>\r\n                            <div class=\"tblCell col2\">{{m.temperatureC}}</div>\r\n                            <div class=\"tblCell col3\">{{m.temperatureF}}</div>\r\n                        </div>\r\n                        <div *ngIf=\"m.show\" class=\"logDetails\" >\r\n                            <div style=\"height:300px;\">\r\n                                <h3 style=\"text-align:center\">Stack Trace</h3>\r\n                                <div style=\"color:red\">\r\n                                    ConsoleApplication1.MyCustomException: some message .... ---> System.Exception: Oh noes!\r\n                                    at ConsoleApplication1.SomeObject.OtherMethod() in C:\\ConsoleApplication1\\SomeObject.cs:line 24\r\n                                    at ConsoleApplication1.SomeObject..ctor() in C:\\ConsoleApplication1\\SomeObject.cs:line 14\r\n                                    --- End of inner exception stack trace ---\r\n                                    at ConsoleApplication1.SomeObject..ctor() in C:\\ConsoleApplication1\\SomeObject.cs:line 18\r\n                                    at ConsoleApplication1.Program.DoSomething() in C:\\ConsoleApplication1\\Program.cs:line 23\r\n                                    at ConsoleApplication1.Program.Main(String[] args) in C:\\ConsoleApplication1\\Program.cs:line 13\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n\r\n\r\n";
 
 /***/ }),
+/* 74 */
+/***/ (function(module, exports) {
+
+module.exports = "<h3 style=\"text-align:center\">Front logs</h3>\r\n<div class=\"container\" style=\"height:650px;overflow:auto\">\r\n    <div style=\"height:600px;overflow:auto\">\r\n        <table class=\"table  table-hover table-striped\" style=\"table-layout:fixed\">\r\n            <thead>\r\n                <tr>\r\n                    <!--<th>Id</th>-->\r\n                    <th>CreatedOn</th>\r\n                    <th>Logger</th>\r\n                    <th>LogLevel</th>\r\n                    <th>ExceptionType</th>\r\n                    <th>Message</th>\r\n                    <th>StackTrace</th>\r\n                    <th>ClientIp</th>\r\n                    <th>UserName</th>\r\n                    <th></th>\r\n                </tr>\r\n            </thead>\r\n            <tbody>\r\n                <tr *ngFor=\"let log of logs\" (dblclick)=\"openLogDetails(log.id)\" style=\"cursor:pointer\">\r\n                    <!--<td>{{log.id}}</td>-->\r\n                    <td>{{log.createdOn | date: 'dd/MM/yyyy'}}</td>\r\n                    <td style=\"white-space: nowrap;overflow: hidden;text-overflow: ellipsis;\">{{log.logger}}</td>\r\n                    <td>{{log.logLevel}}</td>\r\n                    <td style=\"white-space: nowrap;overflow: hidden;text-overflow: ellipsis;\">{{log.message}} </td>\r\n                    <td style=\"white-space: nowrap;overflow: hidden;text-overflow: ellipsis;\">{{log.exceptionType}}</td>\r\n                    <td style=\"white-space: nowrap;overflow: hidden;text-overflow: ellipsis;\">{{log.stackTrace}}</td>\r\n                    <td>{{log.clientIp}}</td>\r\n                    <td>{{log.userName}}</td>\r\n                    <td style=\"width:15px\">\r\n                        <div class=\"btn-group\">\r\n                            <button type=\"button\" class=\"btn btn-default\" (click)=\"shareLog()\" data-placement=\"bottom\" data-toggle=\"tooltip\" data-original-title=\"Share\">\r\n                                <i class=\"fa fa-share\" aria-hidden=\"true\"></i> Share\r\n                            </button>\r\n                        </div>\r\n                    </td>\r\n                </tr>\r\n            </tbody>\r\n        </table>\r\n    </div>\r\n\r\n</div>\n\r\n    <!--<email [logId]=\"100\" [show]=\"showEmailForm\"></email>-->\r\n    <toaster-container ></toaster-container>\r\n\r\n    <div id=\"myModal\" class=\"customerModal\" *ngIf=\"showEmailForm\">\r\n        <!-- Modal content -->\r\n        <div class=\"customModalHeader\">\r\n            Share log with coworkers\r\n            <span class=\"customeModalClose\" (click)=\"closeEmailForm()\"><i class=\"fa fa-times\" aria-hidden=\"true\"></i></span>\r\n        </div>\r\n        <div class=\"customerModalContent\">\r\n            <!--<span class=\"close\">&times;</span>\r\n            <p>Some text in the Modal..</p>-->\r\n            <div class=\"input-group\" style=\"margin-bottom:1px\">\r\n                <span class=\"input-group-addon\" id=\"btnGroupAddon\"><i class=\"fa fa-envelope\" aria-hidden=\"true\"></i></span>\r\n                <input [(ngModel)]=\"email\"  type=\"text\" class=\"form-control\" placeholder=\"Email\" aria-describedby=\"btnGroupAddon\">\r\n            </div>\r\n            <div class=\"form-group\">\r\n                <textarea [(ngModel)]=\"emailSubject\" class=\"form-control\" rows=\"6\" id=\"comment\" placeholder=\"Subject\"></textarea>\r\n            </div>\r\n        </div>\r\n        <div class=\"customModalFooter\">\r\n            <div class=\"btn-group\">\r\n                <button type=\"button\" class=\"btn btn-primary\" (click)=\"sendEmail()\"  style=\"background-color:#2a3f54\">\r\n                    <!--<i class=\"fa fa-share\" aria-hidden=\"true\"></i>--> Save\r\n                </button>\r\n                <button type=\"button\" class=\"btn btn-default\" (click)=\"popToast()\">\r\n                    <!--<i class=\"fa fa-share\" aria-hidden=\"true\"></i>--> Cansel\r\n                </button>\r\n            </div>\r\n        </div>\r\n    </div>\r\n\r\n\r\n\r\n\r\n\r\n";
+
+/***/ }),
 /* 75 */
 /***/ (function(module, exports) {
 
-module.exports = "<h3 style=\"text-align:center\">Front logs</h3>\r\n<div class=\"container\" style=\"height:650px;overflow:auto\">\r\n    <div style=\"height:600px;overflow:auto\">\r\n        <table class=\"table  table-hover table-striped\">\r\n            <thead>\r\n                <tr>\r\n                    <th>Id</th>\r\n                    <th>Message</th>\r\n                    <th>Inner Exception</th>\r\n                    <th>Stack Trace</th>\r\n                    <th style=\"max-width:15px\"></th>\r\n                </tr>\r\n            </thead>\r\n            <tbody>\r\n                <tr *ngFor=\"let log of logs\">\r\n                    <td>{{log.logId}}</td>\r\n                    <td>{{log.message}}</td>\r\n                    <td>{{log.stacktrace}}</td>\r\n                    <td> {{log.innerException}}</td>\r\n                    <td style=\"width:15px\">\r\n                        <div  class=\"btn-group\">\r\n                            <button type=\"button\" class=\"btn btn-default\" (click)=\"shareLog()\" data-placement=\"bottom\" data-toggle=\"tooltip\" data-original-title=\"Share\">\r\n                                <i class=\"fa fa-share\" aria-hidden=\"true\"></i> Share\r\n                            </button>\r\n                        </div>\r\n                    </td>\r\n                </tr>\r\n            </tbody>\r\n        </table>\r\n    </div>\r\n    <!--<email [logId]=\"100\" [show]=\"showEmailForm\"></email>-->\r\n    <toaster-container ></toaster-container>\r\n\r\n    <div id=\"myModal\" class=\"customerModal\" *ngIf=\"showEmailForm\">\r\n        <!-- Modal content -->\r\n        <div class=\"customModalHeader\">\r\n            Share log with coworkers\r\n            <span class=\"customeModalClose\" (click)=\"closeEmailForm()\"><i class=\"fa fa-times\" aria-hidden=\"true\"></i></span>\r\n        </div>\r\n        <div class=\"customerModalContent\">\r\n            <!--<span class=\"close\">&times;</span>\r\n            <p>Some text in the Modal..</p>-->\r\n            <div class=\"input-group\" style=\"margin-bottom:1px\">\r\n                <span class=\"input-group-addon\" id=\"btnGroupAddon\"><i class=\"fa fa-envelope\" aria-hidden=\"true\"></i></span>\r\n                <input [(ngModel)]=\"email\"  type=\"text\" class=\"form-control\" placeholder=\"Email\" aria-describedby=\"btnGroupAddon\">\r\n            </div>\r\n            <div class=\"form-group\">\r\n                <textarea [(ngModel)]=\"emailSubject\" class=\"form-control\" rows=\"6\" id=\"comment\" placeholder=\"Subject\"></textarea>\r\n            </div>\r\n        </div>\r\n        <div class=\"customModalFooter\">\r\n            <div class=\"btn-group\">\r\n                <button type=\"button\" class=\"btn btn-primary\" (click)=\"sendEmail()\"  style=\"background-color:#2a3f54\">\r\n                    <!--<i class=\"fa fa-share\" aria-hidden=\"true\"></i>--> Save\r\n                </button>\r\n                <button type=\"button\" class=\"btn btn-default\" (click)=\"popToast()\">\r\n                    <!--<i class=\"fa fa-share\" aria-hidden=\"true\"></i>--> Cansel\r\n                </button>\r\n            </div>\r\n        </div>\r\n    </div>\r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n";
+module.exports = "<div style=\"text-align:center\">Log Details</div>\r\n<div>\r\n    <div id=\"navBar\" *ngIf=\"log\">\r\n        <input id=\"tab1\" type=\"radio\" name=\"tabs\" checked>\r\n        <label for=\"tab1\">Stack Trace</label>\r\n        <input id=\"tab2\" type=\"radio\" name=\"tabs\">\r\n        <label for=\"tab2\">Message</label>\r\n        <input id=\"tab3\" type=\"radio\" name=\"tabs\">\r\n        <label for=\"tab3\">Exception Type</label>\r\n        <input id=\"tab4\" type=\"radio\" name=\"tabs\">\r\n        <section id=\"content1\">\r\n            <div *ngFor=\"let x of log.stakTraceFull\">\r\n                <div *ngIf=\"x.lines.length==1\">\r\n                    {{x.lines[0]}}\r\n                </div>\r\n                <div *ngIf=\"x.lines.length==2\">\r\n                    <span>{{x.lines[0]}}</span>\r\n                    <span href=\"\" style=\"color:green;cursor:pointer;text-decoration:underline\" (click)=\"getFileContentFromTfs(x.lines[1])\">{{x.lines[1]}}</span>\r\n                </div>\r\n            </div>\r\n        </section>\r\n        <section id=\"content2\">{{log.message}}  </section>\r\n        <section id=\"content3\">{{log.exceptionType}} </section>\r\n\r\n    </div>\r\n    <div id=\"fileDetails\">\r\n        <codemirror [(ngModel)]=\"content\" [config]=\"config\"></codemirror>\r\n    </div>\r\n</div>\r\n";
 
 /***/ }),
 /* 76 */
 /***/ (function(module, exports) {
 
-module.exports = "<div style=\"text-align:center\">Log Details</div>\r\n<div>\r\n    <div id=\"navBar\" style=\"\">\r\n        <input id=\"tab1\" type=\"radio\" name=\"tabs\" checked>\r\n        <label for=\"tab1\">Codepen</label>\r\n\r\n        <input id=\"tab2\" type=\"radio\" name=\"tabs\">\r\n        <label for=\"tab2\">Dribbble</label>\r\n\r\n        <input id=\"tab3\" type=\"radio\" name=\"tabs\">\r\n        <label for=\"tab3\">Dropbox</label>\r\n\r\n        <input id=\"tab4\" type=\"radio\" name=\"tabs\">\r\n        <label for=\"tab4\">Drupal</label>\r\n\r\n        <section id=\"content1\">\r\n            <p>\r\n                Bacon ipsum dolor sit amet beef venison beef ribs kielbasa. Sausage pig leberkas, t-bone sirloin shoulder bresaola. Frankfurter rump porchetta ham. Pork belly prosciutto brisket meatloaf short ribs.\r\n            </p>\r\n            <p>\r\n                Brisket meatball turkey short loin boudin leberkas meatloaf chuck andouille pork loin pastrami spare ribs pancetta rump. Frankfurter corned beef beef tenderloin short loin meatloaf swine ground round venison.\r\n            </p>\r\n        </section>\r\n\r\n        <section id=\"content2\">\r\n            <p>\r\n                Bacon ipsum dolor sit amet landjaeger sausage brisket, jerky drumstick fatback boudin ball tip turducken. Pork belly meatball t-bone bresaola tail filet mignon kevin turkey ribeye shank flank doner cow kielbasa shankle. Pig swine chicken hamburger, tenderloin turkey rump ball tip sirloin frankfurter meatloaf boudin brisket ham hock. Hamburger venison brisket tri-tip andouille pork belly ball tip short ribs biltong meatball chuck. Pork chop ribeye tail short ribs, beef hamburger meatball kielbasa rump corned beef porchetta landjaeger flank. Doner rump frankfurter meatball meatloaf, cow kevin pork pork loin venison fatback spare ribs salami beef ribs.\r\n            </p>\r\n            <p>\r\n                Jerky jowl pork chop tongue, kielbasa shank venison. Capicola shank pig ribeye leberkas filet mignon brisket beef kevin tenderloin porchetta. Capicola fatback venison shank kielbasa, drumstick ribeye landjaeger beef kevin tail meatball pastrami prosciutto pancetta. Tail kevin spare ribs ground round ham ham hock brisket shoulder. Corned beef tri-tip leberkas flank sausage ham hock filet mignon beef ribs pancetta turkey.\r\n            </p>\r\n        </section>\r\n\r\n        <section id=\"content3\">\r\n            <p>\r\n                Bacon ipsum dolor sit amet beef venison beef ribs kielbasa. Sausage pig leberkas, t-bone sirloin shoulder bresaola. Frankfurter rump porchetta ham. Pork belly prosciutto brisket meatloaf short ribs.\r\n            </p>\r\n            <p>\r\n                Brisket meatball turkey short loin boudin leberkas meatloaf chuck andouille pork loin pastrami spare ribs pancetta rump. Frankfurter corned beef beef tenderloin short loin meatloaf swine ground round venison.\r\n            </p>\r\n        </section>\r\n\r\n        <section id=\"content4\">\r\n            <p>\r\n                Bacon ipsum dolor sit amet landjaeger sausage brisket, jerky drumstick fatback boudin ball tip turducken. Pork belly meatball t-bone bresaola tail filet mignon kevin turkey ribeye shank flank doner cow kielbasa shankle. Pig swine chicken hamburger, tenderloin turkey rump ball tip sirloin frankfurter meatloaf boudin brisket ham hock. Hamburger venison brisket tri-tip andouille pork belly ball tip short ribs biltong meatball chuck. Pork chop ribeye tail short ribs, beef hamburger meatball kielbasa rump corned beef porchetta landjaeger flank. Doner rump frankfurter meatball meatloaf, cow kevin pork pork loin venison fatback spare ribs salami beef ribs.\r\n            </p>\r\n            <p>\r\n                Jerky jowl pork chop tongue, kielbasa shank venison. Capicola shank pig ribeye leberkas filet mignon brisket beef kevin tenderloin porchetta. Capicola fatback venison shank kielbasa, drumstick ribeye landjaeger beef kevin tail meatball pastrami prosciutto pancetta. Tail kevin spare ribs ground round ham ham hock brisket shoulder. Corned beef tri-tip leberkas flank sausage ham hock filet mignon beef ribs pancetta turkey.\r\n            </p>\r\n        </section>\r\n    </div>\r\n    <div id=\"fileDetails\">\r\n            <codemirror [(ngModel)]=\"content\" [config]=\"config\"></codemirror>\r\n    </div>\r\n</div>\r\n<email [logId]=\"100\"></email>\r\n";
+module.exports = "<div>Orders</div>";
 
 /***/ }),
 /* 77 */
 /***/ (function(module, exports) {
 
-module.exports = "<div>Orders</div>";
-
-/***/ }),
-/* 78 */
-/***/ (function(module, exports) {
-
 module.exports = "<div class=\"col-md-6 \">\r\n        <div class=\"x_panel\" style=\"height:700px\">\r\n            <div class=\"x_title\">\r\n                <div class=\"btn-group\">\r\n                    <button style=\"color:#568856\" type=\"button\" class=\"btn btn-default\" (click)=\"executeQuery()\" data-placement=\"bottom\" data-toggle=\"tooltip\"  data-original-title=\"Execute query\">\r\n                    <span class=\"glyphicon glyphicon-play-circle\" style=\"color:#82a782\"> \r\n                        </span>Execute\r\n                    </button>\r\n                    <button style=\"color:#b56780\" type=\"button\" class=\"btn btn-default\" (click)=\"cleanEditor()\" data-placement=\"bottom\" data-toggle=\"tooltip\"  data-original-title=\"Clean editor\">\r\n                       <i class=\"fa fa-trash-o\" aria-hidden=\"true\" style=\"margin-left:1px\"></i>Clean\r\n                    </button>\r\n                </div>\r\n                <div class=\"clearfix\"></div>\r\n            </div>\r\n            <div class=\"x_content\">\r\n                <br>\r\n            <codemirror [(ngModel)]=\"content\" [config]=\"config\" (blur)=\"setSelected(instance,$event)\"></codemirror>\r\n                <div style=\"height:100px; background-color:aliceblue\">\r\n\r\n                    \r\n                </div>\r\n                \r\n           </div>\r\n        </div>\r\n    </div>\r\n    <div class=\"col-md-6\">\r\n        <div class=\"x_panel\" style=\"height:700px;overflow-y:auto\">\r\n            <div class=\"x_title\">\r\n                <h2 style=\"text-align:center\">Query results </h2>\r\n                <div class=\"clearfix\"></div>\r\n            </div>\r\n            <div class=\"x_content\">\r\n                <br>\r\n                <div *ngFor=\"let t of sqlResult; let i = index\" style=\"max-height:200px;overflow:auto;margin:15px;\">\r\n                    <table class='queryResultTbl'>\r\n                        <thead>\r\n                            <tr>\r\n                                <th *ngFor=\"let c of t.columns\">{{c}}</th>\r\n                            </tr>\r\n                        </thead>\r\n                        <tbody>\r\n                            <tr *ngFor=\"let r of t.rows;let j = index\" >\r\n                                <td *ngFor=\"let c of r; let k = index\"> <textarea class=\"initTextArea\" id=\"textArea_{{i}}_{{j}}_{{k}}\"  (blur)=\"textAreaBlur($event)\" readonly> {{c}}  </textarea>   </td>\r\n                            </tr>\r\n                        </tbody>\r\n                    </table>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n\r\n<style>\r\n    .map-container-inner {\r\n        width: 800px;\r\n        height: 800px;\r\n    }\r\n</style>\r\n\r\n";
 
 /***/ }),
-/* 79 */
+/* 78 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* unused harmony export InfiniteScrollDirective */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return InfiniteScrollModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_observable_fromEvent__ = __webpack_require__(85);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_observable_fromEvent__ = __webpack_require__(84);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_observable_fromEvent___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_add_observable_fromEvent__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_observable_of__ = __webpack_require__(86);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_observable_of__ = __webpack_require__(85);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_observable_of___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_add_observable_of__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_filter__ = __webpack_require__(87);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_filter__ = __webpack_require__(86);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_filter___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_filter__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_mergeMap__ = __webpack_require__(88);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_mergeMap__ = __webpack_require__(87);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_mergeMap___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_add_operator_mergeMap__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_add_operator_sampleTime__ = __webpack_require__(89);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_add_operator_sampleTime__ = __webpack_require__(88);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_add_operator_sampleTime___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_rxjs_add_operator_sampleTime__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_rxjs_Observable__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_rxjs_Observable__);
@@ -21063,7 +21501,7 @@ InfiniteScrollModule.ctorParameters = function () { return []; };
 
 
 /***/ }),
-/* 80 */
+/* 79 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21154,7 +21592,7 @@ var isArray = Array.isArray || function (xs) {
 
 
 /***/ }),
-/* 81 */
+/* 80 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21246,18 +21684,18 @@ var objectKeys = Object.keys || function (obj) {
 
 
 /***/ }),
-/* 82 */
+/* 81 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-exports.decode = exports.parse = __webpack_require__(80);
-exports.encode = exports.stringify = __webpack_require__(81);
+exports.decode = exports.parse = __webpack_require__(79);
+exports.encode = exports.stringify = __webpack_require__(80);
 
 
 /***/ }),
-/* 83 */
+/* 82 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(process, global) {/*! *****************************************************************************
@@ -22385,10 +22823,10 @@ var Reflect;
             Function("return this;")());
 })(Reflect || (Reflect = {}));
 //# sourceMappingURL=Reflect.js.map
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(118), __webpack_require__(117)))
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(117), __webpack_require__(116)))
 
 /***/ }),
-/* 84 */
+/* 83 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22443,18 +22881,18 @@ exports.Scheduler = Scheduler;
 //# sourceMappingURL=Scheduler.js.map
 
 /***/ }),
-/* 85 */
+/* 84 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 var Observable_1 = __webpack_require__(2);
-var fromEvent_1 = __webpack_require__(92);
+var fromEvent_1 = __webpack_require__(91);
 Observable_1.Observable.fromEvent = fromEvent_1.fromEvent;
 //# sourceMappingURL=fromEvent.js.map
 
 /***/ }),
-/* 86 */
+/* 85 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22465,15 +22903,27 @@ Observable_1.Observable.of = of_1.of;
 //# sourceMappingURL=of.js.map
 
 /***/ }),
+/* 86 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var Observable_1 = __webpack_require__(2);
+var filter_1 = __webpack_require__(112);
+Observable_1.Observable.prototype.filter = filter_1.filter;
+//# sourceMappingURL=filter.js.map
+
+/***/ }),
 /* 87 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 var Observable_1 = __webpack_require__(2);
-var filter_1 = __webpack_require__(113);
-Observable_1.Observable.prototype.filter = filter_1.filter;
-//# sourceMappingURL=filter.js.map
+var mergeMap_1 = __webpack_require__(118);
+Observable_1.Observable.prototype.mergeMap = mergeMap_1.mergeMap;
+Observable_1.Observable.prototype.flatMap = mergeMap_1.mergeMap;
+//# sourceMappingURL=mergeMap.js.map
 
 /***/ }),
 /* 88 */
@@ -22482,10 +22932,9 @@ Observable_1.Observable.prototype.filter = filter_1.filter;
 "use strict";
 
 var Observable_1 = __webpack_require__(2);
-var mergeMap_1 = __webpack_require__(119);
-Observable_1.Observable.prototype.mergeMap = mergeMap_1.mergeMap;
-Observable_1.Observable.prototype.flatMap = mergeMap_1.mergeMap;
-//# sourceMappingURL=mergeMap.js.map
+var sampleTime_1 = __webpack_require__(92);
+Observable_1.Observable.prototype.sampleTime = sampleTime_1.sampleTime;
+//# sourceMappingURL=sampleTime.js.map
 
 /***/ }),
 /* 89 */
@@ -22494,23 +22943,12 @@ Observable_1.Observable.prototype.flatMap = mergeMap_1.mergeMap;
 "use strict";
 
 var Observable_1 = __webpack_require__(2);
-var sampleTime_1 = __webpack_require__(93);
-Observable_1.Observable.prototype.sampleTime = sampleTime_1.sampleTime;
-//# sourceMappingURL=sampleTime.js.map
-
-/***/ }),
-/* 90 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-var Observable_1 = __webpack_require__(2);
-var share_1 = __webpack_require__(114);
+var share_1 = __webpack_require__(113);
 Observable_1.Observable.prototype.share = share_1.share;
 //# sourceMappingURL=share.js.map
 
 /***/ }),
-/* 91 */
+/* 90 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22521,10 +22959,10 @@ var __extends = (this && this.__extends) || function (d, b) {
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
 var Observable_1 = __webpack_require__(2);
-var tryCatch_1 = __webpack_require__(115);
-var isFunction_1 = __webpack_require__(121);
-var errorObject_1 = __webpack_require__(120);
-var Subscription_1 = __webpack_require__(23);
+var tryCatch_1 = __webpack_require__(114);
+var isFunction_1 = __webpack_require__(120);
+var errorObject_1 = __webpack_require__(119);
+var Subscription_1 = __webpack_require__(24);
 var toString = Object.prototype.toString;
 function isNodeStyleEventEmitter(sourceObj) {
     return !!sourceObj && typeof sourceObj.addListener === 'function' && typeof sourceObj.removeListener === 'function';
@@ -22656,17 +23094,17 @@ exports.FromEventObservable = FromEventObservable;
 //# sourceMappingURL=FromEventObservable.js.map
 
 /***/ }),
-/* 92 */
+/* 91 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var FromEventObservable_1 = __webpack_require__(91);
+var FromEventObservable_1 = __webpack_require__(90);
 exports.fromEvent = FromEventObservable_1.FromEventObservable.create;
 //# sourceMappingURL=fromEvent.js.map
 
 /***/ }),
-/* 93 */
+/* 92 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22676,8 +23114,8 @@ var __extends = (this && this.__extends) || function (d, b) {
     function __() { this.constructor = d; }
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
-var Subscriber_1 = __webpack_require__(112);
-var async_1 = __webpack_require__(97);
+var Subscriber_1 = __webpack_require__(111);
+var async_1 = __webpack_require__(96);
 /**
  * Emits the most recently emitted value from the source Observable within
  * periodic time intervals.
@@ -22763,7 +23201,7 @@ function dispatchNotification(state) {
 //# sourceMappingURL=sampleTime.js.map
 
 /***/ }),
-/* 94 */
+/* 93 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22773,7 +23211,7 @@ var __extends = (this && this.__extends) || function (d, b) {
     function __() { this.constructor = d; }
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
-var Subscription_1 = __webpack_require__(23);
+var Subscription_1 = __webpack_require__(24);
 /**
  * A unit of work to be executed in a {@link Scheduler}. An action is typically
  * created from within a Scheduler and an RxJS user does not need to concern
@@ -22813,7 +23251,7 @@ exports.Action = Action;
 //# sourceMappingURL=Action.js.map
 
 /***/ }),
-/* 95 */
+/* 94 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22824,7 +23262,7 @@ var __extends = (this && this.__extends) || function (d, b) {
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
 var root_1 = __webpack_require__(123);
-var Action_1 = __webpack_require__(94);
+var Action_1 = __webpack_require__(93);
 /**
  * We need this JSDoc comment for affecting ESDoc.
  * @ignore
@@ -22961,7 +23399,7 @@ exports.AsyncAction = AsyncAction;
 //# sourceMappingURL=AsyncAction.js.map
 
 /***/ }),
-/* 96 */
+/* 95 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22971,7 +23409,7 @@ var __extends = (this && this.__extends) || function (d, b) {
     function __() { this.constructor = d; }
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
-var Scheduler_1 = __webpack_require__(84);
+var Scheduler_1 = __webpack_require__(83);
 var AsyncScheduler = (function (_super) {
     __extends(AsyncScheduler, _super);
     function AsyncScheduler() {
@@ -23018,13 +23456,13 @@ exports.AsyncScheduler = AsyncScheduler;
 //# sourceMappingURL=AsyncScheduler.js.map
 
 /***/ }),
-/* 97 */
+/* 96 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var AsyncAction_1 = __webpack_require__(95);
-var AsyncScheduler_1 = __webpack_require__(96);
+var AsyncAction_1 = __webpack_require__(94);
+var AsyncScheduler_1 = __webpack_require__(95);
 /**
  *
  * Async Scheduler
@@ -23071,17 +23509,31 @@ exports.async = new AsyncScheduler_1.AsyncScheduler(AsyncAction_1.AsyncAction);
 //# sourceMappingURL=async.js.map
 
 /***/ }),
-/* 98 */
+/* 97 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var ansiRegex = __webpack_require__(42)();
+var ansiRegex = __webpack_require__(41)();
 
 module.exports = function (str) {
 	return typeof str === 'string' ? str.replace(ansiRegex, '') : str;
 };
 
+
+/***/ }),
+/* 98 */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+        var result = __webpack_require__(56);
+
+        if (typeof result === "string") {
+            module.exports = result;
+        } else {
+            module.exports = result.toString();
+        }
+    
 
 /***/ }),
 /* 99 */
@@ -23213,20 +23665,6 @@ module.exports = function (str) {
 /* 108 */
 /***/ (function(module, exports, __webpack_require__) {
 
-
-        var result = __webpack_require__(66);
-
-        if (typeof result === "string") {
-            module.exports = result;
-        } else {
-            module.exports = result.toString();
-        }
-    
-
-/***/ }),
-/* 109 */
-/***/ (function(module, exports, __webpack_require__) {
-
 /*eslint-env browser*/
 
 var clientOverlay = document.createElement('div');
@@ -23253,7 +23691,7 @@ for (var key in styles) {
   clientOverlay.style[key] = styles[key];
 }
 
-var ansiHTML = __webpack_require__(41);
+var ansiHTML = __webpack_require__(40);
 var colors = {
   reset: ['transparent', 'transparent'],
   black: '181818',
@@ -23268,7 +23706,7 @@ var colors = {
 };
 ansiHTML.setColors(colors);
 
-var Entities = __webpack_require__(67).AllHtmlEntities;
+var Entities = __webpack_require__(66).AllHtmlEntities;
 var entities = new Entities();
 
 exports.showProblems =
@@ -23309,7 +23747,7 @@ function problemType (type) {
 
 
 /***/ }),
-/* 110 */
+/* 109 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /**
@@ -23447,7 +23885,7 @@ module.exports = function(hash, moduleMap, options) {
 
 
 /***/ }),
-/* 111 */
+/* 110 */
 /***/ (function(module, exports) {
 
 module.exports = function(module) {
@@ -23475,70 +23913,76 @@ module.exports = function(module) {
 
 
 /***/ }),
-/* 112 */
+/* 111 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(1);
 
 /***/ }),
-/* 113 */
+/* 112 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(103);
 
 /***/ }),
-/* 114 */
+/* 113 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(110);
 
 /***/ }),
-/* 115 */
+/* 114 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(113);
 
 /***/ }),
-/* 116 */
+/* 115 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(13);
 
 /***/ }),
-/* 117 */
+/* 116 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(2);
 
 /***/ }),
-/* 118 */
+/* 117 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(5);
 
 /***/ }),
-/* 119 */
+/* 118 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(51);
 
 /***/ }),
-/* 120 */
+/* 119 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(53);
 
 /***/ }),
-/* 121 */
+/* 120 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(55);
 
 /***/ }),
-/* 122 */
+/* 121 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(1))(63);
+
+/***/ }),
+/* 122 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = (__webpack_require__(1))(65);
 
 /***/ }),
 /* 123 */
@@ -23562,9 +24006,9 @@ module.exports = (__webpack_require__(1))(98);
 /* 126 */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(30);
 __webpack_require__(29);
-module.exports = __webpack_require__(28);
+__webpack_require__(28);
+module.exports = __webpack_require__(27);
 
 
 /***/ })

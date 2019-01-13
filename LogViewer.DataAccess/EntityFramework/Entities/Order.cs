@@ -7,11 +7,9 @@ using System.Threading.Tasks;
 
 namespace LogViewer.DataAccess.EntityFramework.Entities
 {
-    public class Log
+    public class Order
     {
         public int LogId { get; set; }
         public string Message { get; set; }
-        public string StackTrace { get; set; }
-        public string InnerException { get; set; }
     }
 }

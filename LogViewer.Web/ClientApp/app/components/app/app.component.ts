@@ -10,14 +10,14 @@ export class AppComponent implements OnInit {
 
     ngOnInit(): void {
 
-        let connection = new HubConnection('/message');
+        //let connection = new HubConnection('/message');
 
-        connection.on('send', data => {
-            console.log(data);
-        });
+        //connection.on('send', data => {
+        //    console.log(data);
+        //});
 
-        connection.start()
-            .then(() => console.log('Connected'));
+        //connection.start()
+        //    .then(() => console.log('Connected'));
     }
 
 }

@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using LogViewer.Web.Models;
+
 
 namespace LogViewer.Web.Controllers
 {
@@ -33,10 +33,6 @@ namespace LogViewer.Web.Controllers
         {
 
             return View();
-        }
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }

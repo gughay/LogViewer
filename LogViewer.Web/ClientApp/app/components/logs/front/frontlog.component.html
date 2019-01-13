@@ -1,24 +1,34 @@
 <h3 style="text-align:center">Front logs</h3>
 <div class="container" style="height:650px;overflow:auto">
     <div style="height:600px;overflow:auto">
-        <table class="table  table-hover table-striped">
+        <table class="table  table-hover table-striped" style="table-layout:fixed">
             <thead>
                 <tr>
-                    <th>Id</th>
+                    <!--<th>Id</th>-->
+                    <th>CreatedOn</th>
+                    <th>Logger</th>
+                    <th>LogLevel</th>
+                    <th>ExceptionType</th>
                     <th>Message</th>
-                    <th>Inner Exception</th>
-                    <th>Stack Trace</th>
-                    <th style="max-width:15px"></th>
+                    <th>StackTrace</th>
+                    <th>ClientIp</th>
+                    <th>UserName</th>
+                    <th></th>
                 </tr>
             </thead>
             <tbody>
-                <tr *ngFor="let log of logs">
-                    <td>{{log.logId}}</td>
-                    <td>{{log.message}}</td>
-                    <td>{{log.stacktrace}}</td>
-                    <td> {{log.innerException}}</td>
+                <tr *ngFor="let log of logs" (dblclick)="openLogDetails(log.id)" style="cursor:pointer">
+                    <!--<td>{{log.id}}</td>-->
+                    <td>{{log.createdOn | date: 'dd/MM/yyyy'}}</td>
+                    <td style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;">{{log.logger}}</td>
+                    <td>{{log.logLevel}}</td>
+                    <td style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;">{{log.message}} </td>
+                    <td style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;">{{log.exceptionType}}</td>
+                    <td style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;">{{log.stackTrace}}</td>
+                    <td>{{log.clientIp}}</td>
+                    <td>{{log.userName}}</td>
                     <td style="width:15px">
-                        <div  class="btn-group">
+                        <div class="btn-group">
                             <button type="button" class="btn btn-default" (click)="shareLog()" data-placement="bottom" data-toggle="tooltip" data-original-title="Share">
                                 <i class="fa fa-share" aria-hidden="true"></i> Share
                             </button>
@@ -28,6 +38,9 @@
             </tbody>
         </table>
     </div>
+
+</div>
+
     <!--<email [logId]="100" [show]="showEmailForm"></email>-->
     <toaster-container ></toaster-container>
 
@@ -60,7 +73,6 @@
         </div>
     </div>
 
-</div>
 
 
 

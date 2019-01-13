@@ -1,18 +1,22 @@
 ﻿using LogViewer.DataAccess.EntityFramework.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Configuration;
+
 namespace LogViewer.DataAccess.EntityFramework.DBContexts
 {
-   public  class OrderDBContext : DbContext
+    public class LogDBContext : DbContext
     {
-        public DbSet<Order> Orders { get; set; }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder options)
+        public DbSet<Log> Logs { get; set; }
+        public LogDBContext()
         {
-            options.UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=testdb;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            //Database.EnsureCreated();
+        }        protected override void OnConfiguring(DbContextOptionsBuilder options)
+        {
+           // options.UseSqlServer(@"Server=DSL1001;Database=AppLog;Integrated Security=true;connection timeout=100;MultipleActiveResultSets=true;");
         }
-
-
-
-
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
+        //{
+        //    
+        //}
     }
 }
