@@ -1,4 +1,5 @@
-First of all, dont judge stricly please, this project under the development and 
+Hi there,
+first of all, don't judge stricly please, this project under the development and 
 I should apply some improvments for hard coded parts in order to complete).
 I am developing this project for local needs in our company.This is my idea and our managers approved it.
 Each time we want to fix bags we should open SQL Server and find appropriate errors in db (created by NLog  from our projects).
